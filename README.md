@@ -37,7 +37,7 @@ Working prototype, tested on 50 fake notes:
   disease" without hiding real names. Checked on 60 random eponyms. Details in
   `RESULTS.md` Result 3.
 
-Full numbers: `RESULTS.md`. How others do this, and the HIPAA rules:
+Everything learned, short: `LEARNINGS.md`. Full numbers: `RESULTS.md`. How others do this, and the HIPAA rules:
 `LANDSCAPE.md`. Gotcha research: `research/GOTCHAS.md` (what is and isn't PHI)
 and `research/EXISTING-LISTS.md` (open-source word lists).
 
