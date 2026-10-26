@@ -103,3 +103,54 @@ scores were identical across runs.
 - The frontier call is mocked; no real model was called.
 - Thresholds came from one session on one model version (`levanto-sage-v1.3`).
   Re-check them after any Sage update.
+
+## Result 3: gotchas ("Lou Gehrig's disease") — 2026-10-26
+
+Sage flagged "Lou Gehrig's disease" as a leaked name. Can a rule list fix that
+without hiding real leaks?
+
+**Existing lists** (`research/EXISTING-LISTS.md`): Philter, PhysioNet deid, DEDUCE,
+CRATE and CliniDeID ship word lists, and the cloud services ship none. None covers
+this well. Even Philter would redact "Gehrig". **Annotation rules**
+(`research/GOTCHAS.md`): eponyms are not PHI, but the same surname used as a person
+is ("Mr. Epley" vs "Epley maneuver"). Guidelines disagree on months, holidays and
+doctor names.
+
+Test sets. Every clean note has a paired leak that uses the same word as a real name:
+
+- `gotcha_cases.py`: 20 clean + 12 leaks I wrote (eponyms, Lyme, hope/will/may,
+  brands, celebrities, 120/80). The rules quote some of these words.
+- `holdout_cases.py`: 12 + 10 with words the rules don't quote (Cushing, Faith,
+  Norwalk, a patient named Selena Gomez).
+- `stress_cases.py`: 60 random eponyms from Wikipedia's lists plus 8 FDA birth-control
+  brands that are also first names (Camila, Yasmin…). 68 + 68.
+- Each set also comes as long notes: 8 snippets with one leak buried.
+
+False alarms, two runs (leaks caught in brackets):
+
+| check | traps | traps long | held-out | held-out long | stress | stress long |
+|---|---|---|---|---|---|---|
+| old name tag | 4/40 | 16/40 | 2/24 (18/20) | 16/24 | 0/136 | 2/40 |
+| fixed name tag | 0/40 | 6/40 | 0/24 | 16/24 | 0/136 (135/136) | 4/40 |
+| tag + rules | 0/40 | 0/40 | 0/24 | 0/24 **(18/20)** | 0/136 | 0/40 |
+| **tag + rules + "self" tag (shipped)** | **0/40** | **0/40** | **0/24** | **0/24** | **0/136** | **0/40** |
+
+The shipped check caught every leak in every set. The original bench (short and long)
+is also at 0 false alarms and 56/56 leaks caught.
+
+- **Short rules beat long rules.** `RULES` in `bench.py` is 9 lines: what is NOT an
+  identifier (eponyms, brands, ordinary words, units, years, vitals) and what still IS
+  (a name used as a name). The 40-line draft in GOTCHAS.md did worse: 15/20 false alarms
+  on long trap notes, and missed 3 leaks across the sets.
+- **A separate "self" tag** ("the patient's own name, even if a celebrity has it") was
+  needed. Without it, "Patient Selena Gomez (no relation)" in a long note scored 0.001.
+- **Placeholder labels matter.** `[NAME_1] has Parkinson's disease` → name 0.995.
+  `[PERSON_1]` or `[PATIENT_1]` → 0.000. The pipeline now emits `[PERSON_n]`.
+- Reasoning mode didn't help. Masking eponyms in code first made it worse (12/40).
+- Pipeline (qwen3:8b) after the fixes: 0 sent with PHI, 4/50 blocked, all arguable
+  (a job at a named school, a full-face photo, doctor names left in).
+- **Policy is still open.** Strict Safe Harbor counts any month or holiday tied to the
+  patient ("reassess in May", "flare around Christmas"). My test sets call those clean.
+  Decide the policy, then relabel.
+- **Caveat:** I tuned the rules after seeing the trap and held-out misses. The stress
+  set was never tuned on and passed. A fresh held-out set is still needed.

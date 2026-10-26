@@ -57,6 +57,9 @@ class Vault:
         self.fwd, self.back, self.n = {}, {}, {}
 
     def token(self, kind, value):
+        # [NAME_1] next to an eponym ("[NAME_1] has Parkinson's") makes Sage flag a
+        # name at 0.995; [PERSON_1] scores 0.000. Label choice matters.
+        kind = {"NAME": "PERSON"}.get(kind, kind)
         key = value.lower()
         if key not in self.fwd:
             self.n[kind] = self.n.get(kind, 0) + 1

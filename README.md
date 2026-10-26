@@ -33,24 +33,32 @@ Working prototype, tested on 50 fake notes:
 - It only works if you ask Sage about each type of identifier separately.
   A single "is this clean?" missed 1 in 7 leaks.
 - About 10% of notes get blocked for a person to review.
+- A short gotcha rule list stops false alarms on things like "Lou Gehrig's
+  disease" without hiding real names. Checked on 60 random eponyms. Details in
+  `RESULTS.md` Result 3.
 
 Full numbers: `RESULTS.md`. How others do this, and the HIPAA rules:
-`LANDSCAPE.md`.
+`LANDSCAPE.md`. Gotcha research: `research/GOTCHAS.md` (what is and isn't PHI)
+and `research/EXISTING-LISTS.md` (open-source word lists).
 
 ## Next
 
-1. Test on real de-identification datasets (n2c2 2014, PhysioNet). Needs a
+1. Pick the date policy (strict Safe Harbor flags "in May" and "Christmas").
+2. Test on real de-identification datasets (n2c2 2014, PhysioNet). Needs a
    data-use agreement.
-2. Hook up a real frontier model in place of the mock.
-3. Ask Levanto/NEAR whether they will sign a HIPAA agreement (a BAA). The TEE
+3. Hook up a real frontier model in place of the mock.
+4. Ask Levanto/NEAR whether they will sign a HIPAA agreement (a BAA). The TEE
    alone doesn't cover it.
-4. Wrap it as a proxy with an OpenAI/Anthropic-compatible API.
+5. Wrap it as a proxy with an OpenAI/Anthropic-compatible API.
 
 ## Files
 
 - `pipeline.py` — the full loop: regex → local model → Sage check → retry → send → restore.
 - `bench.py`, `cases.py` — different ways of asking Sage, compared on sanitized notes.
 - `raw_cases.py` — raw fake notes with the answers, for `pipeline.py`.
+- `gotcha_bench.py` + `gotcha_cases.py`, `holdout_cases.py`, `stress_cases.py` —
+  false-alarm traps ("Lou Gehrig's disease" vs "Mr. Gehrig").
+- `data/eponym_sample.json` — 60 eponyms from Wikipedia's eponym lists (CC BY-SA).
 - `results/` — raw output of every run.
 
 All patient data here is made up.

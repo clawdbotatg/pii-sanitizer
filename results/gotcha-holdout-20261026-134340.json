@@ -1,0 +1,4754 @@
+[
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 3.594197226771117e-08,
+  "ms": 421.53286933898926,
+  "extra": {
+   "per": {
+    "name": 1.083040434245787e-09,
+    "date": 1.4722310751943662e-10,
+    "contact": 9.106021390816039e-14,
+    "number": 3.594197226771117e-08,
+    "place": 1.1675611229331897e-13,
+    "unique": 1.8570470962630645e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1502,
+    "rendered_tokens": 1502,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1502,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 1.300459428263882e-07,
+  "ms": 1511.584758758545,
+  "extra": {
+   "per": {
+    "name": 4.0340662248265934e-08,
+    "date": 1.300459428263882e-07,
+    "contact": 2.86225930055623e-12,
+    "number": 1.261800640556129e-07,
+    "place": 4.016185427586602e-12,
+    "unique": 6.348289988803963e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1526,
+    "rendered_tokens": 1526,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1526,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 6.891055133459834e-08,
+  "ms": 574.8708248138428,
+  "extra": {
+   "per": {
+    "name": 6.891055133459834e-08,
+    "date": 6.531301066403135e-13,
+    "contact": 1.696546175634318e-14,
+    "number": 2.8494670852028026e-12,
+    "place": 1.1211813701751735e-13,
+    "unique": 5.848048139022942e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1490,
+    "rendered_tokens": 1490,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1490,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 2.389667006994181e-08,
+  "ms": 2114.970922470093,
+  "extra": {
+   "per": {
+    "name": 3.2984262143412946e-11,
+    "date": 5.080926318997853e-09,
+    "contact": 5.2058589546585574e-14,
+    "number": 7.827818689808363e-09,
+    "place": 5.543129784729982e-13,
+    "unique": 2.389667006994181e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1502,
+    "rendered_tokens": 1502,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1502,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "old",
+  "p": 1.8688450820990667e-08,
+  "ms": 1686.758279800415,
+  "extra": {
+   "per": {
+    "name": 1.8688450820990667e-08,
+    "date": 1.737468618360595e-10,
+    "contact": 1.197880878975283e-14,
+    "number": 7.127288382554151e-11,
+    "place": 1.2452109837259097e-13,
+    "unique": 4.145849208631849e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1544,
+    "rendered_tokens": 1544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "old",
+  "p": 2.3739088419390168e-05,
+  "ms": 565.7217502593994,
+  "extra": {
+   "per": {
+    "name": 1.6660534447054632e-05,
+    "date": 5.228418737923272e-11,
+    "contact": 4.0548071187579056e-13,
+    "number": 9.078381306696735e-11,
+    "place": 1.1049086365678792e-08,
+    "unique": 2.3739088419390168e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1508,
+    "rendered_tokens": 1508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "old",
+  "p": 2.9259770240240748e-05,
+  "ms": 1908.0901145935059,
+  "extra": {
+   "per": {
+    "name": 2.9259770240240748e-05,
+    "date": 2.1026946351421547e-09,
+    "contact": 9.841377352184623e-12,
+    "number": 3.5276862061570595e-07,
+    "place": 9.717029090001537e-10,
+    "unique": 6.157685503328172e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1520,
+    "rendered_tokens": 1520,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1520,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "old",
+  "p": 0.00013192306572026096,
+  "ms": 1881.096363067627,
+  "extra": {
+   "per": {
+    "name": 0.00013192306572026096,
+    "date": 3.8733398297079744e-07,
+    "contact": 4.470613049205781e-12,
+    "number": 4.703519253227854e-05,
+    "place": 2.736962345018839e-07,
+    "unique": 1.7924414495693106e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1496,
+    "rendered_tokens": 1496,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1496,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "old",
+  "p": 3.276147329827079e-05,
+  "ms": 708.1081867218018,
+  "extra": {
+   "per": {
+    "name": 3.276147329827079e-05,
+    "date": 2.6050087384634297e-06,
+    "contact": 1.4340510220998038e-11,
+    "number": 8.948983012553658e-08,
+    "place": 1.6746105036619065e-09,
+    "unique": 9.886970542789022e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1532,
+    "rendered_tokens": 1532,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1532,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "old",
+  "p": 8.626479822823059e-07,
+  "ms": 264.10913467407227,
+  "extra": {
+   "per": {
+    "name": 4.45076067162693e-11,
+    "date": 6.408065439023302e-11,
+    "contact": 3.2707893786606215e-13,
+    "number": 5.825671835179794e-09,
+    "place": 5.952011142039393e-12,
+    "unique": 8.626479822823059e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1502,
+    "rendered_tokens": 1502,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1502,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "old",
+  "p": 0.9999960404850042,
+  "ms": 732.4132919311523,
+  "extra": {
+   "per": {
+    "name": 0.9999960404850042,
+    "date": 1.259466762021332e-12,
+    "contact": 4.191377514878231e-14,
+    "number": 1.9405109062854189e-13,
+    "place": 7.083118162632519e-14,
+    "unique": 3.3296453217112826e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1478,
+    "rendered_tokens": 1478,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1478,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "old",
+  "p": 3.4812522898700205e-07,
+  "ms": 331.03322982788086,
+  "extra": {
+   "per": {
+    "name": 3.4271547854604805e-09,
+    "date": 2.961206556495263e-11,
+    "contact": 3.0668574949512045e-14,
+    "number": 3.4812522898700205e-07,
+    "place": 3.1036638158847284e-14,
+    "unique": 9.972267027466698e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1538,
+    "rendered_tokens": 1538,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1538,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "old",
+  "p": 0.9949112308801809,
+  "ms": 5376.5881061553955,
+  "extra": {
+   "per": {
+    "name": 0.9949112308801809,
+    "date": 8.013681239570133e-09,
+    "contact": 7.206279443669047e-12,
+    "number": 2.563460455416721e-07,
+    "place": 1.7692329104032559e-10,
+    "unique": 1.1825324284775329e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1767,
+    "rendered_tokens": 1767,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1767,
+    "output_tokens": 32
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "old",
+  "p": 0.9999927928080521,
+  "ms": 283.1459045410156,
+  "extra": {
+   "per": {
+    "name": 0.9999927928080521,
+    "date": 1.87272026216019e-11,
+    "contact": 3.733183221063205e-13,
+    "number": 4.209139571189695e-11,
+    "place": 1.8085570235278472e-11,
+    "unique": 2.5154794423240414e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1460,
+    "rendered_tokens": 1460,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1460,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "old",
+  "p": 0.9982891223234149,
+  "ms": 431.63323402404785,
+  "extra": {
+   "per": {
+    "name": 0.9982891223234149,
+    "date": 3.5196092981493677e-12,
+    "contact": 2.0403300438473166e-13,
+    "number": 5.2322743312036845e-12,
+    "place": 7.369180248991663e-11,
+    "unique": 8.551913959473238e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1454,
+    "rendered_tokens": 1454,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1454,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "old",
+  "p": 0.9999999160093358,
+  "ms": 282.98115730285645,
+  "extra": {
+   "per": {
+    "name": 0.9999999160093358,
+    "date": 2.5846933374269846e-12,
+    "contact": 7.343683855543617e-14,
+    "number": 4.340365940538839e-12,
+    "place": 1.461250809341179e-13,
+    "unique": 1.839567938943084e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1442,
+    "rendered_tokens": 1442,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1442,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "old",
+  "p": 0.9999925113389758,
+  "ms": 310.3606700897217,
+  "extra": {
+   "per": {
+    "name": 0.9999925113389758,
+    "date": 1.4414708890754272e-10,
+    "contact": 1.6534116915658558e-07,
+    "number": 1.2395521495095636e-12,
+    "place": 2.975068226937273e-14,
+    "unique": 1.4123527717822195e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1454,
+    "rendered_tokens": 1454,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1454,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "old",
+  "p": 0.9999999955047247,
+  "ms": 872.6820945739746,
+  "extra": {
+   "per": {
+    "name": 4.2808951146937715e-11,
+    "date": 1.5052065877343705e-12,
+    "contact": 1.7299425884998436e-14,
+    "number": 3.141454377754062e-11,
+    "place": 0.9999999955047247,
+    "unique": 0.985259759981199
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1787,
+    "rendered_tokens": 1787,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1787,
+    "output_tokens": 49
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "old",
+  "p": 0.9981921486886269,
+  "ms": 347.17607498168945,
+  "extra": {
+   "per": {
+    "name": 0.9981921486886269,
+    "date": 7.401262612426446e-10,
+    "contact": 1.0047982980829951e-12,
+    "number": 2.7758265725824125e-10,
+    "place": 9.297114503387912e-13,
+    "unique": 1.5200711716959765e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1454,
+    "rendered_tokens": 1454,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1454,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "old",
+  "p": 0.9999675359274713,
+  "ms": 370.3129291534424,
+  "extra": {
+   "per": {
+    "name": 0.9999675359274713,
+    "date": 1.020777071871863e-12,
+    "contact": 2.0082560870006058e-14,
+    "number": 5.545739736679669e-10,
+    "place": 1.3828635831042314e-11,
+    "unique": 0.0016781543551783891
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1508,
+    "rendered_tokens": 1508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "old",
+  "p": 0.002736678170317399,
+  "ms": 1446.8111991882324,
+  "extra": {
+   "per": {
+    "name": 0.002736678170317399,
+    "date": 4.185328793351859e-07,
+    "contact": 1.694905260879027e-12,
+    "number": 3.181812121341321e-05,
+    "place": 1.8656770278926887e-10,
+    "unique": 0.002372446650256955
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1781,
+    "rendered_tokens": 1781,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1781,
+    "output_tokens": 47
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "old",
+  "p": 0.9999611894830484,
+  "ms": 2356.8620681762695,
+  "extra": {
+   "per": {
+    "name": 0.9999611894830484,
+    "date": 0.008972166253201705,
+    "contact": 1.0182592999766522e-13,
+    "number": 6.292384887825275e-09,
+    "place": 1.3519895814766365e-13,
+    "unique": 1.0490414127987437e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1490,
+    "rendered_tokens": 1490,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1490,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 0.006758723281117882,
+  "ms": 299.868106842041,
+  "extra": {
+   "per": {
+    "name": 0.006758723281117882,
+    "date": 7.836751709938167e-11,
+    "contact": 1.5579916424125177e-13,
+    "number": 3.078000035454866e-08,
+    "place": 1.4061936777799563e-13,
+    "unique": 2.7946911267646554e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1615,
+    "rendered_tokens": 1615,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1615,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 0.00011733183009546226,
+  "ms": 2153.118848800659,
+  "extra": {
+   "per": {
+    "name": 0.00011733183009546226,
+    "date": 2.3135766668808607e-08,
+    "contact": 1.0353331466871408e-12,
+    "number": 8.201723118350093e-08,
+    "place": 3.741339523098923e-11,
+    "unique": 3.328527762793582e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1639,
+    "rendered_tokens": 1639,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1639,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 3.967212320809459e-05,
+  "ms": 439.9731159210205,
+  "extra": {
+   "per": {
+    "name": 3.967212320809459e-05,
+    "date": 2.780195450927898e-12,
+    "contact": 1.9508168957607308e-14,
+    "number": 1.5962523696517756e-12,
+    "place": 2.0535066291010802e-13,
+    "unique": 1.391830089217367e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1603,
+    "rendered_tokens": 1603,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1603,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 1.4146696639492403e-05,
+  "ms": 291.6281223297119,
+  "extra": {
+   "per": {
+    "name": 1.4146696639492403e-05,
+    "date": 2.3893775710741586e-09,
+    "contact": 8.182755852264289e-14,
+    "number": 2.807831498829016e-09,
+    "place": 2.236994245754501e-11,
+    "unique": 2.532288876876769e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1615,
+    "rendered_tokens": 1615,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1615,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "base",
+  "p": 0.0001277222260059025,
+  "ms": 367.05803871154785,
+  "extra": {
+   "per": {
+    "name": 0.0001277222260059025,
+    "date": 1.6051712483974808e-08,
+    "contact": 2.7800521011815883e-14,
+    "number": 7.46842948781657e-11,
+    "place": 1.4715936901227321e-12,
+    "unique": 4.889914460535514e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1657,
+    "rendered_tokens": 1657,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1657,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "base",
+  "p": 0.0007181498628857501,
+  "ms": 381.09707832336426,
+  "extra": {
+   "per": {
+    "name": 0.0007181498628857501,
+    "date": 6.355243850782577e-10,
+    "contact": 1.11190303780744e-12,
+    "number": 2.476259233164311e-10,
+    "place": 6.757983555344252e-08,
+    "unique": 6.575736685894275e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1621,
+    "rendered_tokens": 1621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "base",
+  "p": 0.002756637092963993,
+  "ms": 1373.5589981079102,
+  "extra": {
+   "per": {
+    "name": 0.002756637092963993,
+    "date": 6.468241780906412e-09,
+    "contact": 2.1615416553385606e-11,
+    "number": 1.0701953709421847e-06,
+    "place": 2.184978777755977e-10,
+    "unique": 3.7644407406428775e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1990,
+    "rendered_tokens": 1990,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1990,
+    "output_tokens": 106
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "base",
+  "p": 0.0011933120639041764,
+  "ms": 5348.294258117676,
+  "extra": {
+   "per": {
+    "name": 0.0011933120639041764,
+    "date": 1.0167063512821176e-07,
+    "contact": 5.699172825603093e-11,
+    "number": 0.00012736231216853907,
+    "place": 2.083448619571075e-05,
+    "unique": 3.3180807150227116e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1962,
+    "rendered_tokens": 1962,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1962,
+    "output_tokens": 99
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "base",
+  "p": 1.4198521463918404e-05,
+  "ms": 359.6370220184326,
+  "extra": {
+   "per": {
+    "name": 1.4198521463918404e-05,
+    "date": 1.283613574482576e-05,
+    "contact": 8.419025554191581e-12,
+    "number": 3.0724603859935107e-07,
+    "place": 2.399160297046174e-09,
+    "unique": 3.353951463980093e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1645,
+    "rendered_tokens": 1645,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1645,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "base",
+  "p": 3.7406148227837515e-06,
+  "ms": 481.19306564331055,
+  "extra": {
+   "per": {
+    "name": 9.019913669686447e-11,
+    "date": 6.991905037251995e-11,
+    "contact": 4.3014041711000035e-13,
+    "number": 6.706987586966129e-09,
+    "place": 2.7839015947416068e-12,
+    "unique": 3.7406148227837515e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1615,
+    "rendered_tokens": 1615,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1615,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "base",
+  "p": 0.0031558968236229355,
+  "ms": 4514.013051986694,
+  "extra": {
+   "per": {
+    "name": 0.0031558968236229355,
+    "date": 1.7673781365382917e-13,
+    "contact": 9.78000808875097e-15,
+    "number": 4.401716850381977e-14,
+    "place": 9.139689875500053e-15,
+    "unique": 3.194586237006199e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1941,
+    "rendered_tokens": 1941,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1941,
+    "output_tokens": 63
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "base",
+  "p": 4.047463745330337e-07,
+  "ms": 2253.2718181610107,
+  "extra": {
+   "per": {
+    "name": 7.802106108417938e-09,
+    "date": 5.203422979719521e-11,
+    "contact": 2.15428128341494e-14,
+    "number": 4.047463745330337e-07,
+    "place": 3.0671134241614433e-14,
+    "unique": 8.020618602981685e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1651,
+    "rendered_tokens": 1651,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1651,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "base",
+  "p": 0.9978109396090107,
+  "ms": 2218.8432216644287,
+  "extra": {
+   "per": {
+    "name": 0.9978109396090107,
+    "date": 7.96623258263537e-10,
+    "contact": 2.103842024970657e-12,
+    "number": 4.049967119560404e-08,
+    "place": 1.2579799419508795e-11,
+    "unique": 6.6700256828240846e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "base",
+  "p": 0.9999907189298058,
+  "ms": 1737.1909618377686,
+  "extra": {
+   "per": {
+    "name": 0.9999907189298058,
+    "date": 1.6720873393669415e-12,
+    "contact": 1.2800739798250713e-14,
+    "number": 3.1925941820441217e-12,
+    "place": 1.745922618251275e-12,
+    "unique": 4.383797998905955e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1573,
+    "rendered_tokens": 1573,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1573,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "base",
+  "p": 0.9999997979843469,
+  "ms": 258.2371234893799,
+  "extra": {
+   "per": {
+    "name": 0.9999997979843469,
+    "date": 7.501302697233065e-13,
+    "contact": 1.7474618912749632e-14,
+    "number": 2.325247549522057e-12,
+    "place": 1.0401205868100552e-12,
+    "unique": 4.531511979158233e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "base",
+  "p": 0.9999999944144411,
+  "ms": 1684.4232082366943,
+  "extra": {
+   "per": {
+    "name": 0.9999999944144411,
+    "date": 3.786744921430456e-13,
+    "contact": 3.221090489775719e-14,
+    "number": 5.745280272685899e-13,
+    "place": 2.9629018796253746e-14,
+    "unique": 1.0503238663927208e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1555,
+    "rendered_tokens": 1555,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1555,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "base",
+  "p": 0.9999998023742842,
+  "ms": 460.79421043395996,
+  "extra": {
+   "per": {
+    "name": 0.9999998023742842,
+    "date": 2.876025919343518e-12,
+    "contact": 4.540217523600055e-09,
+    "number": 1.9893351124597804e-13,
+    "place": 4.6361511222810134e-15,
+    "unique": 3.768430759603588e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "base",
+  "p": 0.999999995411192,
+  "ms": 817.4309730529785,
+  "extra": {
+   "per": {
+    "name": 1.1981388481713655e-09,
+    "date": 1.5357195605265534e-12,
+    "contact": 2.627805901744028e-14,
+    "number": 4.594287086736218e-13,
+    "place": 0.999999995411192,
+    "unique": 0.983954021848555
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1916,
+    "rendered_tokens": 1916,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1916,
+    "output_tokens": 48
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "base",
+  "p": 0.9999565874158808,
+  "ms": 877.0589828491211,
+  "extra": {
+   "per": {
+    "name": 0.9999565874158808,
+    "date": 2.3841448191455276e-10,
+    "contact": 3.5119431894532687e-13,
+    "number": 1.1535326441439189e-10,
+    "place": 2.5798938259658747e-13,
+    "unique": 1.6301998678562434e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "base",
+  "p": 0.9999896908177204,
+  "ms": 758.4779262542725,
+  "extra": {
+   "per": {
+    "name": 0.9999896908177204,
+    "date": 1.1153812549940247e-12,
+    "contact": 1.4330557753917906e-14,
+    "number": 3.210094749052925e-10,
+    "place": 4.3750540016337325e-12,
+    "unique": 0.00010295996724656201
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1621,
+    "rendered_tokens": 1621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "base",
+  "p": 0.9963962154741508,
+  "ms": 634.3681812286377,
+  "extra": {
+   "per": {
+    "name": 0.9963962154741508,
+    "date": 2.4973016294248522e-08,
+    "contact": 1.0357127368420592e-12,
+    "number": 3.0542082001228287e-06,
+    "place": 1.3355554822423772e-11,
+    "unique": 0.0005320086633496625
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1579,
+    "rendered_tokens": 1579,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1579,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "base",
+  "p": 0.9999279111359843,
+  "ms": 544.0032482147217,
+  "extra": {
+   "per": {
+    "name": 0.9999279111359843,
+    "date": 0.0012179505258990806,
+    "contact": 2.6507392315805113e-13,
+    "number": 6.752803849392504e-10,
+    "place": 1.4719329592247652e-13,
+    "unique": 2.551702694059101e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1603,
+    "rendered_tokens": 1603,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1603,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 2.8983040033089587e-07,
+  "ms": 389.2519474029541,
+  "extra": {
+   "per": {
+    "name": 2.8983040033089587e-07,
+    "date": 2.0212875906019624e-12,
+    "contact": 1.5985741373927708e-14,
+    "number": 9.539076384138496e-13,
+    "place": 2.138982782104522e-13,
+    "unique": 1.3786853947855382e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 2.509787587564116e-06,
+  "ms": 1034.4328880310059,
+  "extra": {
+   "per": {
+    "name": 2.509787587564116e-06,
+    "date": 1.896598319235744e-09,
+    "contact": 2.0372009072438672e-13,
+    "number": 1.3431872641415333e-08,
+    "place": 2.910391525203824e-11,
+    "unique": 3.201667887011177e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2580,
+    "rendered_tokens": 2580,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2580,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 2.1335701104595089e-07,
+  "ms": 598.6530780792236,
+  "extra": {
+   "per": {
+    "name": 2.1335701104595089e-07,
+    "date": 3.697210090517459e-13,
+    "contact": 7.961171295091263e-15,
+    "number": 1.5281925209928735e-13,
+    "place": 9.05943506935016e-11,
+    "unique": 6.300604900919015e-12
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 6.624717067771095e-08,
+  "ms": 1251.0290145874023,
+  "extra": {
+   "per": {
+    "name": 6.624717067771095e-08,
+    "date": 2.1887024278126775e-11,
+    "contact": 1.670606480324909e-14,
+    "number": 1.1549545300066836e-11,
+    "place": 1.0388989006091875e-11,
+    "unique": 6.110422351954607e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "rules",
+  "p": 1.1808804451838916e-06,
+  "ms": 581.7842483520508,
+  "extra": {
+   "per": {
+    "name": 1.1808804451838916e-06,
+    "date": 1.0024841017881312e-10,
+    "contact": 4.822177200286598e-14,
+    "number": 8.212838161691442e-12,
+    "place": 1.0515141682980751e-08,
+    "unique": 6.002768316954622e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2598,
+    "rendered_tokens": 2598,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2598,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "rules",
+  "p": 1.109873017013778e-05,
+  "ms": 491.9137954711914,
+  "extra": {
+   "per": {
+    "name": 1.0263427804161763e-06,
+    "date": 1.7725491276169102e-11,
+    "contact": 2.5171156072604447e-13,
+    "number": 3.3639605129516503e-12,
+    "place": 7.847720966100283e-07,
+    "unique": 1.109873017013778e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "rules",
+  "p": 2.2466118494067475e-07,
+  "ms": 641.8957710266113,
+  "extra": {
+   "per": {
+    "name": 2.2466118494067475e-07,
+    "date": 1.0184392749923449e-11,
+    "contact": 1.8914695704914156e-13,
+    "number": 5.399354737732421e-10,
+    "place": 3.3826559837980055e-11,
+    "unique": 1.1307278521480892e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2574,
+    "rendered_tokens": 2574,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2574,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "rules",
+  "p": 0.0002119834846282804,
+  "ms": 499.07493591308594,
+  "extra": {
+   "per": {
+    "name": 0.0002119834846282804,
+    "date": 5.2139476324265006e-11,
+    "contact": 2.173172749564434e-13,
+    "number": 1.54768530519962e-10,
+    "place": 1.970411782786903e-06,
+    "unique": 9.11730702649545e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2550,
+    "rendered_tokens": 2550,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2550,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules",
+  "p": 0.0004114292328850915,
+  "ms": 955.1501274108887,
+  "extra": {
+   "per": {
+    "name": 0.0004114292328850915,
+    "date": 1.0398681555674646e-06,
+    "contact": 7.245048353656561e-13,
+    "number": 7.661746856143948e-08,
+    "place": 8.036018691051953e-09,
+    "unique": 1.882089464369353e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2586,
+    "rendered_tokens": 2586,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2586,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules",
+  "p": 1.3620972591565282e-08,
+  "ms": 348.5369682312012,
+  "extra": {
+   "per": {
+    "name": 3.62460355154076e-10,
+    "date": 9.753373801876564e-12,
+    "contact": 4.59319663499944e-14,
+    "number": 1.1905881433596674e-11,
+    "place": 3.091459409359668e-11,
+    "unique": 1.3620972591565282e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "rules",
+  "p": 6.962210837348386e-08,
+  "ms": 802.7660846710205,
+  "extra": {
+   "per": {
+    "name": 6.962210837348386e-08,
+    "date": 4.968402373630637e-13,
+    "contact": 5.908652260005699e-14,
+    "number": 1.808539229051542e-13,
+    "place": 9.37678063726404e-13,
+    "unique": 1.667316762637113e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2532,
+    "rendered_tokens": 2532,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2532,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "rules",
+  "p": 6.315725594231231e-10,
+  "ms": 479.37989234924316,
+  "extra": {
+   "per": {
+    "name": 6.315725594231231e-10,
+    "date": 7.84424531451286e-13,
+    "contact": 4.040083247214025e-14,
+    "number": 2.6092298566762536e-10,
+    "place": 5.278546063627406e-13,
+    "unique": 3.1853361026503657e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2592,
+    "rendered_tokens": 2592,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2592,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.999696938768942,
+  "ms": 372.0560073852539,
+  "extra": {
+   "per": {
+    "name": 0.999696938768942,
+    "date": 7.500161572709008e-10,
+    "contact": 3.095362300891345e-12,
+    "number": 7.22494399746012e-09,
+    "place": 7.093038103864398e-10,
+    "unique": 1.9222831753028657e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.9999974011017302,
+  "ms": 546.515941619873,
+  "extra": {
+   "per": {
+    "name": 0.9999974011017302,
+    "date": 4.309064035769253e-13,
+    "contact": 9.846424737985586e-15,
+    "number": 1.903542974757043e-13,
+    "place": 1.1320630932129029e-10,
+    "unique": 5.938078914576665e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2514,
+    "rendered_tokens": 2514,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2514,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999838497976036,
+  "ms": 487.6101016998291,
+  "extra": {
+   "per": {
+    "name": 0.9999838497976036,
+    "date": 1.5845357762464966e-12,
+    "contact": 1.9150104550226126e-14,
+    "number": 1.5143917168209908e-13,
+    "place": 4.114364369926166e-12,
+    "unique": 3.063842358269262e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999999869758815,
+  "ms": 461.94911003112793,
+  "extra": {
+   "per": {
+    "name": 0.9999999869758815,
+    "date": 2.146761233665655e-13,
+    "contact": 1.2265424859265371e-14,
+    "number": 4.125386472631225e-14,
+    "place": 2.4707135977781248e-12,
+    "unique": 2.5457595360291417e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2496,
+    "rendered_tokens": 2496,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2496,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999995631680411,
+  "ms": 500.5650520324707,
+  "extra": {
+   "per": {
+    "name": 0.9999995631680411,
+    "date": 1.626635061052016e-11,
+    "contact": 1.6606055228802975e-09,
+    "number": 1.1188548449034748e-13,
+    "place": 1.9119803510566873e-13,
+    "unique": 2.7002052117070216e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules",
+  "p": 0.9999999972092206,
+  "ms": 1673.874855041504,
+  "extra": {
+   "per": {
+    "name": 1.1838477354922225e-08,
+    "date": 7.731264336134535e-13,
+    "contact": 3.5191168392385434e-15,
+    "number": 8.638607137455902e-13,
+    "place": 0.9999999972092206,
+    "unique": 0.9885163940019632
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3012,
+    "rendered_tokens": 3012,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3012,
+    "output_tokens": 54
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules",
+  "p": 0.9970036543527778,
+  "ms": 494.844913482666,
+  "extra": {
+   "per": {
+    "name": 0.9970036543527778,
+    "date": 6.934133430978914e-11,
+    "contact": 6.685415913169668e-12,
+    "number": 7.053155849221899e-10,
+    "place": 5.756906079524355e-11,
+    "unique": 3.910562535610208e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules",
+  "p": 0.9999999335325247,
+  "ms": 761.6708278656006,
+  "extra": {
+   "per": {
+    "name": 0.9999999335325247,
+    "date": 1.1544510653789422e-13,
+    "contact": 1.7440143161486812e-15,
+    "number": 7.42704957185245e-13,
+    "place": 1.957315716978611e-11,
+    "unique": 5.882295455117895e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules",
+  "p": 0.9999943725011546,
+  "ms": 444.7181224822998,
+  "extra": {
+   "per": {
+    "name": 0.9999943725011546,
+    "date": 3.8090079102593764e-10,
+    "contact": 2.095286572879935e-14,
+    "number": 6.293554253531729e-10,
+    "place": 2.765013462238238e-11,
+    "unique": 7.620619821892769e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2520,
+    "rendered_tokens": 2520,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2520,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules",
+  "p": 0.9990564432367689,
+  "ms": 720.6430435180664,
+  "extra": {
+   "per": {
+    "name": 0.9990564432367689,
+    "date": 0.0007474767811790848,
+    "contact": 5.689110510226468e-14,
+    "number": 3.294123449891536e-11,
+    "place": 1.1024221875588379e-11,
+    "unique": 4.2822687480166956e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 2.8983040033089587e-07,
+  "ms": 499.9430179595947,
+  "extra": {
+   "per": {
+    "name": 2.8983040033089587e-07,
+    "date": 2.0212875906019624e-12,
+    "contact": 1.5985741373927708e-14,
+    "number": 9.539076384138496e-13,
+    "place": 2.138982782104522e-13,
+    "unique": 1.3786853947855382e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 2.509787587564116e-06,
+  "ms": 1026.3679027557373,
+  "extra": {
+   "per": {
+    "name": 2.509787587564116e-06,
+    "date": 1.896598319235744e-09,
+    "contact": 2.0372009072438672e-13,
+    "number": 1.3431872641415333e-08,
+    "place": 2.910391525203824e-11,
+    "unique": 3.201667887011177e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2580,
+    "rendered_tokens": 2580,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2580,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 2.1335701104595089e-07,
+  "ms": 898.4949588775635,
+  "extra": {
+   "per": {
+    "name": 2.1335701104595089e-07,
+    "date": 3.697210090517459e-13,
+    "contact": 7.961171295091263e-15,
+    "number": 1.5281925209928735e-13,
+    "place": 9.05943506935016e-11,
+    "unique": 6.300604900919015e-12
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 6.624717067771095e-08,
+  "ms": 548.2511520385742,
+  "extra": {
+   "per": {
+    "name": 6.624717067771095e-08,
+    "date": 2.1887024278126775e-11,
+    "contact": 1.670606480324909e-14,
+    "number": 1.1549545300066836e-11,
+    "place": 1.0388989006091875e-11,
+    "unique": 6.110422351954607e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "rules+rsn",
+  "p": 1.1808804451838916e-06,
+  "ms": 1084.920883178711,
+  "extra": {
+   "per": {
+    "name": 1.1808804451838916e-06,
+    "date": 1.0024841017881312e-10,
+    "contact": 4.822177200286598e-14,
+    "number": 8.212838161691442e-12,
+    "place": 1.0515141682980751e-08,
+    "unique": 6.002768316954622e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2598,
+    "rendered_tokens": 2598,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2598,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "rules+rsn",
+  "p": 1.109873017013778e-05,
+  "ms": 444.17691230773926,
+  "extra": {
+   "per": {
+    "name": 1.0263427804161763e-06,
+    "date": 1.7725491276169102e-11,
+    "contact": 2.5171156072604447e-13,
+    "number": 3.3639605129516503e-12,
+    "place": 7.847720966100283e-07,
+    "unique": 1.109873017013778e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "rules+rsn",
+  "p": 2.2466118494067475e-07,
+  "ms": 792.6478385925293,
+  "extra": {
+   "per": {
+    "name": 2.2466118494067475e-07,
+    "date": 1.0184392749923449e-11,
+    "contact": 1.8914695704914156e-13,
+    "number": 5.399354737732421e-10,
+    "place": 3.3826559837980055e-11,
+    "unique": 1.1307278521480892e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2574,
+    "rendered_tokens": 2574,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2574,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "rules+rsn",
+  "p": 0.0002119834846282804,
+  "ms": 785.5398654937744,
+  "extra": {
+   "per": {
+    "name": 0.0002119834846282804,
+    "date": 5.2139476324265006e-11,
+    "contact": 2.173172749564434e-13,
+    "number": 1.54768530519962e-10,
+    "place": 1.970411782786903e-06,
+    "unique": 9.11730702649545e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2550,
+    "rendered_tokens": 2550,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2550,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules+rsn",
+  "p": 0.0004114292328850915,
+  "ms": 1168.3249473571777,
+  "extra": {
+   "per": {
+    "name": 0.0004114292328850915,
+    "date": 1.0398681555674646e-06,
+    "contact": 7.245048353656561e-13,
+    "number": 7.661746856143948e-08,
+    "place": 8.036018691051953e-09,
+    "unique": 1.882089464369353e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2586,
+    "rendered_tokens": 2586,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2586,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules+rsn",
+  "p": 1.3620972591565282e-08,
+  "ms": 347.1951484680176,
+  "extra": {
+   "per": {
+    "name": 3.62460355154076e-10,
+    "date": 9.753373801876564e-12,
+    "contact": 4.59319663499944e-14,
+    "number": 1.1905881433596674e-11,
+    "place": 3.091459409359668e-11,
+    "unique": 1.3620972591565282e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "rules+rsn",
+  "p": 6.962210837348386e-08,
+  "ms": 419.2469120025635,
+  "extra": {
+   "per": {
+    "name": 6.962210837348386e-08,
+    "date": 4.968402373630637e-13,
+    "contact": 5.908652260005699e-14,
+    "number": 1.808539229051542e-13,
+    "place": 9.37678063726404e-13,
+    "unique": 1.667316762637113e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2532,
+    "rendered_tokens": 2532,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2532,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "rules+rsn",
+  "p": 6.315725594231231e-10,
+  "ms": 974.1420745849609,
+  "extra": {
+   "per": {
+    "name": 6.315725594231231e-10,
+    "date": 7.84424531451286e-13,
+    "contact": 4.040083247214025e-14,
+    "number": 2.6092298566762536e-10,
+    "place": 5.278546063627406e-13,
+    "unique": 3.1853361026503657e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2592,
+    "rendered_tokens": 2592,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2592,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+rsn",
+  "p": 0.999696938768942,
+  "ms": 388.1070613861084,
+  "extra": {
+   "per": {
+    "name": 0.999696938768942,
+    "date": 7.500161572709008e-10,
+    "contact": 3.095362300891345e-12,
+    "number": 7.22494399746012e-09,
+    "place": 7.093038103864398e-10,
+    "unique": 1.9222831753028657e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+rsn",
+  "p": 0.9999974011017302,
+  "ms": 629.6770572662354,
+  "extra": {
+   "per": {
+    "name": 0.9999974011017302,
+    "date": 4.309064035769253e-13,
+    "contact": 9.846424737985586e-15,
+    "number": 1.903542974757043e-13,
+    "place": 1.1320630932129029e-10,
+    "unique": 5.938078914576665e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2514,
+    "rendered_tokens": 2514,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2514,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+rsn",
+  "p": 0.9999838497976036,
+  "ms": 957.1189880371094,
+  "extra": {
+   "per": {
+    "name": 0.9999838497976036,
+    "date": 1.5845357762464966e-12,
+    "contact": 1.9150104550226126e-14,
+    "number": 1.5143917168209908e-13,
+    "place": 4.114364369926166e-12,
+    "unique": 3.063842358269262e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+rsn",
+  "p": 0.9999999869758815,
+  "ms": 381.92105293273926,
+  "extra": {
+   "per": {
+    "name": 0.9999999869758815,
+    "date": 2.146761233665655e-13,
+    "contact": 1.2265424859265371e-14,
+    "number": 4.125386472631225e-14,
+    "place": 2.4707135977781248e-12,
+    "unique": 2.5457595360291417e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2496,
+    "rendered_tokens": 2496,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2496,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+rsn",
+  "p": 0.9999995631680411,
+  "ms": 969.3739414215088,
+  "extra": {
+   "per": {
+    "name": 0.9999995631680411,
+    "date": 1.626635061052016e-11,
+    "contact": 1.6606055228802975e-09,
+    "number": 1.1188548449034748e-13,
+    "place": 1.9119803510566873e-13,
+    "unique": 2.7002052117070216e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules+rsn",
+  "p": 0.9999999972092206,
+  "ms": 5261.174201965332,
+  "extra": {
+   "per": {
+    "name": 1.1838477354922225e-08,
+    "date": 7.731264336134535e-13,
+    "contact": 3.5191168392385434e-15,
+    "number": 8.638607137455902e-13,
+    "place": 0.9999999972092206,
+    "unique": 0.9885163940019632
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3012,
+    "rendered_tokens": 3012,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3012,
+    "output_tokens": 54
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules+rsn",
+  "p": 0.9970036543527778,
+  "ms": 713.9358520507812,
+  "extra": {
+   "per": {
+    "name": 0.9970036543527778,
+    "date": 6.934133430978914e-11,
+    "contact": 6.685415913169668e-12,
+    "number": 7.053155849221899e-10,
+    "place": 5.756906079524355e-11,
+    "unique": 3.910562535610208e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules+rsn",
+  "p": 0.9999999335325247,
+  "ms": 618.8979148864746,
+  "extra": {
+   "per": {
+    "name": 0.9999999335325247,
+    "date": 1.1544510653789422e-13,
+    "contact": 1.7440143161486812e-15,
+    "number": 7.42704957185245e-13,
+    "place": 1.957315716978611e-11,
+    "unique": 5.882295455117895e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules+rsn",
+  "p": 0.9999943725011546,
+  "ms": 2619.548797607422,
+  "extra": {
+   "per": {
+    "name": 0.9999943725011546,
+    "date": 3.8090079102593764e-10,
+    "contact": 2.095286572879935e-14,
+    "number": 6.293554253531729e-10,
+    "place": 2.765013462238238e-11,
+    "unique": 7.620619821892769e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2520,
+    "rendered_tokens": 2520,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2520,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules+rsn",
+  "p": 0.9990564432367689,
+  "ms": 497.9510307312012,
+  "extra": {
+   "per": {
+    "name": 0.9990564432367689,
+    "date": 0.0007474767811790848,
+    "contact": 5.689110510226468e-14,
+    "number": 3.294123449891536e-11,
+    "place": 1.1024221875588379e-11,
+    "unique": 4.2822687480166956e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 3.594197226771117e-08,
+  "ms": 290.7888889312744,
+  "extra": {
+   "per": {
+    "name": 1.083040434245787e-09,
+    "date": 1.4722310751943662e-10,
+    "contact": 9.106021390816039e-14,
+    "number": 3.594197226771117e-08,
+    "place": 1.1675611229331897e-13,
+    "unique": 1.8570470962630645e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1502,
+    "rendered_tokens": 1502,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1502,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 1.300459428263882e-07,
+  "ms": 311.7239475250244,
+  "extra": {
+   "per": {
+    "name": 4.0340662248265934e-08,
+    "date": 1.300459428263882e-07,
+    "contact": 2.86225930055623e-12,
+    "number": 1.261800640556129e-07,
+    "place": 4.016185427586602e-12,
+    "unique": 6.348289988803963e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1526,
+    "rendered_tokens": 1526,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1526,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 6.891055133459834e-08,
+  "ms": 248.73805046081543,
+  "extra": {
+   "per": {
+    "name": 6.891055133459834e-08,
+    "date": 6.531301066403135e-13,
+    "contact": 1.696546175634318e-14,
+    "number": 2.8494670852028026e-12,
+    "place": 1.1211813701751735e-13,
+    "unique": 5.848048139022942e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1490,
+    "rendered_tokens": 1490,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1490,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "old",
+  "p": 2.389667006994181e-08,
+  "ms": 298.66862297058105,
+  "extra": {
+   "per": {
+    "name": 3.2984262143412946e-11,
+    "date": 5.080926318997853e-09,
+    "contact": 5.2058589546585574e-14,
+    "number": 7.827818689808363e-09,
+    "place": 5.543129784729982e-13,
+    "unique": 2.389667006994181e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1502,
+    "rendered_tokens": 1502,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1502,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "old",
+  "p": 1.8688450820990667e-08,
+  "ms": 2244.7052001953125,
+  "extra": {
+   "per": {
+    "name": 1.8688450820990667e-08,
+    "date": 1.737468618360595e-10,
+    "contact": 1.197880878975283e-14,
+    "number": 7.127288382554151e-11,
+    "place": 1.2452109837259097e-13,
+    "unique": 4.145849208631849e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1544,
+    "rendered_tokens": 1544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "old",
+  "p": 2.3739088419390168e-05,
+  "ms": 336.8659019470215,
+  "extra": {
+   "per": {
+    "name": 1.6660534447054632e-05,
+    "date": 5.228418737923272e-11,
+    "contact": 4.0548071187579056e-13,
+    "number": 9.078381306696735e-11,
+    "place": 1.1049086365678792e-08,
+    "unique": 2.3739088419390168e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1508,
+    "rendered_tokens": 1508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "old",
+  "p": 2.9259770240240748e-05,
+  "ms": 2142.548084259033,
+  "extra": {
+   "per": {
+    "name": 2.9259770240240748e-05,
+    "date": 2.1026946351421547e-09,
+    "contact": 9.841377352184623e-12,
+    "number": 3.5276862061570595e-07,
+    "place": 9.717029090001537e-10,
+    "unique": 6.157685503328172e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1520,
+    "rendered_tokens": 1520,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1520,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "old",
+  "p": 0.00013192306572026096,
+  "ms": 485.3229522705078,
+  "extra": {
+   "per": {
+    "name": 0.00013192306572026096,
+    "date": 3.8733398297079744e-07,
+    "contact": 4.470613049205781e-12,
+    "number": 4.703519253227854e-05,
+    "place": 2.736962345018839e-07,
+    "unique": 1.7924414495693106e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1496,
+    "rendered_tokens": 1496,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1496,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "old",
+  "p": 3.276147329827079e-05,
+  "ms": 441.12372398376465,
+  "extra": {
+   "per": {
+    "name": 3.276147329827079e-05,
+    "date": 2.6050087384634297e-06,
+    "contact": 1.4340510220998038e-11,
+    "number": 8.948983012553658e-08,
+    "place": 1.6746105036619065e-09,
+    "unique": 9.886970542789022e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1532,
+    "rendered_tokens": 1532,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1532,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "old",
+  "p": 8.626479822823059e-07,
+  "ms": 378.06200981140137,
+  "extra": {
+   "per": {
+    "name": 4.45076067162693e-11,
+    "date": 6.408065439023302e-11,
+    "contact": 3.2707893786606215e-13,
+    "number": 5.825671835179794e-09,
+    "place": 5.952011142039393e-12,
+    "unique": 8.626479822823059e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1502,
+    "rendered_tokens": 1502,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1502,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "old",
+  "p": 0.9999960404850042,
+  "ms": 289.459228515625,
+  "extra": {
+   "per": {
+    "name": 0.9999960404850042,
+    "date": 1.259466762021332e-12,
+    "contact": 4.191377514878231e-14,
+    "number": 1.9405109062854189e-13,
+    "place": 7.083118162632519e-14,
+    "unique": 3.3296453217112826e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1478,
+    "rendered_tokens": 1478,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1478,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "old",
+  "p": 3.4812522898700205e-07,
+  "ms": 377.9561519622803,
+  "extra": {
+   "per": {
+    "name": 3.4271547854604805e-09,
+    "date": 2.961206556495263e-11,
+    "contact": 3.0668574949512045e-14,
+    "number": 3.4812522898700205e-07,
+    "place": 3.1036638158847284e-14,
+    "unique": 9.972267027466698e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1538,
+    "rendered_tokens": 1538,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1538,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "old",
+  "p": 0.9949112308801809,
+  "ms": 753.2949447631836,
+  "extra": {
+   "per": {
+    "name": 0.9949112308801809,
+    "date": 8.013681239570133e-09,
+    "contact": 7.206279443669047e-12,
+    "number": 2.563460455416721e-07,
+    "place": 1.7692329104032559e-10,
+    "unique": 1.1825324284775329e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1767,
+    "rendered_tokens": 1767,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1767,
+    "output_tokens": 32
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "old",
+  "p": 0.9999927928080521,
+  "ms": 424.0717887878418,
+  "extra": {
+   "per": {
+    "name": 0.9999927928080521,
+    "date": 1.87272026216019e-11,
+    "contact": 3.733183221063205e-13,
+    "number": 4.209139571189695e-11,
+    "place": 1.8085570235278472e-11,
+    "unique": 2.5154794423240414e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1460,
+    "rendered_tokens": 1460,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1460,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "old",
+  "p": 0.9982891223234149,
+  "ms": 358.91199111938477,
+  "extra": {
+   "per": {
+    "name": 0.9982891223234149,
+    "date": 3.5196092981493677e-12,
+    "contact": 2.0403300438473166e-13,
+    "number": 5.2322743312036845e-12,
+    "place": 7.369180248991663e-11,
+    "unique": 8.551913959473238e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1454,
+    "rendered_tokens": 1454,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1454,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "old",
+  "p": 0.9999999160093358,
+  "ms": 1549.4751930236816,
+  "extra": {
+   "per": {
+    "name": 0.9999999160093358,
+    "date": 2.5846933374269846e-12,
+    "contact": 7.343683855543617e-14,
+    "number": 4.340365940538839e-12,
+    "place": 1.461250809341179e-13,
+    "unique": 1.839567938943084e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1442,
+    "rendered_tokens": 1442,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1442,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "old",
+  "p": 0.9999925113389758,
+  "ms": 1572.2358226776123,
+  "extra": {
+   "per": {
+    "name": 0.9999925113389758,
+    "date": 1.4414708890754272e-10,
+    "contact": 1.6534116915658558e-07,
+    "number": 1.2395521495095636e-12,
+    "place": 2.975068226937273e-14,
+    "unique": 1.4123527717822195e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1454,
+    "rendered_tokens": 1454,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1454,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "old",
+  "p": 0.9999999955047247,
+  "ms": 3392.064094543457,
+  "extra": {
+   "per": {
+    "name": 4.2808951146937715e-11,
+    "date": 1.5052065877343705e-12,
+    "contact": 1.7299425884998436e-14,
+    "number": 3.141454377754062e-11,
+    "place": 0.9999999955047247,
+    "unique": 0.985259759981199
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1787,
+    "rendered_tokens": 1787,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1787,
+    "output_tokens": 49
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "old",
+  "p": 0.9981921486886269,
+  "ms": 353.8181781768799,
+  "extra": {
+   "per": {
+    "name": 0.9981921486886269,
+    "date": 7.401262612426446e-10,
+    "contact": 1.0047982980829951e-12,
+    "number": 2.7758265725824125e-10,
+    "place": 9.297114503387912e-13,
+    "unique": 1.5200711716959765e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1454,
+    "rendered_tokens": 1454,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1454,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "old",
+  "p": 0.9999675359274713,
+  "ms": 300.69494247436523,
+  "extra": {
+   "per": {
+    "name": 0.9999675359274713,
+    "date": 1.020777071871863e-12,
+    "contact": 2.0082560870006058e-14,
+    "number": 5.545739736679669e-10,
+    "place": 1.3828635831042314e-11,
+    "unique": 0.0016781543551783891
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1508,
+    "rendered_tokens": 1508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "old",
+  "p": 0.002736678170317399,
+  "ms": 1363.1470203399658,
+  "extra": {
+   "per": {
+    "name": 0.002736678170317399,
+    "date": 4.185328793351859e-07,
+    "contact": 1.694905260879027e-12,
+    "number": 3.181812121341321e-05,
+    "place": 1.8656770278926887e-10,
+    "unique": 0.002372446650256955
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1781,
+    "rendered_tokens": 1781,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1781,
+    "output_tokens": 47
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "old",
+  "p": 0.9999611894830484,
+  "ms": 866.4431571960449,
+  "extra": {
+   "per": {
+    "name": 0.9999611894830484,
+    "date": 0.008972166253201705,
+    "contact": 1.0182592999766522e-13,
+    "number": 6.292384887825275e-09,
+    "place": 1.3519895814766365e-13,
+    "unique": 1.0490414127987437e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1490,
+    "rendered_tokens": 1490,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1490,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 0.006758723281117882,
+  "ms": 1069.4971084594727,
+  "extra": {
+   "per": {
+    "name": 0.006758723281117882,
+    "date": 7.836751709938167e-11,
+    "contact": 1.5579916424125177e-13,
+    "number": 3.078000035454866e-08,
+    "place": 1.4061936777799563e-13,
+    "unique": 2.7946911267646554e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1615,
+    "rendered_tokens": 1615,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1615,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 0.00011733183009546226,
+  "ms": 1029.9139022827148,
+  "extra": {
+   "per": {
+    "name": 0.00011733183009546226,
+    "date": 2.3135766668808607e-08,
+    "contact": 1.0353331466871408e-12,
+    "number": 8.201723118350093e-08,
+    "place": 3.741339523098923e-11,
+    "unique": 3.328527762793582e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1639,
+    "rendered_tokens": 1639,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1639,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 3.967212320809459e-05,
+  "ms": 421.42796516418457,
+  "extra": {
+   "per": {
+    "name": 3.967212320809459e-05,
+    "date": 2.780195450927898e-12,
+    "contact": 1.9508168957607308e-14,
+    "number": 1.5962523696517756e-12,
+    "place": 2.0535066291010802e-13,
+    "unique": 1.391830089217367e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1603,
+    "rendered_tokens": 1603,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1603,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "base",
+  "p": 1.4146696639492403e-05,
+  "ms": 400.38299560546875,
+  "extra": {
+   "per": {
+    "name": 1.4146696639492403e-05,
+    "date": 2.3893775710741586e-09,
+    "contact": 8.182755852264289e-14,
+    "number": 2.807831498829016e-09,
+    "place": 2.236994245754501e-11,
+    "unique": 2.532288876876769e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1615,
+    "rendered_tokens": 1615,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1615,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "base",
+  "p": 0.0001277222260059025,
+  "ms": 292.69909858703613,
+  "extra": {
+   "per": {
+    "name": 0.0001277222260059025,
+    "date": 1.6051712483974808e-08,
+    "contact": 2.7800521011815883e-14,
+    "number": 7.46842948781657e-11,
+    "place": 1.4715936901227321e-12,
+    "unique": 4.889914460535514e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1657,
+    "rendered_tokens": 1657,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1657,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "base",
+  "p": 0.0007181498628857501,
+  "ms": 757.720947265625,
+  "extra": {
+   "per": {
+    "name": 0.0007181498628857501,
+    "date": 6.355243850782577e-10,
+    "contact": 1.11190303780744e-12,
+    "number": 2.476259233164311e-10,
+    "place": 6.757983555344252e-08,
+    "unique": 6.575736685894275e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1621,
+    "rendered_tokens": 1621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "base",
+  "p": 0.002756637092963993,
+  "ms": 2363.5592460632324,
+  "extra": {
+   "per": {
+    "name": 0.002756637092963993,
+    "date": 6.468241780906412e-09,
+    "contact": 2.1615416553385606e-11,
+    "number": 1.0701953709421847e-06,
+    "place": 2.184978777755977e-10,
+    "unique": 3.7644407406428775e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1990,
+    "rendered_tokens": 1990,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1990,
+    "output_tokens": 106
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "base",
+  "p": 0.0011933120639041764,
+  "ms": 3128.7620067596436,
+  "extra": {
+   "per": {
+    "name": 0.0011933120639041764,
+    "date": 1.0167063512821176e-07,
+    "contact": 5.699172825603093e-11,
+    "number": 0.00012736231216853907,
+    "place": 2.083448619571075e-05,
+    "unique": 3.3180807150227116e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1962,
+    "rendered_tokens": 1962,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1962,
+    "output_tokens": 99
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "base",
+  "p": 1.4198521463918404e-05,
+  "ms": 1157.8850746154785,
+  "extra": {
+   "per": {
+    "name": 1.4198521463918404e-05,
+    "date": 1.283613574482576e-05,
+    "contact": 8.419025554191581e-12,
+    "number": 3.0724603859935107e-07,
+    "place": 2.399160297046174e-09,
+    "unique": 3.353951463980093e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1645,
+    "rendered_tokens": 1645,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1645,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "base",
+  "p": 3.7406148227837515e-06,
+  "ms": 343.5788154602051,
+  "extra": {
+   "per": {
+    "name": 9.019913669686447e-11,
+    "date": 6.991905037251995e-11,
+    "contact": 4.3014041711000035e-13,
+    "number": 6.706987586966129e-09,
+    "place": 2.7839015947416068e-12,
+    "unique": 3.7406148227837515e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1615,
+    "rendered_tokens": 1615,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1615,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "base",
+  "p": 0.0031558968236229355,
+  "ms": 1377.1650791168213,
+  "extra": {
+   "per": {
+    "name": 0.0031558968236229355,
+    "date": 1.7673781365382917e-13,
+    "contact": 9.78000808875097e-15,
+    "number": 4.401716850381977e-14,
+    "place": 9.139689875500053e-15,
+    "unique": 3.194586237006199e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1941,
+    "rendered_tokens": 1941,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1941,
+    "output_tokens": 63
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "base",
+  "p": 4.047463745330337e-07,
+  "ms": 882.0059299468994,
+  "extra": {
+   "per": {
+    "name": 7.802106108417938e-09,
+    "date": 5.203422979719521e-11,
+    "contact": 2.15428128341494e-14,
+    "number": 4.047463745330337e-07,
+    "place": 3.0671134241614433e-14,
+    "unique": 8.020618602981685e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1651,
+    "rendered_tokens": 1651,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1651,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "base",
+  "p": 0.9978109396090107,
+  "ms": 1024.7397422790527,
+  "extra": {
+   "per": {
+    "name": 0.9978109396090107,
+    "date": 7.96623258263537e-10,
+    "contact": 2.103842024970657e-12,
+    "number": 4.049967119560404e-08,
+    "place": 1.2579799419508795e-11,
+    "unique": 6.6700256828240846e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "base",
+  "p": 0.9999907189298058,
+  "ms": 494.1270351409912,
+  "extra": {
+   "per": {
+    "name": 0.9999907189298058,
+    "date": 1.6720873393669415e-12,
+    "contact": 1.2800739798250713e-14,
+    "number": 3.1925941820441217e-12,
+    "place": 1.745922618251275e-12,
+    "unique": 4.383797998905955e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1573,
+    "rendered_tokens": 1573,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1573,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "base",
+  "p": 0.9999997979843469,
+  "ms": 455.32703399658203,
+  "extra": {
+   "per": {
+    "name": 0.9999997979843469,
+    "date": 7.501302697233065e-13,
+    "contact": 1.7474618912749632e-14,
+    "number": 2.325247549522057e-12,
+    "place": 1.0401205868100552e-12,
+    "unique": 4.531511979158233e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "base",
+  "p": 0.9999999944144411,
+  "ms": 496.0920810699463,
+  "extra": {
+   "per": {
+    "name": 0.9999999944144411,
+    "date": 3.786744921430456e-13,
+    "contact": 3.221090489775719e-14,
+    "number": 5.745280272685899e-13,
+    "place": 2.9629018796253746e-14,
+    "unique": 1.0503238663927208e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1555,
+    "rendered_tokens": 1555,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1555,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "base",
+  "p": 0.9999998023742842,
+  "ms": 444.9348449707031,
+  "extra": {
+   "per": {
+    "name": 0.9999998023742842,
+    "date": 2.876025919343518e-12,
+    "contact": 4.540217523600055e-09,
+    "number": 1.9893351124597804e-13,
+    "place": 4.6361511222810134e-15,
+    "unique": 3.768430759603588e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "base",
+  "p": 0.999999995411192,
+  "ms": 833.2147598266602,
+  "extra": {
+   "per": {
+    "name": 1.1981388481713655e-09,
+    "date": 1.5357195605265534e-12,
+    "contact": 2.627805901744028e-14,
+    "number": 4.594287086736218e-13,
+    "place": 0.999999995411192,
+    "unique": 0.983954021848555
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1916,
+    "rendered_tokens": 1916,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1916,
+    "output_tokens": 48
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "base",
+  "p": 0.9999565874158808,
+  "ms": 498.78907203674316,
+  "extra": {
+   "per": {
+    "name": 0.9999565874158808,
+    "date": 2.3841448191455276e-10,
+    "contact": 3.5119431894532687e-13,
+    "number": 1.1535326441439189e-10,
+    "place": 2.5798938259658747e-13,
+    "unique": 1.6301998678562434e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1567,
+    "rendered_tokens": 1567,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1567,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "base",
+  "p": 0.9999896908177204,
+  "ms": 501.1932849884033,
+  "extra": {
+   "per": {
+    "name": 0.9999896908177204,
+    "date": 1.1153812549940247e-12,
+    "contact": 1.4330557753917906e-14,
+    "number": 3.210094749052925e-10,
+    "place": 4.3750540016337325e-12,
+    "unique": 0.00010295996724656201
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1621,
+    "rendered_tokens": 1621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "base",
+  "p": 0.9963962154741508,
+  "ms": 304.5921325683594,
+  "extra": {
+   "per": {
+    "name": 0.9963962154741508,
+    "date": 2.4973016294248522e-08,
+    "contact": 1.0357127368420592e-12,
+    "number": 3.0542082001228287e-06,
+    "place": 1.3355554822423772e-11,
+    "unique": 0.0005320086633496625
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1579,
+    "rendered_tokens": 1579,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1579,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "base",
+  "p": 0.9999279111359843,
+  "ms": 670.4468727111816,
+  "extra": {
+   "per": {
+    "name": 0.9999279111359843,
+    "date": 0.0012179505258990806,
+    "contact": 2.6507392315805113e-13,
+    "number": 6.752803849392504e-10,
+    "place": 1.4719329592247652e-13,
+    "unique": 2.551702694059101e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 1603,
+    "rendered_tokens": 1603,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 1603,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 2.8983040033089587e-07,
+  "ms": 704.4229507446289,
+  "extra": {
+   "per": {
+    "name": 2.8983040033089587e-07,
+    "date": 2.0212875906019624e-12,
+    "contact": 1.5985741373927708e-14,
+    "number": 9.539076384138496e-13,
+    "place": 2.138982782104522e-13,
+    "unique": 1.3786853947855382e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 2.509787587564116e-06,
+  "ms": 777.1809101104736,
+  "extra": {
+   "per": {
+    "name": 2.509787587564116e-06,
+    "date": 1.896598319235744e-09,
+    "contact": 2.0372009072438672e-13,
+    "number": 1.3431872641415333e-08,
+    "place": 2.910391525203824e-11,
+    "unique": 3.201667887011177e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2580,
+    "rendered_tokens": 2580,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2580,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 2.1335701104595089e-07,
+  "ms": 700.7200717926025,
+  "extra": {
+   "per": {
+    "name": 2.1335701104595089e-07,
+    "date": 3.697210090517459e-13,
+    "contact": 7.961171295091263e-15,
+    "number": 1.5281925209928735e-13,
+    "place": 9.05943506935016e-11,
+    "unique": 6.300604900919015e-12
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules",
+  "p": 6.624717067771095e-08,
+  "ms": 1261.2369060516357,
+  "extra": {
+   "per": {
+    "name": 6.624717067771095e-08,
+    "date": 2.1887024278126775e-11,
+    "contact": 1.670606480324909e-14,
+    "number": 1.1549545300066836e-11,
+    "place": 1.0388989006091875e-11,
+    "unique": 6.110422351954607e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "rules",
+  "p": 1.1808804451838916e-06,
+  "ms": 1102.626085281372,
+  "extra": {
+   "per": {
+    "name": 1.1808804451838916e-06,
+    "date": 1.0024841017881312e-10,
+    "contact": 4.822177200286598e-14,
+    "number": 8.212838161691442e-12,
+    "place": 1.0515141682980751e-08,
+    "unique": 6.002768316954622e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2598,
+    "rendered_tokens": 2598,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2598,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "rules",
+  "p": 1.109873017013778e-05,
+  "ms": 444.1220760345459,
+  "extra": {
+   "per": {
+    "name": 1.0263427804161763e-06,
+    "date": 1.7725491276169102e-11,
+    "contact": 2.5171156072604447e-13,
+    "number": 3.3639605129516503e-12,
+    "place": 7.847720966100283e-07,
+    "unique": 1.109873017013778e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "rules",
+  "p": 2.2466118494067475e-07,
+  "ms": 938.9441013336182,
+  "extra": {
+   "per": {
+    "name": 2.2466118494067475e-07,
+    "date": 1.0184392749923449e-11,
+    "contact": 1.8914695704914156e-13,
+    "number": 5.399354737732421e-10,
+    "place": 3.3826559837980055e-11,
+    "unique": 1.1307278521480892e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2574,
+    "rendered_tokens": 2574,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2574,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "rules",
+  "p": 0.0002119834846282804,
+  "ms": 409.6062183380127,
+  "extra": {
+   "per": {
+    "name": 0.0002119834846282804,
+    "date": 5.2139476324265006e-11,
+    "contact": 2.173172749564434e-13,
+    "number": 1.54768530519962e-10,
+    "place": 1.970411782786903e-06,
+    "unique": 9.11730702649545e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2550,
+    "rendered_tokens": 2550,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2550,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules",
+  "p": 0.0004114292328850915,
+  "ms": 783.876895904541,
+  "extra": {
+   "per": {
+    "name": 0.0004114292328850915,
+    "date": 1.0398681555674646e-06,
+    "contact": 7.245048353656561e-13,
+    "number": 7.661746856143948e-08,
+    "place": 8.036018691051953e-09,
+    "unique": 1.882089464369353e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2586,
+    "rendered_tokens": 2586,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2586,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules",
+  "p": 1.3620972591565282e-08,
+  "ms": 488.13915252685547,
+  "extra": {
+   "per": {
+    "name": 3.62460355154076e-10,
+    "date": 9.753373801876564e-12,
+    "contact": 4.59319663499944e-14,
+    "number": 1.1905881433596674e-11,
+    "place": 3.091459409359668e-11,
+    "unique": 1.3620972591565282e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "rules",
+  "p": 6.962210837348386e-08,
+  "ms": 431.19096755981445,
+  "extra": {
+   "per": {
+    "name": 6.962210837348386e-08,
+    "date": 4.968402373630637e-13,
+    "contact": 5.908652260005699e-14,
+    "number": 1.808539229051542e-13,
+    "place": 9.37678063726404e-13,
+    "unique": 1.667316762637113e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2532,
+    "rendered_tokens": 2532,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2532,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "rules",
+  "p": 6.315725594231231e-10,
+  "ms": 927.1950721740723,
+  "extra": {
+   "per": {
+    "name": 6.315725594231231e-10,
+    "date": 7.84424531451286e-13,
+    "contact": 4.040083247214025e-14,
+    "number": 2.6092298566762536e-10,
+    "place": 5.278546063627406e-13,
+    "unique": 3.1853361026503657e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2592,
+    "rendered_tokens": 2592,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2592,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.999696938768942,
+  "ms": 596.4679718017578,
+  "extra": {
+   "per": {
+    "name": 0.999696938768942,
+    "date": 7.500161572709008e-10,
+    "contact": 3.095362300891345e-12,
+    "number": 7.22494399746012e-09,
+    "place": 7.093038103864398e-10,
+    "unique": 1.9222831753028657e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.9999974011017302,
+  "ms": 470.4923629760742,
+  "extra": {
+   "per": {
+    "name": 0.9999974011017302,
+    "date": 4.309064035769253e-13,
+    "contact": 9.846424737985586e-15,
+    "number": 1.903542974757043e-13,
+    "place": 1.1320630932129029e-10,
+    "unique": 5.938078914576665e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2514,
+    "rendered_tokens": 2514,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2514,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999838497976036,
+  "ms": 495.1753616333008,
+  "extra": {
+   "per": {
+    "name": 0.9999838497976036,
+    "date": 1.5845357762464966e-12,
+    "contact": 1.9150104550226126e-14,
+    "number": 1.5143917168209908e-13,
+    "place": 4.114364369926166e-12,
+    "unique": 3.063842358269262e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999999869758815,
+  "ms": 510.90121269226074,
+  "extra": {
+   "per": {
+    "name": 0.9999999869758815,
+    "date": 2.146761233665655e-13,
+    "contact": 1.2265424859265371e-14,
+    "number": 4.125386472631225e-14,
+    "place": 2.4707135977781248e-12,
+    "unique": 2.5457595360291417e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2496,
+    "rendered_tokens": 2496,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2496,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999995631680411,
+  "ms": 440.98711013793945,
+  "extra": {
+   "per": {
+    "name": 0.9999995631680411,
+    "date": 1.626635061052016e-11,
+    "contact": 1.6606055228802975e-09,
+    "number": 1.1188548449034748e-13,
+    "place": 1.9119803510566873e-13,
+    "unique": 2.7002052117070216e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules",
+  "p": 0.9999999972092206,
+  "ms": 1956.5203189849854,
+  "extra": {
+   "per": {
+    "name": 1.1838477354922225e-08,
+    "date": 7.731264336134535e-13,
+    "contact": 3.5191168392385434e-15,
+    "number": 8.638607137455902e-13,
+    "place": 0.9999999972092206,
+    "unique": 0.9885163940019632
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3012,
+    "rendered_tokens": 3012,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3012,
+    "output_tokens": 54
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules",
+  "p": 0.9970036543527778,
+  "ms": 466.8259620666504,
+  "extra": {
+   "per": {
+    "name": 0.9970036543527778,
+    "date": 6.934133430978914e-11,
+    "contact": 6.685415913169668e-12,
+    "number": 7.053155849221899e-10,
+    "place": 5.756906079524355e-11,
+    "unique": 3.910562535610208e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules",
+  "p": 0.9999999335325247,
+  "ms": 510.88595390319824,
+  "extra": {
+   "per": {
+    "name": 0.9999999335325247,
+    "date": 1.1544510653789422e-13,
+    "contact": 1.7440143161486812e-15,
+    "number": 7.42704957185245e-13,
+    "place": 1.957315716978611e-11,
+    "unique": 5.882295455117895e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules",
+  "p": 0.9999943725011546,
+  "ms": 489.3910884857178,
+  "extra": {
+   "per": {
+    "name": 0.9999943725011546,
+    "date": 3.8090079102593764e-10,
+    "contact": 2.095286572879935e-14,
+    "number": 6.293554253531729e-10,
+    "place": 2.765013462238238e-11,
+    "unique": 7.620619821892769e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2520,
+    "rendered_tokens": 2520,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2520,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules",
+  "p": 0.9990564432367689,
+  "ms": 535.3589057922363,
+  "extra": {
+   "per": {
+    "name": 0.9990564432367689,
+    "date": 0.0007474767811790848,
+    "contact": 5.689110510226468e-14,
+    "number": 3.294123449891536e-11,
+    "place": 1.1024221875588379e-11,
+    "unique": 4.2822687480166956e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K01",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 2.8983040033089587e-07,
+  "ms": 586.6732597351074,
+  "extra": {
+   "per": {
+    "name": 2.8983040033089587e-07,
+    "date": 2.0212875906019624e-12,
+    "contact": 1.5985741373927708e-14,
+    "number": 9.539076384138496e-13,
+    "place": 2.138982782104522e-13,
+    "unique": 1.3786853947855382e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K02",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 2.509787587564116e-06,
+  "ms": 473.6371040344238,
+  "extra": {
+   "per": {
+    "name": 2.509787587564116e-06,
+    "date": 1.896598319235744e-09,
+    "contact": 2.0372009072438672e-13,
+    "number": 1.3431872641415333e-08,
+    "place": 2.910391525203824e-11,
+    "unique": 3.201667887011177e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2580,
+    "rendered_tokens": 2580,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2580,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K03",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 2.1335701104595089e-07,
+  "ms": 537.0869636535645,
+  "extra": {
+   "per": {
+    "name": 2.1335701104595089e-07,
+    "date": 3.697210090517459e-13,
+    "contact": 7.961171295091263e-15,
+    "number": 1.5281925209928735e-13,
+    "place": 9.05943506935016e-11,
+    "unique": 6.300604900919015e-12
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K04",
+  "label": "clean",
+  "trap": "eponym-disease",
+  "variant": "rules+rsn",
+  "p": 6.624717067771095e-08,
+  "ms": 432.99078941345215,
+  "extra": {
+   "per": {
+    "name": 6.624717067771095e-08,
+    "date": 2.1887024278126775e-11,
+    "contact": 1.670606480324909e-14,
+    "number": 1.1549545300066836e-11,
+    "place": 1.0388989006091875e-11,
+    "unique": 6.110422351954607e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K05",
+  "label": "clean",
+  "trap": "eponym-syndrome",
+  "variant": "rules+rsn",
+  "p": 1.1808804451838916e-06,
+  "ms": 490.88191986083984,
+  "extra": {
+   "per": {
+    "name": 1.1808804451838916e-06,
+    "date": 1.0024841017881312e-10,
+    "contact": 4.822177200286598e-14,
+    "number": 8.212838161691442e-12,
+    "place": 1.0515141682980751e-08,
+    "unique": 6.002768316954622e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2598,
+    "rendered_tokens": 2598,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2598,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K06",
+  "label": "clean",
+  "trap": "eponym-virus",
+  "variant": "rules+rsn",
+  "p": 1.109873017013778e-05,
+  "ms": 559.7200393676758,
+  "extra": {
+   "per": {
+    "name": 1.0263427804161763e-06,
+    "date": 1.7725491276169102e-11,
+    "contact": 2.5171156072604447e-13,
+    "number": 3.3639605129516503e-12,
+    "place": 7.847720966100283e-07,
+    "unique": 1.109873017013778e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K07",
+  "label": "clean",
+  "trap": "eponym-sign",
+  "variant": "rules+rsn",
+  "p": 2.2466118494067475e-07,
+  "ms": 417.4971580505371,
+  "extra": {
+   "per": {
+    "name": 2.2466118494067475e-07,
+    "date": 1.0184392749923449e-11,
+    "contact": 1.8914695704914156e-13,
+    "number": 5.399354737732421e-10,
+    "place": 3.3826559837980055e-11,
+    "unique": 1.1307278521480892e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2574,
+    "rendered_tokens": 2574,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2574,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K08",
+  "label": "clean",
+  "trap": "eponym-procedure",
+  "variant": "rules+rsn",
+  "p": 0.0002119834846282804,
+  "ms": 577.2359371185303,
+  "extra": {
+   "per": {
+    "name": 0.0002119834846282804,
+    "date": 5.2139476324265006e-11,
+    "contact": 2.173172749564434e-13,
+    "number": 1.54768530519962e-10,
+    "place": 1.970411782786903e-06,
+    "unique": 9.11730702649545e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2550,
+    "rendered_tokens": 2550,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2550,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K09",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules+rsn",
+  "p": 0.0004114292328850915,
+  "ms": 660.3519916534424,
+  "extra": {
+   "per": {
+    "name": 0.0004114292328850915,
+    "date": 1.0398681555674646e-06,
+    "contact": 7.245048353656561e-13,
+    "number": 7.661746856143948e-08,
+    "place": 8.036018691051953e-09,
+    "unique": 1.882089464369353e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2586,
+    "rendered_tokens": 2586,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2586,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K10",
+  "label": "clean",
+  "trap": "common-word",
+  "variant": "rules+rsn",
+  "p": 1.3620972591565282e-08,
+  "ms": 631.8488121032715,
+  "extra": {
+   "per": {
+    "name": 3.62460355154076e-10,
+    "date": 9.753373801876564e-12,
+    "contact": 4.59319663499944e-14,
+    "number": 1.1905881433596674e-11,
+    "place": 3.091459409359668e-11,
+    "unique": 1.3620972591565282e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2556,
+    "rendered_tokens": 2556,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2556,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K11",
+  "label": "clean",
+  "trap": "famous-person",
+  "variant": "rules+rsn",
+  "p": 6.962210837348386e-08,
+  "ms": 730.0879955291748,
+  "extra": {
+   "per": {
+    "name": 6.962210837348386e-08,
+    "date": 4.968402373630637e-13,
+    "contact": 5.908652260005699e-14,
+    "number": 1.808539229051542e-13,
+    "place": 9.37678063726404e-13,
+    "unique": 1.667316762637113e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2532,
+    "rendered_tokens": 2532,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2532,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "K12",
+  "label": "clean",
+  "trap": "brand",
+  "variant": "rules+rsn",
+  "p": 6.315725594231231e-10,
+  "ms": 2757.964849472046,
+  "extra": {
+   "per": {
+    "name": 6.315725594231231e-10,
+    "date": 7.84424531451286e-13,
+    "contact": 4.040083247214025e-14,
+    "number": 2.6092298566762536e-10,
+    "place": 5.278546063627406e-13,
+    "unique": 3.1853361026503657e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2592,
+    "rendered_tokens": 2592,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2592,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+rsn",
+  "p": 0.999696938768942,
+  "ms": 2720.116138458252,
+  "extra": {
+   "per": {
+    "name": 0.999696938768942,
+    "date": 7.500161572709008e-10,
+    "contact": 3.095362300891345e-12,
+    "number": 7.22494399746012e-09,
+    "place": 7.093038103864398e-10,
+    "unique": 1.9222831753028657e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+rsn",
+  "p": 0.9999974011017302,
+  "ms": 479.3510437011719,
+  "extra": {
+   "per": {
+    "name": 0.9999974011017302,
+    "date": 4.309064035769253e-13,
+    "contact": 9.846424737985586e-15,
+    "number": 1.903542974757043e-13,
+    "place": 1.1320630932129029e-10,
+    "unique": 5.938078914576665e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2514,
+    "rendered_tokens": 2514,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2514,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+rsn",
+  "p": 0.9999838497976036,
+  "ms": 677.2658824920654,
+  "extra": {
+   "per": {
+    "name": 0.9999838497976036,
+    "date": 1.5845357762464966e-12,
+    "contact": 1.9150104550226126e-14,
+    "number": 1.5143917168209908e-13,
+    "place": 4.114364369926166e-12,
+    "unique": 3.063842358269262e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+rsn",
+  "p": 0.9999999869758815,
+  "ms": 570.7409381866455,
+  "extra": {
+   "per": {
+    "name": 0.9999999869758815,
+    "date": 2.146761233665655e-13,
+    "contact": 1.2265424859265371e-14,
+    "number": 4.125386472631225e-14,
+    "place": 2.4707135977781248e-12,
+    "unique": 2.5457595360291417e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2496,
+    "rendered_tokens": 2496,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2496,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+rsn",
+  "p": 0.9999995631680411,
+  "ms": 2679.4209480285645,
+  "extra": {
+   "per": {
+    "name": 0.9999995631680411,
+    "date": 1.626635061052016e-11,
+    "contact": 1.6606055228802975e-09,
+    "number": 1.1188548449034748e-13,
+    "place": 1.9119803510566873e-13,
+    "unique": 2.7002052117070216e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules+rsn",
+  "p": 0.9999999972092206,
+  "ms": 3274.963855743408,
+  "extra": {
+   "per": {
+    "name": 1.1838477354922225e-08,
+    "date": 7.731264336134535e-13,
+    "contact": 3.5191168392385434e-15,
+    "number": 8.638607137455902e-13,
+    "place": 0.9999999972092206,
+    "unique": 0.9885163940019632
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3012,
+    "rendered_tokens": 3012,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3012,
+    "output_tokens": 54
+   }
+  }
+ },
+ {
+  "id": "J07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules+rsn",
+  "p": 0.9970036543527778,
+  "ms": 316.9589042663574,
+  "extra": {
+   "per": {
+    "name": 0.9970036543527778,
+    "date": 6.934133430978914e-11,
+    "contact": 6.685415913169668e-12,
+    "number": 7.053155849221899e-10,
+    "place": 5.756906079524355e-11,
+    "unique": 3.910562535610208e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2508,
+    "rendered_tokens": 2508,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2508,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules+rsn",
+  "p": 0.9999999335325247,
+  "ms": 444.0619945526123,
+  "extra": {
+   "per": {
+    "name": 0.9999999335325247,
+    "date": 1.1544510653789422e-13,
+    "contact": 1.7440143161486812e-15,
+    "number": 7.42704957185245e-13,
+    "place": 1.957315716978611e-11,
+    "unique": 5.882295455117895e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2562,
+    "rendered_tokens": 2562,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2562,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules+rsn",
+  "p": 0.9999943725011546,
+  "ms": 1669.8987483978271,
+  "extra": {
+   "per": {
+    "name": 0.9999943725011546,
+    "date": 3.8090079102593764e-10,
+    "contact": 2.095286572879935e-14,
+    "number": 6.293554253531729e-10,
+    "place": 2.765013462238238e-11,
+    "unique": 7.620619821892769e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2520,
+    "rendered_tokens": 2520,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2520,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "J10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules+rsn",
+  "p": 0.9990564432367689,
+  "ms": 1666.1572456359863,
+  "extra": {
+   "per": {
+    "name": 0.9990564432367689,
+    "date": 0.0007474767811790848,
+    "contact": 5.689110510226468e-14,
+    "number": 3.294123449891536e-11,
+    "place": 1.1024221875588379e-11,
+    "unique": 4.2822687480166956e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 2544,
+    "rendered_tokens": 2544,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 2544,
+    "output_tokens": 0
+   }
+  }
+ }
+]

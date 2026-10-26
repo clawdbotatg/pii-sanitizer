@@ -1,0 +1,2498 @@
+[
+ {
+  "id": "LL01",
+  "label": "leak",
+  "kind": "name-first-only",
+  "strat": "tags",
+  "p": 0.9999992715554955,
+  "ms": 558.9101314544678,
+  "extra": {
+   "per": {
+    "name": 0.9999992715554955,
+    "date": 2.5537825929970724e-05,
+    "contact": 1.4021777346154762e-14,
+    "number": 1.5515169934794909e-12,
+    "place": 0.0001552956118554114,
+    "unique": 2.0500293395333826e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4986,
+    "rendered_tokens": 4986,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4986,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL02",
+  "label": "leak",
+  "kind": "name-lowercase",
+  "strat": "tags",
+  "p": 0.9999999794690797,
+  "ms": 1167.715072631836,
+  "extra": {
+   "per": {
+    "name": 0.9999999794690797,
+    "date": 3.827613277999981e-10,
+    "contact": 6.418234294751781e-14,
+    "number": 4.25259790798498e-10,
+    "place": 1.1818370462912066e-07,
+    "unique": 3.0320229814085996e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4926,
+    "rendered_tokens": 4926,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4926,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL03",
+  "label": "leak",
+  "kind": "name-common-word",
+  "strat": "tags",
+  "p": 0.9999920363564276,
+  "ms": 1194.4117546081543,
+  "extra": {
+   "per": {
+    "name": 0.9999920363564276,
+    "date": 1.0157795875821914e-07,
+    "contact": 1.238884977640145e-13,
+    "number": 8.652356935985959e-12,
+    "place": 1.0896209504052653e-06,
+    "unique": 9.039720121990997e-11
+   },
+   "usage": {
+    "billed_input_tokens": 5004,
+    "rendered_tokens": 5004,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5004,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL04",
+  "label": "leak",
+  "kind": "mrn-odd-format",
+  "strat": "tags",
+  "p": 0.9999997608918346,
+  "ms": 1197.9219913482666,
+  "extra": {
+   "per": {
+    "name": 2.2538062917767032e-05,
+    "date": 1.9237193191708015e-07,
+    "contact": 1.5040019390900107e-13,
+    "number": 0.9999997608918346,
+    "place": 3.5961959361467576e-07,
+    "unique": 1.5493423186792604e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4614,
+    "rendered_tokens": 4614,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4614,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL05",
+  "label": "leak",
+  "kind": "full-date",
+  "strat": "tags",
+  "p": 0.9999999144954865,
+  "ms": 1697.0386505126953,
+  "extra": {
+   "per": {
+    "name": 6.652824708162558e-05,
+    "date": 0.9999999144954865,
+    "contact": 2.5419827606024695e-12,
+    "number": 2.2664782828318973e-10,
+    "place": 1.6998491779605186e-06,
+    "unique": 1.1799416677881499e-11
+   },
+   "usage": {
+    "billed_input_tokens": 5004,
+    "rendered_tokens": 5004,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5004,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL06",
+  "label": "leak",
+  "kind": "dob-numeric",
+  "strat": "tags",
+  "p": 0.9998732842629857,
+  "ms": 3285.1741313934326,
+  "extra": {
+   "per": {
+    "name": 4.5910844653135655e-06,
+    "date": 0.9998732842629857,
+    "contact": 2.5594527461024734e-07,
+    "number": 0.001088367955262475,
+    "place": 2.225930531696869e-12,
+    "unique": 0.00010149320940681418
+   },
+   "usage": {
+    "billed_input_tokens": 5760,
+    "rendered_tokens": 5760,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5760,
+    "output_tokens": 70
+   }
+  }
+ },
+ {
+  "id": "LL07",
+  "label": "leak",
+  "kind": "phone",
+  "strat": "tags",
+  "p": 0.9999999999983478,
+  "ms": 1197.493076324463,
+  "extra": {
+   "per": {
+    "name": 1.04203975169153e-06,
+    "date": 1.2148349638454184e-06,
+    "contact": 0.9999999999983478,
+    "number": 5.672195845535644e-08,
+    "place": 9.055006169718133e-08,
+    "unique": 1.4673660508364404e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4752,
+    "rendered_tokens": 4752,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4752,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL08",
+  "label": "leak",
+  "kind": "email",
+  "strat": "tags",
+  "p": 0.9999999999966194,
+  "ms": 1178.788185119629,
+  "extra": {
+   "per": {
+    "name": 0.000394847491636526,
+    "date": 3.3804400711837596e-06,
+    "contact": 0.9999999999966194,
+    "number": 8.586910662245449e-10,
+    "place": 1.1778150438302162e-13,
+    "unique": 5.3235442441503064e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4830,
+    "rendered_tokens": 4830,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4830,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL09",
+  "label": "leak",
+  "kind": "street-address",
+  "strat": "tags",
+  "p": 0.9999999997840026,
+  "ms": 753.8487911224365,
+  "extra": {
+   "per": {
+    "name": 2.9620318479793847e-07,
+    "date": 2.3100252602614812e-06,
+    "contact": 2.5931418853524783e-12,
+    "number": 6.151355107478471e-05,
+    "place": 0.9999999997840026,
+    "unique": 1.417281766900118e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4830,
+    "rendered_tokens": 4830,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4830,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL10",
+  "label": "leak",
+  "kind": "small-geo",
+  "strat": "tags",
+  "p": 0.9999996942592764,
+  "ms": 773.6790180206299,
+  "extra": {
+   "per": {
+    "name": 3.690575358413885e-06,
+    "date": 6.178725111389051e-08,
+    "contact": 7.72058595780757e-08,
+    "number": 0.0057639028978663355,
+    "place": 0.9999996942592764,
+    "unique": 0.0007755761402547102
+   },
+   "usage": {
+    "billed_input_tokens": 4782,
+    "rendered_tokens": 4782,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4782,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL11",
+  "label": "leak",
+  "kind": "zip",
+  "strat": "tags",
+  "p": 0.9999999999825577,
+  "ms": 1145.3120708465576,
+  "extra": {
+   "per": {
+    "name": 3.5771753871353927e-06,
+    "date": 1.576938249349602e-05,
+    "contact": 1.8534667371834446e-15,
+    "number": 1.2911336358460374e-10,
+    "place": 0.9999999999825577,
+    "unique": 1.2168937023049404e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4908,
+    "rendered_tokens": 4908,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4908,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL12",
+  "label": "leak",
+  "kind": "age-over-89",
+  "strat": "tags",
+  "p": 0.9999999338609337,
+  "ms": 2003.1261444091797,
+  "extra": {
+   "per": {
+    "name": 2.526334864523222e-05,
+    "date": 0.9999999338609337,
+    "contact": 3.681666158400176e-06,
+    "number": 0.0021299217126321173,
+    "place": 4.588207064286742e-12,
+    "unique": 2.0283536149390682e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5956,
+    "rendered_tokens": 5956,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5956,
+    "output_tokens": 35
+   }
+  }
+ },
+ {
+  "id": "LL13",
+  "label": "leak",
+  "kind": "ssn",
+  "strat": "tags",
+  "p": 0.9999999999928499,
+  "ms": 1301.4190196990967,
+  "extra": {
+   "per": {
+    "name": 2.190572212032398e-07,
+    "date": 1.6259174941296438e-08,
+    "contact": 2.133490431034308e-11,
+    "number": 0.9999999999928499,
+    "place": 3.9018526884162423e-07,
+    "unique": 4.2167941101288193e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4866,
+    "rendered_tokens": 4866,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4866,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL14",
+  "label": "leak",
+  "kind": "employer",
+  "strat": "tags",
+  "p": 0.9999840610922741,
+  "ms": 616.581916809082,
+  "extra": {
+   "per": {
+    "name": 2.3893145609642988e-06,
+    "date": 1.8587280801209013e-07,
+    "contact": 3.0288263089033656e-14,
+    "number": 1.4641348420903996e-09,
+    "place": 0.012810379483773917,
+    "unique": 0.9999840610922741
+   },
+   "usage": {
+    "billed_input_tokens": 4926,
+    "rendered_tokens": 4926,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4926,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL15",
+  "label": "leak",
+  "kind": "vehicle-plate",
+  "strat": "tags",
+  "p": 0.9999999990401409,
+  "ms": 1213.9441967010498,
+  "extra": {
+   "per": {
+    "name": 6.945486391492674e-06,
+    "date": 1.568964920178552e-06,
+    "contact": 1.765630095367847e-06,
+    "number": 0.9999999990401409,
+    "place": 0.0010923345101011405,
+    "unique": 2.6710977808302425e-08
+   },
+   "usage": {
+    "billed_input_tokens": 5106,
+    "rendered_tokens": 5106,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5106,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL16",
+  "label": "leak",
+  "kind": "device-serial",
+  "strat": "tags",
+  "p": 0.9999999996584843,
+  "ms": 821.7546939849854,
+  "extra": {
+   "per": {
+    "name": 2.5009479712374026e-07,
+    "date": 2.568660722718576e-07,
+    "contact": 1.326840974833007e-15,
+    "number": 0.9999999996584843,
+    "place": 2.470458467232034e-13,
+    "unique": 2.2468250262114806e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4770,
+    "rendered_tokens": 4770,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4770,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL17",
+  "label": "leak",
+  "kind": "url",
+  "strat": "tags",
+  "p": 0.9999999991967996,
+  "ms": 3703.8466930389404,
+  "extra": {
+   "per": {
+    "name": 0.9934969911859611,
+    "date": 3.691190510590869e-08,
+    "contact": 0.9999999991967996,
+    "number": 3.44852028638577e-10,
+    "place": 1.1559312777649334e-10,
+    "unique": 9.177156950806283e-05
+   },
+   "usage": {
+    "billed_input_tokens": 6177,
+    "rendered_tokens": 6177,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 6177,
+    "output_tokens": 125
+   }
+  }
+ },
+ {
+  "id": "LL18",
+  "label": "leak",
+  "kind": "ip-address",
+  "strat": "tags",
+  "p": 0.9999999998919944,
+  "ms": 925.4682064056396,
+  "extra": {
+   "per": {
+    "name": 5.694907739409168e-05,
+    "date": 2.453918709470281e-05,
+    "contact": 0.9999999998919944,
+    "number": 1.104583849859161e-09,
+    "place": 1.2938209019548737e-09,
+    "unique": 8.098923151131616e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5190,
+    "rendered_tokens": 5190,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5190,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL19",
+  "label": "leak",
+  "kind": "name-in-quote",
+  "strat": "tags",
+  "p": 0.9999999898406183,
+  "ms": 858.475923538208,
+  "extra": {
+   "per": {
+    "name": 0.9999999898406183,
+    "date": 2.96644402032137e-05,
+    "contact": 2.9195861769514025e-15,
+    "number": 2.401179046488048e-07,
+    "place": 6.049462928140211e-13,
+    "unique": 2.1372279335068183e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5046,
+    "rendered_tokens": 5046,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5046,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL20",
+  "label": "leak",
+  "kind": "relative-name",
+  "strat": "tags",
+  "p": 0.9999993212093403,
+  "ms": 988.9307022094727,
+  "extra": {
+   "per": {
+    "name": 0.9999993212093403,
+    "date": 7.849989931272027e-07,
+    "contact": 2.285693111186467e-12,
+    "number": 1.1560909595401514e-11,
+    "place": 3.896593989660813e-08,
+    "unique": 3.93242117085853e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4878,
+    "rendered_tokens": 4878,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4878,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL21",
+  "label": "leak",
+  "kind": "name-partial-redaction",
+  "strat": "tags",
+  "p": 0.999999769572262,
+  "ms": 705.620288848877,
+  "extra": {
+   "per": {
+    "name": 0.999999769572262,
+    "date": 9.962501778092647e-06,
+    "contact": 7.946155639046462e-08,
+    "number": 0.00019112495300459961,
+    "place": 8.098304057464958e-11,
+    "unique": 2.5760723240681774e-09
+   },
+   "usage": {
+    "billed_input_tokens": 4680,
+    "rendered_tokens": 4680,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4680,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL22",
+  "label": "leak",
+  "kind": "unique-quasi",
+  "strat": "tags",
+  "p": 0.9999632235246373,
+  "ms": 1095.430850982666,
+  "extra": {
+   "per": {
+    "name": 0.00042550458902449687,
+    "date": 0.00016871220484781537,
+    "contact": 8.270622512517795e-08,
+    "number": 0.0021484626301215485,
+    "place": 0.9999632235246373,
+    "unique": 0.9994670555622029
+   },
+   "usage": {
+    "billed_input_tokens": 5106,
+    "rendered_tokens": 5106,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5106,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL23",
+  "label": "leak",
+  "kind": "health-plan-id",
+  "strat": "tags",
+  "p": 0.9999988447154489,
+  "ms": 979.6137809753418,
+  "extra": {
+   "per": {
+    "name": 2.924739069275022e-05,
+    "date": 7.506513751532102e-05,
+    "contact": 3.907694525404097e-07,
+    "number": 0.9999988447154489,
+    "place": 8.086446415497098e-07,
+    "unique": 1.029927748876067e-06
+   },
+   "usage": {
+    "billed_input_tokens": 4938,
+    "rendered_tokens": 4938,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4938,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL24",
+  "label": "leak",
+  "kind": "license-number",
+  "strat": "tags",
+  "p": 0.9999999949276521,
+  "ms": 1706.855058670044,
+  "extra": {
+   "per": {
+    "name": 0.00023459516630999064,
+    "date": 1.9111708947327408e-06,
+    "contact": 8.838600075024467e-12,
+    "number": 0.9999999949276521,
+    "place": 2.739670018246867e-09,
+    "unique": 2.8538777026515996e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4926,
+    "rendered_tokens": 4926,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4926,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL25",
+  "label": "leak",
+  "kind": "fax",
+  "strat": "tags",
+  "p": 0.9999999998562201,
+  "ms": 1915.477991104126,
+  "extra": {
+   "per": {
+    "name": 4.724107602306253e-06,
+    "date": 4.070974044484176e-06,
+    "contact": 0.9999999998562201,
+    "number": 0.007468403243426386,
+    "place": 4.11779909598067e-12,
+    "unique": 3.761549325553928e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5232,
+    "rendered_tokens": 5232,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5232,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL26",
+  "label": "leak",
+  "kind": "photo-ref",
+  "strat": "tags",
+  "p": 0.9999980928346903,
+  "ms": 828.2239437103271,
+  "extra": {
+   "per": {
+    "name": 3.3320296538165486e-06,
+    "date": 1.6254851364603232e-06,
+    "contact": 4.051053016699265e-06,
+    "number": 0.0013390451369383453,
+    "place": 2.6406924950305047e-07,
+    "unique": 0.9999980928346903
+   },
+   "usage": {
+    "billed_input_tokens": 5004,
+    "rendered_tokens": 5004,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5004,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL27",
+  "label": "leak",
+  "kind": "date-of-death",
+  "strat": "tags",
+  "p": 0.9999978512875982,
+  "ms": 864.8238182067871,
+  "extra": {
+   "per": {
+    "name": 3.5088922780804814e-06,
+    "date": 0.9999978512875982,
+    "contact": 2.6716424451592728e-06,
+    "number": 0.001561845730588823,
+    "place": 5.129849011817296e-13,
+    "unique": 6.115601774218674e-09
+   },
+   "usage": {
+    "billed_input_tokens": 4998,
+    "rendered_tokens": 4998,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4998,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL28",
+  "label": "leak",
+  "kind": "name-nickname",
+  "strat": "tags",
+  "p": 0.9999997266037705,
+  "ms": 1068.601131439209,
+  "extra": {
+   "per": {
+    "name": 0.9999997266037705,
+    "date": 2.293466252152127e-07,
+    "contact": 2.2776905056865693e-06,
+    "number": 0.0013892031350398967,
+    "place": 0.9986230916542254,
+    "unique": 3.012933903594204e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5196,
+    "rendered_tokens": 5196,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5196,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC01",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0002489321663908683,
+  "ms": 1412.3618602752686,
+  "extra": {
+   "per": {
+    "name": 2.166084911990641e-06,
+    "date": 1.2689695604101469e-07,
+    "contact": 1.3797267501975443e-11,
+    "number": 1.1584599212392887e-06,
+    "place": 2.5558358003630585e-11,
+    "unique": 0.0002489321663908683
+   },
+   "usage": {
+    "billed_input_tokens": 4914,
+    "rendered_tokens": 4914,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4914,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC02",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 2.851794744120434e-05,
+  "ms": 1265.777826309204,
+  "extra": {
+   "per": {
+    "name": 4.480902604367234e-06,
+    "date": 1.938636333797055e-05,
+    "contact": 4.2363565406374e-13,
+    "number": 2.7023132969936393e-07,
+    "place": 2.8867483239232615e-11,
+    "unique": 2.851794744120434e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4950,
+    "rendered_tokens": 4950,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4950,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC03",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.015718386485805112,
+  "ms": 602.7729511260986,
+  "extra": {
+   "per": {
+    "name": 1.9249632763819702e-05,
+    "date": 2.2703562938163016e-05,
+    "contact": 0.00036622705820850746,
+    "number": 0.015718386485805112,
+    "place": 1.0488310343843794e-10,
+    "unique": 0.00011333859680275348
+   },
+   "usage": {
+    "billed_input_tokens": 5040,
+    "rendered_tokens": 5040,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5040,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC04",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 5.261215905292101e-05,
+  "ms": 1560.26291847229,
+  "extra": {
+   "per": {
+    "name": 5.261215905292101e-05,
+    "date": 1.6732984004192356e-05,
+    "contact": 3.0647679144436055e-12,
+    "number": 1.3571714327225063e-09,
+    "place": 1.6520234537562398e-06,
+    "unique": 1.4994709334984779e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5142,
+    "rendered_tokens": 5142,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5142,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC05",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 2.7557803803305123e-05,
+  "ms": 1165.982961654663,
+  "extra": {
+   "per": {
+    "name": 6.184643397048271e-06,
+    "date": 3.0607232276290772e-06,
+    "contact": 8.051402775492185e-14,
+    "number": 1.897321952089847e-09,
+    "place": 2.4220643127535427e-06,
+    "unique": 2.7557803803305123e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4782,
+    "rendered_tokens": 4782,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4782,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC06",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 2.394207354088797e-05,
+  "ms": 865.7469749450684,
+  "extra": {
+   "per": {
+    "name": 2.394207354088797e-05,
+    "date": 2.2175156885811268e-05,
+    "contact": 6.754146290390083e-12,
+    "number": 2.8299986745589374e-08,
+    "place": 2.846769226550581e-07,
+    "unique": 2.1732478931214637e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5022,
+    "rendered_tokens": 5022,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5022,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC07",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0011662811219516332,
+  "ms": 1031.383752822876,
+  "extra": {
+   "per": {
+    "name": 1.2012692832541938e-06,
+    "date": 1.7893258212301973e-05,
+    "contact": 1.461434007110405e-06,
+    "number": 0.0011662811219516332,
+    "place": 5.162527576765096e-07,
+    "unique": 4.0487206414595594e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4818,
+    "rendered_tokens": 4818,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4818,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC08",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0012660516877276379,
+  "ms": 897.3641395568848,
+  "extra": {
+   "per": {
+    "name": 8.9067401378428e-06,
+    "date": 1.6898078709271217e-06,
+    "contact": 3.1876678145464747e-06,
+    "number": 0.0012660516877276379,
+    "place": 4.069161602229946e-07,
+    "unique": 4.366976205819647e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4992,
+    "rendered_tokens": 4992,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4992,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC09",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 3.802695838952347e-05,
+  "ms": 1548.6178398132324,
+  "extra": {
+   "per": {
+    "name": 1.169055813782045e-05,
+    "date": 3.802695838952347e-05,
+    "contact": 3.5522554795108407e-12,
+    "number": 1.0047902171454622e-10,
+    "place": 8.095792616066579e-08,
+    "unique": 8.088671559290312e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5088,
+    "rendered_tokens": 5088,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5088,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC10",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0016359393213403964,
+  "ms": 1488.7938499450684,
+  "extra": {
+   "per": {
+    "name": 3.1432355753325144e-06,
+    "date": 3.2744903022479663e-06,
+    "contact": 0.00015417841772899822,
+    "number": 0.0016359393213403964,
+    "place": 8.33966323085199e-07,
+    "unique": 1.2938825976139327e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5046,
+    "rendered_tokens": 5046,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5046,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC11",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 6.578877047648601e-06,
+  "ms": 1105.9730052947998,
+  "extra": {
+   "per": {
+    "name": 6.578877047648601e-06,
+    "date": 4.0148584929990055e-07,
+    "contact": 3.4865045481340554e-12,
+    "number": 1.1727428081353504e-07,
+    "place": 8.76564720250956e-07,
+    "unique": 4.3475160057386763e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5070,
+    "rendered_tokens": 5070,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5070,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC12",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 3.21781925725152e-05,
+  "ms": 837.3000621795654,
+  "extra": {
+   "per": {
+    "name": 4.019425059133892e-06,
+    "date": 1.8047861193730469e-06,
+    "contact": 4.929156787687606e-13,
+    "number": 1.9822685646752483e-10,
+    "place": 9.49095473217554e-13,
+    "unique": 3.21781925725152e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5028,
+    "rendered_tokens": 5028,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5028,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC13",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 8.693635053916203e-06,
+  "ms": 945.544958114624,
+  "extra": {
+   "per": {
+    "name": 8.693635053916203e-06,
+    "date": 6.003435307036687e-08,
+    "contact": 6.197913134877019e-12,
+    "number": 4.937359939047106e-10,
+    "place": 1.677258908065491e-07,
+    "unique": 2.1597879210236333e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4932,
+    "rendered_tokens": 4932,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4932,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC14",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 6.83379184417671e-05,
+  "ms": 665.7857894897461,
+  "extra": {
+   "per": {
+    "name": 6.83379184417671e-05,
+    "date": 1.0134643932259166e-06,
+    "contact": 7.192562629870609e-14,
+    "number": 3.2362478317921264e-09,
+    "place": 4.302758740396333e-12,
+    "unique": 9.221219100282645e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5070,
+    "rendered_tokens": 5070,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5070,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC15",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 4.346773242589573e-05,
+  "ms": 742.2120571136475,
+  "extra": {
+   "per": {
+    "name": 1.6609489956555014e-06,
+    "date": 4.346773242589573e-05,
+    "contact": 5.471167370248356e-14,
+    "number": 1.4779900532763035e-10,
+    "place": 7.636306683729917e-08,
+    "unique": 1.4535037671741115e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5052,
+    "rendered_tokens": 5052,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5052,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC16",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 9.504550214682829e-05,
+  "ms": 1461.0059261322021,
+  "extra": {
+   "per": {
+    "name": 9.504550214682829e-05,
+    "date": 4.912744654442205e-06,
+    "contact": 1.1495585388118014e-10,
+    "number": 3.9527677556371315e-10,
+    "place": 1.7223203396177474e-12,
+    "unique": 1.7119590265103613e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4878,
+    "rendered_tokens": 4878,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4878,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC17",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.00013512464436214494,
+  "ms": 1037.0588302612305,
+  "extra": {
+   "per": {
+    "name": 9.00930794188226e-06,
+    "date": 2.3301320851944607e-06,
+    "contact": 4.190977215671812e-11,
+    "number": 0.00013512464436214494,
+    "place": 3.9626261194951226e-07,
+    "unique": 5.362481604061498e-09
+   },
+   "usage": {
+    "billed_input_tokens": 4836,
+    "rendered_tokens": 4836,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4836,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC18",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.00010765083775673142,
+  "ms": 1002.366304397583,
+  "extra": {
+   "per": {
+    "name": 7.282045510447258e-06,
+    "date": 0.00010765083775673142,
+    "contact": 4.812265558229028e-10,
+    "number": 8.398979098465659e-06,
+    "place": 9.951295686500257e-07,
+    "unique": 1.3013665678494038e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5094,
+    "rendered_tokens": 5094,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5094,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC19",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 1.2005285302351083e-05,
+  "ms": 871.4566230773926,
+  "extra": {
+   "per": {
+    "name": 4.963753518572301e-06,
+    "date": 1.2005285302351083e-05,
+    "contact": 1.4587386920226891e-12,
+    "number": 2.93955565676822e-10,
+    "place": 3.3342727062523755e-08,
+    "unique": 1.7151507703064773e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4908,
+    "rendered_tokens": 4908,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4908,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC20",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 4.2618084026420375e-05,
+  "ms": 1294.2540645599365,
+  "extra": {
+   "per": {
+    "name": 4.2618084026420375e-05,
+    "date": 1.406962833242032e-05,
+    "contact": 1.377021096612125e-12,
+    "number": 7.695800661550579e-11,
+    "place": 1.0546853405539231e-05,
+    "unique": 9.886156717437015e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5052,
+    "rendered_tokens": 5052,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5052,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL01",
+  "label": "leak",
+  "kind": "name-first-only",
+  "strat": "tags",
+  "p": 0.9999992715554955,
+  "ms": 493.4220314025879,
+  "extra": {
+   "per": {
+    "name": 0.9999992715554955,
+    "date": 2.5537825929970724e-05,
+    "contact": 1.4021777346154762e-14,
+    "number": 1.5515169934794909e-12,
+    "place": 0.0001552956118554114,
+    "unique": 2.0500293395333826e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4986,
+    "rendered_tokens": 4986,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4986,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL02",
+  "label": "leak",
+  "kind": "name-lowercase",
+  "strat": "tags",
+  "p": 0.9999999794690797,
+  "ms": 638.3860111236572,
+  "extra": {
+   "per": {
+    "name": 0.9999999794690797,
+    "date": 3.827613277999981e-10,
+    "contact": 6.418234294751781e-14,
+    "number": 4.25259790798498e-10,
+    "place": 1.1818370462912066e-07,
+    "unique": 3.0320229814085996e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4926,
+    "rendered_tokens": 4926,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4926,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL03",
+  "label": "leak",
+  "kind": "name-common-word",
+  "strat": "tags",
+  "p": 0.9999920363564276,
+  "ms": 3069.7522163391113,
+  "extra": {
+   "per": {
+    "name": 0.9999920363564276,
+    "date": 1.0157795875821914e-07,
+    "contact": 1.238884977640145e-13,
+    "number": 8.652356935985959e-12,
+    "place": 1.0896209504052653e-06,
+    "unique": 9.039720121990997e-11
+   },
+   "usage": {
+    "billed_input_tokens": 5004,
+    "rendered_tokens": 5004,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5004,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL04",
+  "label": "leak",
+  "kind": "mrn-odd-format",
+  "strat": "tags",
+  "p": 0.9999997608918346,
+  "ms": 865.5967712402344,
+  "extra": {
+   "per": {
+    "name": 2.2538062917767032e-05,
+    "date": 1.9237193191708015e-07,
+    "contact": 1.5040019390900107e-13,
+    "number": 0.9999997608918346,
+    "place": 3.5961959361467576e-07,
+    "unique": 1.5493423186792604e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4614,
+    "rendered_tokens": 4614,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4614,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL05",
+  "label": "leak",
+  "kind": "full-date",
+  "strat": "tags",
+  "p": 0.9999999144954865,
+  "ms": 954.4422626495361,
+  "extra": {
+   "per": {
+    "name": 6.652824708162558e-05,
+    "date": 0.9999999144954865,
+    "contact": 2.5419827606024695e-12,
+    "number": 2.2664782828318973e-10,
+    "place": 1.6998491779605186e-06,
+    "unique": 1.1799416677881499e-11
+   },
+   "usage": {
+    "billed_input_tokens": 5004,
+    "rendered_tokens": 5004,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5004,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL06",
+  "label": "leak",
+  "kind": "dob-numeric",
+  "strat": "tags",
+  "p": 0.9998732842629857,
+  "ms": 2043.6890125274658,
+  "extra": {
+   "per": {
+    "name": 4.5910844653135655e-06,
+    "date": 0.9998732842629857,
+    "contact": 2.5594527461024734e-07,
+    "number": 0.0018786427991943156,
+    "place": 2.225930531696869e-12,
+    "unique": 0.00010149320940681418
+   },
+   "usage": {
+    "billed_input_tokens": 5760,
+    "rendered_tokens": 5760,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5760,
+    "output_tokens": 57
+   }
+  }
+ },
+ {
+  "id": "LL07",
+  "label": "leak",
+  "kind": "phone",
+  "strat": "tags",
+  "p": 0.9999999999983478,
+  "ms": 1892.2579288482666,
+  "extra": {
+   "per": {
+    "name": 1.04203975169153e-06,
+    "date": 1.2148349638454184e-06,
+    "contact": 0.9999999999983478,
+    "number": 5.672195845535644e-08,
+    "place": 9.055006169718133e-08,
+    "unique": 1.4673660508364404e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4752,
+    "rendered_tokens": 4752,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4752,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL08",
+  "label": "leak",
+  "kind": "email",
+  "strat": "tags",
+  "p": 0.9999999999966194,
+  "ms": 735.4559898376465,
+  "extra": {
+   "per": {
+    "name": 0.000394847491636526,
+    "date": 3.3804400711837596e-06,
+    "contact": 0.9999999999966194,
+    "number": 8.586910662245449e-10,
+    "place": 1.1778150438302162e-13,
+    "unique": 5.3235442441503064e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4830,
+    "rendered_tokens": 4830,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4830,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL09",
+  "label": "leak",
+  "kind": "street-address",
+  "strat": "tags",
+  "p": 0.9999999997840026,
+  "ms": 790.2181148529053,
+  "extra": {
+   "per": {
+    "name": 2.9620318479793847e-07,
+    "date": 2.3100252602614812e-06,
+    "contact": 2.5931418853524783e-12,
+    "number": 6.151355107478471e-05,
+    "place": 0.9999999997840026,
+    "unique": 1.417281766900118e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4830,
+    "rendered_tokens": 4830,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4830,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL10",
+  "label": "leak",
+  "kind": "small-geo",
+  "strat": "tags",
+  "p": 0.9999996942592764,
+  "ms": 772.3648548126221,
+  "extra": {
+   "per": {
+    "name": 3.690575358413885e-06,
+    "date": 6.178725111389051e-08,
+    "contact": 7.72058595780757e-08,
+    "number": 0.0057639028978663355,
+    "place": 0.9999996942592764,
+    "unique": 0.0007755761402547102
+   },
+   "usage": {
+    "billed_input_tokens": 4782,
+    "rendered_tokens": 4782,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4782,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL11",
+  "label": "leak",
+  "kind": "zip",
+  "strat": "tags",
+  "p": 0.9999999999825577,
+  "ms": 846.4031219482422,
+  "extra": {
+   "per": {
+    "name": 3.5771753871353927e-06,
+    "date": 1.576938249349602e-05,
+    "contact": 1.8534667371834446e-15,
+    "number": 1.2911336358460374e-10,
+    "place": 0.9999999999825577,
+    "unique": 1.2168937023049404e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4908,
+    "rendered_tokens": 4908,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4908,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL12",
+  "label": "leak",
+  "kind": "age-over-89",
+  "strat": "tags",
+  "p": 0.9999999338609337,
+  "ms": 2625.5269050598145,
+  "extra": {
+   "per": {
+    "name": 2.526334864523222e-05,
+    "date": 0.9999999338609337,
+    "contact": 3.681666158400176e-06,
+    "number": 0.0021299217126321173,
+    "place": 4.588207064286742e-12,
+    "unique": 2.0283536149390682e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5956,
+    "rendered_tokens": 5956,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5956,
+    "output_tokens": 35
+   }
+  }
+ },
+ {
+  "id": "LL13",
+  "label": "leak",
+  "kind": "ssn",
+  "strat": "tags",
+  "p": 0.9999999999928499,
+  "ms": 548.1469631195068,
+  "extra": {
+   "per": {
+    "name": 2.190572212032398e-07,
+    "date": 1.6259174941296438e-08,
+    "contact": 2.133490431034308e-11,
+    "number": 0.9999999999928499,
+    "place": 3.9018526884162423e-07,
+    "unique": 4.2167941101288193e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4866,
+    "rendered_tokens": 4866,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4866,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL14",
+  "label": "leak",
+  "kind": "employer",
+  "strat": "tags",
+  "p": 0.9999840610922741,
+  "ms": 767.4350738525391,
+  "extra": {
+   "per": {
+    "name": 2.3893145609642988e-06,
+    "date": 1.8587280801209013e-07,
+    "contact": 3.0288263089033656e-14,
+    "number": 1.4641348420903996e-09,
+    "place": 0.012810379483773917,
+    "unique": 0.9999840610922741
+   },
+   "usage": {
+    "billed_input_tokens": 4926,
+    "rendered_tokens": 4926,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4926,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL15",
+  "label": "leak",
+  "kind": "vehicle-plate",
+  "strat": "tags",
+  "p": 0.9999999990401409,
+  "ms": 1139.1749382019043,
+  "extra": {
+   "per": {
+    "name": 6.945486391492674e-06,
+    "date": 1.568964920178552e-06,
+    "contact": 1.765630095367847e-06,
+    "number": 0.9999999990401409,
+    "place": 0.0010923345101011405,
+    "unique": 2.6710977808302425e-08
+   },
+   "usage": {
+    "billed_input_tokens": 5106,
+    "rendered_tokens": 5106,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5106,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL16",
+  "label": "leak",
+  "kind": "device-serial",
+  "strat": "tags",
+  "p": 0.9999999996584843,
+  "ms": 1008.5480213165283,
+  "extra": {
+   "per": {
+    "name": 2.5009479712374026e-07,
+    "date": 2.568660722718576e-07,
+    "contact": 1.326840974833007e-15,
+    "number": 0.9999999996584843,
+    "place": 2.470458467232034e-13,
+    "unique": 2.2468250262114806e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4770,
+    "rendered_tokens": 4770,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4770,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL17",
+  "label": "leak",
+  "kind": "url",
+  "strat": "tags",
+  "p": 0.9999999991967996,
+  "ms": 1463.0868434906006,
+  "extra": {
+   "per": {
+    "name": 0.9916816459635456,
+    "date": 3.691190510590869e-08,
+    "contact": 0.9999999991967996,
+    "number": 3.44852028638577e-10,
+    "place": 1.1559312777649334e-10,
+    "unique": 9.177156950806283e-05
+   },
+   "usage": {
+    "billed_input_tokens": 6177,
+    "rendered_tokens": 6177,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 6177,
+    "output_tokens": 66
+   }
+  }
+ },
+ {
+  "id": "LL18",
+  "label": "leak",
+  "kind": "ip-address",
+  "strat": "tags",
+  "p": 0.9999999998919944,
+  "ms": 1413.910150527954,
+  "extra": {
+   "per": {
+    "name": 5.694907739409168e-05,
+    "date": 2.453918709470281e-05,
+    "contact": 0.9999999998919944,
+    "number": 1.104583849859161e-09,
+    "place": 1.2938209019548737e-09,
+    "unique": 8.098923151131616e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5190,
+    "rendered_tokens": 5190,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5190,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL19",
+  "label": "leak",
+  "kind": "name-in-quote",
+  "strat": "tags",
+  "p": 0.9999999898406183,
+  "ms": 1161.9207859039307,
+  "extra": {
+   "per": {
+    "name": 0.9999999898406183,
+    "date": 2.96644402032137e-05,
+    "contact": 2.9195861769514025e-15,
+    "number": 2.401179046488048e-07,
+    "place": 6.049462928140211e-13,
+    "unique": 2.1372279335068183e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5046,
+    "rendered_tokens": 5046,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5046,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL20",
+  "label": "leak",
+  "kind": "relative-name",
+  "strat": "tags",
+  "p": 0.9999993212093403,
+  "ms": 1364.1207218170166,
+  "extra": {
+   "per": {
+    "name": 0.9999993212093403,
+    "date": 7.849989931272027e-07,
+    "contact": 2.285693111186467e-12,
+    "number": 1.1560909595401514e-11,
+    "place": 3.896593989660813e-08,
+    "unique": 3.93242117085853e-11
+   },
+   "usage": {
+    "billed_input_tokens": 4878,
+    "rendered_tokens": 4878,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4878,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL21",
+  "label": "leak",
+  "kind": "name-partial-redaction",
+  "strat": "tags",
+  "p": 0.999999769572262,
+  "ms": 680.016040802002,
+  "extra": {
+   "per": {
+    "name": 0.999999769572262,
+    "date": 9.962501778092647e-06,
+    "contact": 7.946155639046462e-08,
+    "number": 0.00019112495300459961,
+    "place": 8.098304057464958e-11,
+    "unique": 2.5760723240681774e-09
+   },
+   "usage": {
+    "billed_input_tokens": 4680,
+    "rendered_tokens": 4680,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4680,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL22",
+  "label": "leak",
+  "kind": "unique-quasi",
+  "strat": "tags",
+  "p": 0.9999632235246373,
+  "ms": 1910.536289215088,
+  "extra": {
+   "per": {
+    "name": 0.00042550458902449687,
+    "date": 0.00016871220484781537,
+    "contact": 8.270622512517795e-08,
+    "number": 0.0021484626301215485,
+    "place": 0.9999632235246373,
+    "unique": 0.9994670555622029
+   },
+   "usage": {
+    "billed_input_tokens": 5106,
+    "rendered_tokens": 5106,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5106,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL23",
+  "label": "leak",
+  "kind": "health-plan-id",
+  "strat": "tags",
+  "p": 0.9999988447154489,
+  "ms": 1863.9240264892578,
+  "extra": {
+   "per": {
+    "name": 2.924739069275022e-05,
+    "date": 7.506513751532102e-05,
+    "contact": 3.907694525404097e-07,
+    "number": 0.9999988447154489,
+    "place": 8.086446415497098e-07,
+    "unique": 1.029927748876067e-06
+   },
+   "usage": {
+    "billed_input_tokens": 4938,
+    "rendered_tokens": 4938,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4938,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL24",
+  "label": "leak",
+  "kind": "license-number",
+  "strat": "tags",
+  "p": 0.9999999949276521,
+  "ms": 1424.7376918792725,
+  "extra": {
+   "per": {
+    "name": 0.00023459516630999064,
+    "date": 1.9111708947327408e-06,
+    "contact": 8.838600075024467e-12,
+    "number": 0.9999999949276521,
+    "place": 2.739670018246867e-09,
+    "unique": 2.8538777026515996e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4926,
+    "rendered_tokens": 4926,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4926,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL25",
+  "label": "leak",
+  "kind": "fax",
+  "strat": "tags",
+  "p": 0.9999999998562201,
+  "ms": 1501.7969608306885,
+  "extra": {
+   "per": {
+    "name": 4.724107602306253e-06,
+    "date": 4.070974044484176e-06,
+    "contact": 0.9999999998562201,
+    "number": 0.007468403243426386,
+    "place": 4.11779909598067e-12,
+    "unique": 3.761549325553928e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5232,
+    "rendered_tokens": 5232,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5232,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL26",
+  "label": "leak",
+  "kind": "photo-ref",
+  "strat": "tags",
+  "p": 0.9999980928346903,
+  "ms": 1285.7580184936523,
+  "extra": {
+   "per": {
+    "name": 3.3320296538165486e-06,
+    "date": 1.6254851364603232e-06,
+    "contact": 4.051053016699265e-06,
+    "number": 0.0013390451369383453,
+    "place": 2.6406924950305047e-07,
+    "unique": 0.9999980928346903
+   },
+   "usage": {
+    "billed_input_tokens": 5004,
+    "rendered_tokens": 5004,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5004,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL27",
+  "label": "leak",
+  "kind": "date-of-death",
+  "strat": "tags",
+  "p": 0.9999978512875982,
+  "ms": 1480.8309078216553,
+  "extra": {
+   "per": {
+    "name": 3.5088922780804814e-06,
+    "date": 0.9999978512875982,
+    "contact": 2.6716424451592728e-06,
+    "number": 0.001561845730588823,
+    "place": 5.129849011817296e-13,
+    "unique": 6.115601774218674e-09
+   },
+   "usage": {
+    "billed_input_tokens": 4998,
+    "rendered_tokens": 4998,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4998,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LL28",
+  "label": "leak",
+  "kind": "name-nickname",
+  "strat": "tags",
+  "p": 0.9999997266037705,
+  "ms": 1009.6797943115234,
+  "extra": {
+   "per": {
+    "name": 0.9999997266037705,
+    "date": 2.293466252152127e-07,
+    "contact": 2.2776905056865693e-06,
+    "number": 0.0013892031350398967,
+    "place": 0.9986230916542254,
+    "unique": 3.012933903594204e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5196,
+    "rendered_tokens": 5196,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5196,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC01",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0002489321663908683,
+  "ms": 1150.5260467529297,
+  "extra": {
+   "per": {
+    "name": 2.166084911990641e-06,
+    "date": 1.2689695604101469e-07,
+    "contact": 1.3797267501975443e-11,
+    "number": 1.1584599212392887e-06,
+    "place": 2.5558358003630585e-11,
+    "unique": 0.0002489321663908683
+   },
+   "usage": {
+    "billed_input_tokens": 4914,
+    "rendered_tokens": 4914,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4914,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC02",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 2.851794744120434e-05,
+  "ms": 1165.7750606536865,
+  "extra": {
+   "per": {
+    "name": 4.480902604367234e-06,
+    "date": 1.938636333797055e-05,
+    "contact": 4.2363565406374e-13,
+    "number": 2.7023132969936393e-07,
+    "place": 2.8867483239232615e-11,
+    "unique": 2.851794744120434e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4950,
+    "rendered_tokens": 4950,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4950,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC03",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.015718386485805112,
+  "ms": 1627.9139518737793,
+  "extra": {
+   "per": {
+    "name": 1.9249632763819702e-05,
+    "date": 2.2703562938163016e-05,
+    "contact": 0.00036622705820850746,
+    "number": 0.015718386485805112,
+    "place": 1.0488310343843794e-10,
+    "unique": 0.00011333859680275348
+   },
+   "usage": {
+    "billed_input_tokens": 5040,
+    "rendered_tokens": 5040,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5040,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC04",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 5.261215905292101e-05,
+  "ms": 965.8880233764648,
+  "extra": {
+   "per": {
+    "name": 5.261215905292101e-05,
+    "date": 1.6732984004192356e-05,
+    "contact": 3.0647679144436055e-12,
+    "number": 1.3571714327225063e-09,
+    "place": 1.6520234537562398e-06,
+    "unique": 1.4994709334984779e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5142,
+    "rendered_tokens": 5142,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5142,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC05",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 2.7557803803305123e-05,
+  "ms": 2614.2420768737793,
+  "extra": {
+   "per": {
+    "name": 6.184643397048271e-06,
+    "date": 3.0607232276290772e-06,
+    "contact": 8.051402775492185e-14,
+    "number": 1.897321952089847e-09,
+    "place": 2.4220643127535427e-06,
+    "unique": 2.7557803803305123e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4782,
+    "rendered_tokens": 4782,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4782,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC06",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 2.394207354088797e-05,
+  "ms": 1124.0260601043701,
+  "extra": {
+   "per": {
+    "name": 2.394207354088797e-05,
+    "date": 2.2175156885811268e-05,
+    "contact": 6.754146290390083e-12,
+    "number": 2.8299986745589374e-08,
+    "place": 2.846769226550581e-07,
+    "unique": 2.1732478931214637e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5022,
+    "rendered_tokens": 5022,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5022,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC07",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0011662811219516332,
+  "ms": 1435.1117610931396,
+  "extra": {
+   "per": {
+    "name": 1.2012692832541938e-06,
+    "date": 1.7893258212301973e-05,
+    "contact": 1.461434007110405e-06,
+    "number": 0.0011662811219516332,
+    "place": 5.162527576765096e-07,
+    "unique": 4.0487206414595594e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4818,
+    "rendered_tokens": 4818,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4818,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC08",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0012660516877276379,
+  "ms": 640.5129432678223,
+  "extra": {
+   "per": {
+    "name": 8.9067401378428e-06,
+    "date": 1.6898078709271217e-06,
+    "contact": 3.1876678145464747e-06,
+    "number": 0.0012660516877276379,
+    "place": 4.069161602229946e-07,
+    "unique": 4.366976205819647e-05
+   },
+   "usage": {
+    "billed_input_tokens": 4992,
+    "rendered_tokens": 4992,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4992,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC09",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 3.802695838952347e-05,
+  "ms": 1548.110008239746,
+  "extra": {
+   "per": {
+    "name": 1.169055813782045e-05,
+    "date": 3.802695838952347e-05,
+    "contact": 3.5522554795108407e-12,
+    "number": 1.0047902171454622e-10,
+    "place": 8.095792616066579e-08,
+    "unique": 8.088671559290312e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5088,
+    "rendered_tokens": 5088,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5088,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC10",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.0016359393213403964,
+  "ms": 1767.7628993988037,
+  "extra": {
+   "per": {
+    "name": 3.1432355753325144e-06,
+    "date": 3.2744903022479663e-06,
+    "contact": 0.00015417841772899822,
+    "number": 0.0016359393213403964,
+    "place": 8.33966323085199e-07,
+    "unique": 1.2938825976139327e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5046,
+    "rendered_tokens": 5046,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5046,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC11",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 6.578877047648601e-06,
+  "ms": 2458.047866821289,
+  "extra": {
+   "per": {
+    "name": 6.578877047648601e-06,
+    "date": 4.0148584929990055e-07,
+    "contact": 3.4865045481340554e-12,
+    "number": 1.1727428081353504e-07,
+    "place": 8.76564720250956e-07,
+    "unique": 4.3475160057386763e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5070,
+    "rendered_tokens": 5070,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5070,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC12",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 3.21781925725152e-05,
+  "ms": 646.4929580688477,
+  "extra": {
+   "per": {
+    "name": 4.019425059133892e-06,
+    "date": 1.8047861193730469e-06,
+    "contact": 4.929156787687606e-13,
+    "number": 1.9822685646752483e-10,
+    "place": 9.49095473217554e-13,
+    "unique": 3.21781925725152e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5028,
+    "rendered_tokens": 5028,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5028,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC13",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 8.693635053916203e-06,
+  "ms": 1358.99019241333,
+  "extra": {
+   "per": {
+    "name": 8.693635053916203e-06,
+    "date": 6.003435307036687e-08,
+    "contact": 6.197913134877019e-12,
+    "number": 4.937359939047106e-10,
+    "place": 1.677258908065491e-07,
+    "unique": 2.1597879210236333e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4932,
+    "rendered_tokens": 4932,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4932,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC14",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 6.83379184417671e-05,
+  "ms": 2493.966817855835,
+  "extra": {
+   "per": {
+    "name": 6.83379184417671e-05,
+    "date": 1.0134643932259166e-06,
+    "contact": 7.192562629870609e-14,
+    "number": 3.2362478317921264e-09,
+    "place": 4.302758740396333e-12,
+    "unique": 9.221219100282645e-09
+   },
+   "usage": {
+    "billed_input_tokens": 5070,
+    "rendered_tokens": 5070,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5070,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC15",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 4.346773242589573e-05,
+  "ms": 1822.1170902252197,
+  "extra": {
+   "per": {
+    "name": 1.6609489956555014e-06,
+    "date": 4.346773242589573e-05,
+    "contact": 5.471167370248356e-14,
+    "number": 1.4779900532763035e-10,
+    "place": 7.636306683729917e-08,
+    "unique": 1.4535037671741115e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5052,
+    "rendered_tokens": 5052,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5052,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC16",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 9.504550214682829e-05,
+  "ms": 1170.0491905212402,
+  "extra": {
+   "per": {
+    "name": 9.504550214682829e-05,
+    "date": 4.912744654442205e-06,
+    "contact": 1.1495585388118014e-10,
+    "number": 3.9527677556371315e-10,
+    "place": 1.7223203396177474e-12,
+    "unique": 1.7119590265103613e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4878,
+    "rendered_tokens": 4878,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4878,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC17",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.00013512464436214494,
+  "ms": 642.4221992492676,
+  "extra": {
+   "per": {
+    "name": 9.00930794188226e-06,
+    "date": 2.3301320851944607e-06,
+    "contact": 4.190977215671812e-11,
+    "number": 0.00013512464436214494,
+    "place": 3.9626261194951226e-07,
+    "unique": 5.362481604061498e-09
+   },
+   "usage": {
+    "billed_input_tokens": 4836,
+    "rendered_tokens": 4836,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4836,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC18",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 0.00010765083775673142,
+  "ms": 586.054801940918,
+  "extra": {
+   "per": {
+    "name": 7.282045510447258e-06,
+    "date": 0.00010765083775673142,
+    "contact": 4.812265558229028e-10,
+    "number": 8.398979098465659e-06,
+    "place": 9.951295686500257e-07,
+    "unique": 1.3013665678494038e-05
+   },
+   "usage": {
+    "billed_input_tokens": 5094,
+    "rendered_tokens": 5094,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5094,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC19",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 1.2005285302351083e-05,
+  "ms": 621.4659214019775,
+  "extra": {
+   "per": {
+    "name": 4.963753518572301e-06,
+    "date": 1.2005285302351083e-05,
+    "contact": 1.4587386920226891e-12,
+    "number": 2.93955565676822e-10,
+    "place": 3.3342727062523755e-08,
+    "unique": 1.7151507703064773e-10
+   },
+   "usage": {
+    "billed_input_tokens": 4908,
+    "rendered_tokens": 4908,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4908,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "LC20",
+  "label": "clean",
+  "kind": "long-clean",
+  "strat": "tags",
+  "p": 4.2618084026420375e-05,
+  "ms": 1504.1358470916748,
+  "extra": {
+   "per": {
+    "name": 4.2618084026420375e-05,
+    "date": 1.406962833242032e-05,
+    "contact": 1.377021096612125e-12,
+    "number": 7.695800661550579e-11,
+    "place": 1.0546853405539231e-05,
+    "unique": 9.886156717437015e-10
+   },
+   "usage": {
+    "billed_input_tokens": 5052,
+    "rendered_tokens": 5052,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5052,
+    "output_tokens": 0
+   }
+  }
+ }
+]

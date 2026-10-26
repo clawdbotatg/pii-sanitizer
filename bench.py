@@ -43,13 +43,30 @@ ENSEMBLE = {
               "identify the patient?",
 }
 
+# Gotcha rules: cut long-note false alarms 6/40 -> 0/40 with no missed leaks
+# (gotcha_bench.py). Sage reads the whole list; keep it short.
+RULES = (
+    "These are NOT identifiers: diseases, signs, scores, procedures, instruments or syndromes "
+    "named after a person or place (Lou Gehrig's disease, Parkinson's, Lyme disease, Whipple, "
+    "Babinski, Apgar); drug and device brand names; a famous person the patient only talks about; "
+    "ordinary words like hope, will, grant, mark, may; hospital units (4 West, MICU); years "
+    "alone, holidays, seasons; vitals and dose ratios like 120/80. "
+    "These ARE identifiers even if the same word is a disease or common word: a person's name "
+    "used as a name (Mr. Parkinson, daughter Hope, son Will Grant), the patient's own name even "
+    "if a celebrity shares it, a town the patient lives in, initials, nicknames. ")
+
 TAGS = [
-    {"id": "name", "name": "name: name or nickname of the patient, a relative or another private person; not a [PLACEHOLDER] and not a disease or drug named after someone"},
+    {"id": "name", "name": "name: a name, nickname or initials used to refer to the "
+     "patient, a relative or another private person; not a [PLACEHOLDER]; not a disease, "
+     "sign, procedure, drug or famous person merely mentioned"},
     {"id": "date", "name": "date: a calendar date with day/month, or an age over 89; a year alone is fine"},
     {"id": "contact", "name": "contact: phone, fax, email, URL or IP address"},
     {"id": "number", "name": "number: SSN, MRN, account, member, license, plate or device serial"},
     {"id": "place", "name": "place: street address, ZIP, or a town/city; a state alone is fine"},
     {"id": "unique", "name": "unique: employer, specific role, or photo that singles the patient out"},
+    # Without this, "Patient Selena Gomez (no relation)" buried in a long note scored 0.001.
+    {"id": "self", "name": "self: the patient's own name written out as who the patient is "
+     "(after 'Patient', 'Pt', 'Mr.', 'Ms.'), even if a celebrity has the same name"},
 ]
 
 
@@ -88,7 +105,7 @@ def run_ensemble(text):
 def run_tags(text):
     r, ms = post("/decide", {"content": content(text), "question": {
         "kind": "tags", "id": "phi", "tags": TAGS,
-        "instructions": PREAMBLE + "Tag each kind of identifier that is still present in plain text."}})
+        "instructions": PREAMBLE + RULES + "Tag each kind of identifier that is still present in plain text."}})
     per = {t["id"]: t["probability"] for t in r["result"]["tags"]}
     return max(per.values()), ms, {"per": per, "usage": r["meta"].get("usage")}
 

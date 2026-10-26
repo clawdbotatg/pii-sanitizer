@@ -1,0 +1,2422 @@
+[
+ {
+  "id": "KL01",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.012854777313684744,
+  "ms": 672.7588176727295,
+  "extra": {
+   "per": {
+    "name": 0.012854777313684744,
+    "date": 2.1372957326045132e-08,
+    "contact": 8.869438531812483e-14,
+    "number": 5.204958439704352e-11,
+    "place": 1.3101826070444972e-11,
+    "unique": 9.236098515578536e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3828,
+    "rendered_tokens": 3828,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3828,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL02",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 3.430333680695469e-05,
+  "ms": 1507.0850849151611,
+  "extra": {
+   "per": {
+    "name": 3.430333680695469e-05,
+    "date": 9.843791506684112e-10,
+    "contact": 4.6934692446757666e-15,
+    "number": 2.641265759417206e-12,
+    "place": 5.184533635302474e-13,
+    "unique": 1.1854801059877383e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3714,
+    "rendered_tokens": 3714,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3714,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL03",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 1.7117830656527532e-05,
+  "ms": 1894.902229309082,
+  "extra": {
+   "per": {
+    "name": 1.7117830656527532e-05,
+    "date": 2.6161960365634693e-09,
+    "contact": 5.976808536689304e-15,
+    "number": 1.2934496293736316e-11,
+    "place": 9.501897547890818e-12,
+    "unique": 6.235993565051865e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3780,
+    "rendered_tokens": 3780,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3780,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL04",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.00010018010261184005,
+  "ms": 1503.0441284179688,
+  "extra": {
+   "per": {
+    "name": 0.00010018010261184005,
+    "date": 6.3131339241363e-08,
+    "contact": 4.111431158642154e-14,
+    "number": 2.171592733575204e-10,
+    "place": 9.852567114675774e-10,
+    "unique": 3.0434633998214676e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3768,
+    "rendered_tokens": 3768,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3768,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL05",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.00020841050526483983,
+  "ms": 1907.923936843872,
+  "extra": {
+   "per": {
+    "name": 0.00020841050526483983,
+    "date": 5.980245555069051e-09,
+    "contact": 3.6935355722369424e-14,
+    "number": 1.685152519018546e-11,
+    "place": 8.835974290056144e-10,
+    "unique": 7.050898535178527e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3726,
+    "rendered_tokens": 3726,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3726,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL06",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0005868351608588533,
+  "ms": 2564.736843109131,
+  "extra": {
+   "per": {
+    "name": 1.6303790811211233e-05,
+    "date": 3.569961007696706e-10,
+    "contact": 2.250012484535853e-14,
+    "number": 2.481852069101691e-10,
+    "place": 7.694324929622484e-10,
+    "unique": 0.0005868351608588533
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3762,
+    "rendered_tokens": 3762,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3762,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL07",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 4.987353925162556e-05,
+  "ms": 1491.5809631347656,
+  "extra": {
+   "per": {
+    "name": 3.6412883474749775e-05,
+    "date": 1.493599972627838e-08,
+    "contact": 1.803954765376697e-14,
+    "number": 1.3858671135416762e-11,
+    "place": 1.4848066640585208e-10,
+    "unique": 4.987353925162556e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3792,
+    "rendered_tokens": 3792,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3792,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL08",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0005951699672836843,
+  "ms": 653.0790328979492,
+  "extra": {
+   "per": {
+    "name": 0.0005951699672836843,
+    "date": 3.852798975226573e-09,
+    "contact": 1.44320059111641e-14,
+    "number": 7.732154937402515e-12,
+    "place": 4.7173451450354884e-11,
+    "unique": 5.17847418005299e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3762,
+    "rendered_tokens": 3762,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3762,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL09",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0011496564311175579,
+  "ms": 1879.4219493865967,
+  "extra": {
+   "per": {
+    "name": 0.0011496564311175579,
+    "date": 3.873899337840223e-08,
+    "contact": 2.316488899316316e-14,
+    "number": 5.0682181329429156e-11,
+    "place": 1.1723772298070335e-08,
+    "unique": 7.590304209748009e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3804,
+    "rendered_tokens": 3804,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3804,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL10",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0028283366944874544,
+  "ms": 435.7428550720215,
+  "extra": {
+   "per": {
+    "name": 0.0028283366944874544,
+    "date": 9.852909132883041e-09,
+    "contact": 1.7944532423429218e-14,
+    "number": 2.9063957214619572e-11,
+    "place": 2.8350020226024576e-10,
+    "unique": 5.898730147821889e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3810,
+    "rendered_tokens": 3810,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3810,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL11",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.00015409804077088493,
+  "ms": 1465.695858001709,
+  "extra": {
+   "per": {
+    "name": 0.00015409804077088493,
+    "date": 1.6162423511043888e-09,
+    "contact": 7.012900018278053e-14,
+    "number": 6.248191449803837e-12,
+    "place": 4.358585779308022e-08,
+    "unique": 9.569810094761913e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3732,
+    "rendered_tokens": 3732,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3732,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL12",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0008486040545619633,
+  "ms": 1637.5539302825928,
+  "extra": {
+   "per": {
+    "name": 0.0008486040545619633,
+    "date": 1.2482562609728915e-09,
+    "contact": 2.0566139179765625e-14,
+    "number": 9.544687049285055e-11,
+    "place": 1.5371786541701924e-11,
+    "unique": 8.536584285620847e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3768,
+    "rendered_tokens": 3768,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3768,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.9999109724682163,
+  "ms": 524.1799354553223,
+  "extra": {
+   "per": {
+    "name": 0.9999109724682163,
+    "date": 6.974962388882281e-08,
+    "contact": 2.783318387615425e-14,
+    "number": 5.603349620919692e-12,
+    "place": 1.6631001966731195e-11,
+    "unique": 6.639449395878013e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3654,
+    "rendered_tokens": 3654,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3654,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.9999999308485409,
+  "ms": 1628.0298233032227,
+  "extra": {
+   "per": {
+    "name": 0.9999999308485409,
+    "date": 9.339498719291206e-08,
+    "contact": 2.5370712452236245e-15,
+    "number": 1.1279635890492132e-12,
+    "place": 4.849598259482895e-13,
+    "unique": 9.426860004262771e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3720,
+    "rendered_tokens": 3720,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3720,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999989961488226,
+  "ms": 1884.2167854309082,
+  "extra": {
+   "per": {
+    "name": 0.9999989961488226,
+    "date": 1.179776221839636e-08,
+    "contact": 7.582955139205479e-15,
+    "number": 2.4112316037842533e-12,
+    "place": 3.6589579490608714e-11,
+    "unique": 2.5819136801030407e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3726,
+    "rendered_tokens": 3726,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3726,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999941155067309,
+  "ms": 1838.8080596923828,
+  "extra": {
+   "per": {
+    "name": 0.9999941155067309,
+    "date": 9.941721891633741e-09,
+    "contact": 3.5295676732009135e-15,
+    "number": 2.651408041331523e-12,
+    "place": 1.647046747038399e-12,
+    "unique": 2.2882638454564134e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3714,
+    "rendered_tokens": 3714,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3714,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999999887391532,
+  "ms": 1723.0157852172852,
+  "extra": {
+   "per": {
+    "name": 0.9999999887391532,
+    "date": 4.802222542593833e-10,
+    "contact": 1.3418059391503867e-13,
+    "number": 4.6119061498986924e-14,
+    "place": 6.329009286242001e-10,
+    "unique": 3.459838215105914e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3690,
+    "rendered_tokens": 3690,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3690,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules",
+  "p": 0.9999999992596464,
+  "ms": 3714.643955230713,
+  "extra": {
+   "per": {
+    "name": 0.00012118591081570659,
+    "date": 2.91578234426442e-08,
+    "contact": 1.1597006567650507e-14,
+    "number": 1.75059618193424e-12,
+    "place": 0.9999999992596464,
+    "unique": 0.002813968695439619
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4440,
+    "rendered_tokens": 4440,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4440,
+    "output_tokens": 75
+   }
+  }
+ },
+ {
+  "id": "JL07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules",
+  "p": 0.0007694476766886783,
+  "ms": 815.0207996368408,
+  "extra": {
+   "per": {
+    "name": 0.0007694476766886783,
+    "date": 1.0025626740861616e-08,
+    "contact": 2.984686044746084e-14,
+    "number": 3.2375568880846484e-11,
+    "place": 3.6378571151650337e-12,
+    "unique": 7.048966718877257e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3744,
+    "rendered_tokens": 3744,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3744,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules",
+  "p": 0.9999999915548662,
+  "ms": 817.0070648193359,
+  "extra": {
+   "per": {
+    "name": 0.9999999915548662,
+    "date": 6.923891000313058e-11,
+    "contact": 1.2752775246122166e-15,
+    "number": 1.0832116720150714e-12,
+    "place": 1.6070301257749072e-09,
+    "unique": 3.2632708003233493e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3774,
+    "rendered_tokens": 3774,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3774,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules",
+  "p": 0.9999893243131672,
+  "ms": 1262.160062789917,
+  "extra": {
+   "per": {
+    "name": 0.9999893243131672,
+    "date": 9.372905508828594e-11,
+    "contact": 4.088720033592444e-15,
+    "number": 1.7566706359086798e-10,
+    "place": 3.905166769717564e-12,
+    "unique": 4.3989793190627315e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3732,
+    "rendered_tokens": 3732,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3732,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules",
+  "p": 0.9999937401258877,
+  "ms": 624.443769454956,
+  "extra": {
+   "per": {
+    "name": 0.9999937401258877,
+    "date": 0.002207231997164133,
+    "contact": 3.604714791695796e-15,
+    "number": 7.855091881582053e-12,
+    "place": 5.524712795189184e-11,
+    "unique": 7.59595957536889e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3702,
+    "rendered_tokens": 3702,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3702,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL01",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0014138111852882611,
+  "ms": 1388.2520198822021,
+  "extra": {
+   "per": {
+    "name": 0.0014138111852882611,
+    "date": 1.4477863816221794e-07,
+    "contact": 9.356858871860769e-14,
+    "number": 2.5697287177360477e-11,
+    "place": 9.103587471797099e-12,
+    "unique": 9.362733497815953e-10,
+    "self": 3.4008962580648074e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4740,
+    "rendered_tokens": 4740,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4740,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL02",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0001427959453061789,
+  "ms": 1230.0589084625244,
+  "extra": {
+   "per": {
+    "name": 0.0001427959453061789,
+    "date": 1.2286433977952645e-09,
+    "contact": 5.794419509967808e-15,
+    "number": 6.323957215641675e-13,
+    "place": 1.5406980184756397e-12,
+    "unique": 5.651610975588062e-11,
+    "self": 1.9795251632598073e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4607,
+    "rendered_tokens": 4607,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4607,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL03",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 2.5661875743751727e-05,
+  "ms": 945.1427459716797,
+  "extra": {
+   "per": {
+    "name": 2.5661875743751727e-05,
+    "date": 3.250883006356078e-09,
+    "contact": 5.49937224467659e-15,
+    "number": 1.0564154713069222e-12,
+    "place": 9.684275260339654e-13,
+    "unique": 3.2841152689311175e-11,
+    "self": 1.2243763950862697e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4684,
+    "rendered_tokens": 4684,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4684,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL04",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.00018139586766493097,
+  "ms": 949.9661922454834,
+  "extra": {
+   "per": {
+    "name": 0.00018139586766493097,
+    "date": 1.1532896094738415e-08,
+    "contact": 7.145686547128948e-14,
+    "number": 1.37582863196657e-10,
+    "place": 2.4861902024822294e-10,
+    "unique": 1.5311924243522343e-06,
+    "self": 2.673216111104495e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4670,
+    "rendered_tokens": 4670,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4670,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL05",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0001937903436606721,
+  "ms": 592.7920341491699,
+  "extra": {
+   "per": {
+    "name": 0.0001937903436606721,
+    "date": 3.2402722010578043e-09,
+    "contact": 6.636991275648832e-14,
+    "number": 7.2242991475548635e-12,
+    "place": 1.53799569450487e-09,
+    "unique": 3.723746186986571e-05,
+    "self": 3.4019403312147786e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4621,
+    "rendered_tokens": 4621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL06",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 3.7895276770891e-05,
+  "ms": 467.3631191253662,
+  "extra": {
+   "per": {
+    "name": 8.899204854493922e-06,
+    "date": 1.1700061945736833e-10,
+    "contact": 1.998869562443377e-14,
+    "number": 1.4194665403656337e-11,
+    "place": 1.4218868782195022e-10,
+    "unique": 3.7895276770891e-05,
+    "self": 4.464389836359229e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4663,
+    "rendered_tokens": 4663,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4663,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL07",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 1.9995437044198304e-05,
+  "ms": 466.472864151001,
+  "extra": {
+   "per": {
+    "name": 7.4185563054663575e-06,
+    "date": 1.2319787190049491e-08,
+    "contact": 3.0321137762260636e-14,
+    "number": 4.606251008132857e-12,
+    "place": 2.3618467197293973e-10,
+    "unique": 1.9995437044198304e-05,
+    "self": 4.628248290332928e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4698,
+    "rendered_tokens": 4698,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4698,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL08",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.00035727921876267747,
+  "ms": 1115.4487133026123,
+  "extra": {
+   "per": {
+    "name": 0.00035727921876267747,
+    "date": 3.992547951729998e-10,
+    "contact": 2.7340807397157352e-14,
+    "number": 3.1593811651116076e-12,
+    "place": 7.068363379356346e-12,
+    "unique": 1.317894643947354e-09,
+    "self": 8.513593694086326e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4663,
+    "rendered_tokens": 4663,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4663,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL09",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0003621335974171669,
+  "ms": 778.343915939331,
+  "extra": {
+   "per": {
+    "name": 0.0003621335974171669,
+    "date": 1.661078940036872e-08,
+    "contact": 9.686219248963845e-14,
+    "number": 3.411265481002585e-11,
+    "place": 1.173078380506475e-07,
+    "unique": 1.495715550704584e-05,
+    "self": 0.00015991594888972003
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4712,
+    "rendered_tokens": 4712,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4712,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL10",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 6.978924631796968e-05,
+  "ms": 746.7381954193115,
+  "extra": {
+   "per": {
+    "name": 6.978924631796968e-05,
+    "date": 1.6887469127003142e-08,
+    "contact": 3.721789506724618e-14,
+    "number": 4.1400917958096265e-11,
+    "place": 1.277096482326126e-10,
+    "unique": 3.477620353677405e-05,
+    "self": 5.4872099376520324e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4719,
+    "rendered_tokens": 4719,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4719,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL11",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.00029569763718026806,
+  "ms": 779.3841361999512,
+  "extra": {
+   "per": {
+    "name": 0.00029569763718026806,
+    "date": 2.0651465609024652e-09,
+    "contact": 9.179069966233042e-14,
+    "number": 6.127680149564496e-12,
+    "place": 2.0237383721979813e-08,
+    "unique": 1.3029548726692152e-06,
+    "self": 2.6539741630921432e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4628,
+    "rendered_tokens": 4628,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4628,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL12",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0002982662312313592,
+  "ms": 617.5532341003418,
+  "extra": {
+   "per": {
+    "name": 0.0002982662312313592,
+    "date": 1.0866464514286328e-10,
+    "contact": 3.091736260369856e-14,
+    "number": 1.187891000620509e-11,
+    "place": 2.156762866854111e-12,
+    "unique": 3.606898982855325e-10,
+    "self": 2.0907694812782885e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4670,
+    "rendered_tokens": 4670,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4670,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+self",
+  "p": 0.9999949940260457,
+  "ms": 1224.0500450134277,
+  "extra": {
+   "per": {
+    "name": 0.9939853184474666,
+    "date": 9.154280953793978e-10,
+    "contact": 1.2320574734079606e-15,
+    "number": 1.851550718919472e-12,
+    "place": 9.105414895187526e-13,
+    "unique": 4.4523394033094766e-11,
+    "self": 0.9999949940260457
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4537,
+    "rendered_tokens": 4537,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4537,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+self",
+  "p": 0.9999999846075409,
+  "ms": 789.7560596466064,
+  "extra": {
+   "per": {
+    "name": 0.9999999846075409,
+    "date": 6.030609015952682e-09,
+    "contact": 1.4729101956328178e-15,
+    "number": 1.8161043284518834e-12,
+    "place": 3.5416672692710926e-13,
+    "unique": 5.7749378590017676e-12,
+    "self": 9.120830462024815e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4614,
+    "rendered_tokens": 4614,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4614,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+self",
+  "p": 0.9999992372440552,
+  "ms": 1129.9538612365723,
+  "extra": {
+   "per": {
+    "name": 0.9999992372440552,
+    "date": 3.1101105872770745e-09,
+    "contact": 3.2768356030458616e-15,
+    "number": 3.7060464876035895e-13,
+    "place": 1.2080048263708201e-11,
+    "unique": 1.354942013503817e-10,
+    "self": 3.393420688423636e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4621,
+    "rendered_tokens": 4621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+self",
+  "p": 0.9999847260391835,
+  "ms": 773.4451293945312,
+  "extra": {
+   "per": {
+    "name": 0.9999847260391835,
+    "date": 2.9333654013484185e-09,
+    "contact": 2.7620929422034034e-15,
+    "number": 1.2630301146186927e-12,
+    "place": 8.982938937742567e-13,
+    "unique": 1.8176074186585325e-08,
+    "self": 7.213563867010775e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4607,
+    "rendered_tokens": 4607,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4607,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+self",
+  "p": 0.9999999915132866,
+  "ms": 976.5188694000244,
+  "extra": {
+   "per": {
+    "name": 0.9999999915132866,
+    "date": 1.6862057443026727e-10,
+    "contact": 2.1135873097096027e-14,
+    "number": 3.007427960167072e-14,
+    "place": 3.9102169912541856e-11,
+    "unique": 2.0811377328100371e-07,
+    "self": 1.5793478744130926e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4579,
+    "rendered_tokens": 4579,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4579,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules+self",
+  "p": 0.9999999985144423,
+  "ms": 2714.2040729522705,
+  "extra": {
+   "per": {
+    "name": 4.591450959332643e-05,
+    "date": 1.4625022749211996e-08,
+    "contact": 4.156403139166763e-15,
+    "number": 8.500215196198347e-13,
+    "place": 0.9999999985144423,
+    "unique": 0.001732895108188962,
+    "self": 8.11889124283904e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5376,
+    "rendered_tokens": 5376,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5376,
+    "output_tokens": 122
+   }
+  }
+ },
+ {
+  "id": "JL07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules+self",
+  "p": 0.9897768613494772,
+  "ms": 1753.6430358886719,
+  "extra": {
+   "per": {
+    "name": 0.0027675549835486086,
+    "date": 2.760651979698976e-09,
+    "contact": 2.3312891320861462e-14,
+    "number": 2.2443865390125616e-11,
+    "place": 1.4303646933561593e-12,
+    "unique": 1.2683725144030493e-10,
+    "self": 0.9897768613494772
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5390,
+    "rendered_tokens": 5390,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5390,
+    "output_tokens": 61
+   }
+  }
+ },
+ {
+  "id": "JL08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules+self",
+  "p": 0.999999996148131,
+  "ms": 942.8308010101318,
+  "extra": {
+   "per": {
+    "name": 0.999999996148131,
+    "date": 1.032320815999193e-10,
+    "contact": 8.754719634916266e-16,
+    "number": 1.7451441209835686e-13,
+    "place": 2.490011578192879e-11,
+    "unique": 2.4641586232873e-08,
+    "self": 0.0005833324139341629
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4677,
+    "rendered_tokens": 4677,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4677,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules+self",
+  "p": 0.9999994517842054,
+  "ms": 3734.375,
+  "extra": {
+   "per": {
+    "name": 0.99431844956003,
+    "date": 4.904514385730847e-11,
+    "contact": 7.499247330334346e-16,
+    "number": 7.253488167497644e-12,
+    "place": 4.0891258431626104e-13,
+    "unique": 1.6324481806171327e-11,
+    "self": 0.9999994517842054
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5381,
+    "rendered_tokens": 5381,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5381,
+    "output_tokens": 29
+   }
+  }
+ },
+ {
+  "id": "JL10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules+self",
+  "p": 0.9999866056047066,
+  "ms": 3906.8291187286377,
+  "extra": {
+   "per": {
+    "name": 0.9999866056047066,
+    "date": 0.0013348750178680281,
+    "contact": 5.004569130689149e-15,
+    "number": 5.509679379614194e-13,
+    "place": 9.516946236454224e-12,
+    "unique": 7.156467801969536e-08,
+    "self": 0.00012488575607499074
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5334,
+    "rendered_tokens": 5334,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5334,
+    "output_tokens": 259
+   }
+  }
+ },
+ {
+  "id": "KL01",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.012854777313684744,
+  "ms": 2098.3760356903076,
+  "extra": {
+   "per": {
+    "name": 0.012854777313684744,
+    "date": 2.1372957326045132e-08,
+    "contact": 8.869438531812483e-14,
+    "number": 5.204958439704352e-11,
+    "place": 1.3101826070444972e-11,
+    "unique": 9.236098515578536e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3828,
+    "rendered_tokens": 3828,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3828,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL02",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 3.430333680695469e-05,
+  "ms": 2360.936403274536,
+  "extra": {
+   "per": {
+    "name": 3.430333680695469e-05,
+    "date": 9.843791506684112e-10,
+    "contact": 4.6934692446757666e-15,
+    "number": 2.641265759417206e-12,
+    "place": 5.184533635302474e-13,
+    "unique": 1.1854801059877383e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3714,
+    "rendered_tokens": 3714,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3714,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL03",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 1.7117830656527532e-05,
+  "ms": 760.6050968170166,
+  "extra": {
+   "per": {
+    "name": 1.7117830656527532e-05,
+    "date": 2.6161960365634693e-09,
+    "contact": 5.976808536689304e-15,
+    "number": 1.2934496293736316e-11,
+    "place": 9.501897547890818e-12,
+    "unique": 6.235993565051865e-10
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3780,
+    "rendered_tokens": 3780,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3780,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL04",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.00010018010261184005,
+  "ms": 599.22194480896,
+  "extra": {
+   "per": {
+    "name": 0.00010018010261184005,
+    "date": 6.3131339241363e-08,
+    "contact": 4.111431158642154e-14,
+    "number": 2.171592733575204e-10,
+    "place": 9.852567114675774e-10,
+    "unique": 3.0434633998214676e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3768,
+    "rendered_tokens": 3768,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3768,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL05",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.00020841050526483983,
+  "ms": 519.212007522583,
+  "extra": {
+   "per": {
+    "name": 0.00020841050526483983,
+    "date": 5.980245555069051e-09,
+    "contact": 3.6935355722369424e-14,
+    "number": 1.685152519018546e-11,
+    "place": 8.835974290056144e-10,
+    "unique": 7.050898535178527e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3726,
+    "rendered_tokens": 3726,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3726,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL06",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0005868351608588533,
+  "ms": 802.8790950775146,
+  "extra": {
+   "per": {
+    "name": 1.6303790811211233e-05,
+    "date": 3.569961007696706e-10,
+    "contact": 2.250012484535853e-14,
+    "number": 2.481852069101691e-10,
+    "place": 7.694324929622484e-10,
+    "unique": 0.0005868351608588533
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3762,
+    "rendered_tokens": 3762,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3762,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL07",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 4.987353925162556e-05,
+  "ms": 722.8689193725586,
+  "extra": {
+   "per": {
+    "name": 3.6412883474749775e-05,
+    "date": 1.493599972627838e-08,
+    "contact": 1.803954765376697e-14,
+    "number": 1.3858671135416762e-11,
+    "place": 1.4848066640585208e-10,
+    "unique": 4.987353925162556e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3792,
+    "rendered_tokens": 3792,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3792,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL08",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0005951699672836843,
+  "ms": 1070.5499649047852,
+  "extra": {
+   "per": {
+    "name": 0.0005951699672836843,
+    "date": 3.852798975226573e-09,
+    "contact": 1.44320059111641e-14,
+    "number": 7.732154937402515e-12,
+    "place": 4.7173451450354884e-11,
+    "unique": 5.17847418005299e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3762,
+    "rendered_tokens": 3762,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3762,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL09",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0011496564311175579,
+  "ms": 545.9249019622803,
+  "extra": {
+   "per": {
+    "name": 0.0011496564311175579,
+    "date": 3.873899337840223e-08,
+    "contact": 2.316488899316316e-14,
+    "number": 5.0682181329429156e-11,
+    "place": 1.1723772298070335e-08,
+    "unique": 7.590304209748009e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3804,
+    "rendered_tokens": 3804,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3804,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL10",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0028283366944874544,
+  "ms": 752.1579265594482,
+  "extra": {
+   "per": {
+    "name": 0.0028283366944874544,
+    "date": 9.852909132883041e-09,
+    "contact": 1.7944532423429218e-14,
+    "number": 2.9063957214619572e-11,
+    "place": 2.8350020226024576e-10,
+    "unique": 5.898730147821889e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3810,
+    "rendered_tokens": 3810,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3810,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL11",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.00015409804077088493,
+  "ms": 524.0447521209717,
+  "extra": {
+   "per": {
+    "name": 0.00015409804077088493,
+    "date": 1.6162423511043888e-09,
+    "contact": 7.012900018278053e-14,
+    "number": 6.248191449803837e-12,
+    "place": 4.358585779308022e-08,
+    "unique": 9.569810094761913e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3732,
+    "rendered_tokens": 3732,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3732,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL12",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules",
+  "p": 0.0008486040545619633,
+  "ms": 918.4620380401611,
+  "extra": {
+   "per": {
+    "name": 0.0008486040545619633,
+    "date": 1.2482562609728915e-09,
+    "contact": 2.0566139179765625e-14,
+    "number": 9.544687049285055e-11,
+    "place": 1.5371786541701924e-11,
+    "unique": 8.536584285620847e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3768,
+    "rendered_tokens": 3768,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3768,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.9999109724682163,
+  "ms": 697.0338821411133,
+  "extra": {
+   "per": {
+    "name": 0.9999109724682163,
+    "date": 6.974962388882281e-08,
+    "contact": 2.783318387615425e-14,
+    "number": 5.603349620919692e-12,
+    "place": 1.6631001966731195e-11,
+    "unique": 6.639449395878013e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3654,
+    "rendered_tokens": 3654,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3654,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules",
+  "p": 0.9999999308485409,
+  "ms": 636.2459659576416,
+  "extra": {
+   "per": {
+    "name": 0.9999999308485409,
+    "date": 9.339498719291206e-08,
+    "contact": 2.5370712452236245e-15,
+    "number": 1.1279635890492132e-12,
+    "place": 4.849598259482895e-13,
+    "unique": 9.426860004262771e-11
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3720,
+    "rendered_tokens": 3720,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3720,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999989961488226,
+  "ms": 613.0661964416504,
+  "extra": {
+   "per": {
+    "name": 0.9999989961488226,
+    "date": 1.179776221839636e-08,
+    "contact": 7.582955139205479e-15,
+    "number": 2.4112316037842533e-12,
+    "place": 3.6589579490608714e-11,
+    "unique": 2.5819136801030407e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3726,
+    "rendered_tokens": 3726,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3726,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999941155067309,
+  "ms": 595.1838493347168,
+  "extra": {
+   "per": {
+    "name": 0.9999941155067309,
+    "date": 9.941721891633741e-09,
+    "contact": 3.5295676732009135e-15,
+    "number": 2.651408041331523e-12,
+    "place": 1.647046747038399e-12,
+    "unique": 2.2882638454564134e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3714,
+    "rendered_tokens": 3714,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3714,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules",
+  "p": 0.9999999887391532,
+  "ms": 526.1378288269043,
+  "extra": {
+   "per": {
+    "name": 0.9999999887391532,
+    "date": 4.802222542593833e-10,
+    "contact": 1.3418059391503867e-13,
+    "number": 4.6119061498986924e-14,
+    "place": 6.329009286242001e-10,
+    "unique": 3.459838215105914e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3690,
+    "rendered_tokens": 3690,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3690,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules",
+  "p": 0.9999999992596464,
+  "ms": 1964.0929698944092,
+  "extra": {
+   "per": {
+    "name": 0.00012118591081570659,
+    "date": 2.91578234426442e-08,
+    "contact": 1.1597006567650507e-14,
+    "number": 1.75059618193424e-12,
+    "place": 0.9999999992596464,
+    "unique": 0.0017559265770343382
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4440,
+    "rendered_tokens": 4440,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4440,
+    "output_tokens": 109
+   }
+  }
+ },
+ {
+  "id": "JL07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules",
+  "p": 0.0007694476766886783,
+  "ms": 840.8887386322021,
+  "extra": {
+   "per": {
+    "name": 0.0007694476766886783,
+    "date": 1.0025626740861616e-08,
+    "contact": 2.984686044746084e-14,
+    "number": 3.2375568880846484e-11,
+    "place": 3.6378571151650337e-12,
+    "unique": 7.048966718877257e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3744,
+    "rendered_tokens": 3744,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3744,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules",
+  "p": 0.9999999915548662,
+  "ms": 823.9762783050537,
+  "extra": {
+   "per": {
+    "name": 0.9999999915548662,
+    "date": 6.923891000313058e-11,
+    "contact": 1.2752775246122166e-15,
+    "number": 1.0832116720150714e-12,
+    "place": 1.6070301257749072e-09,
+    "unique": 3.2632708003233493e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3774,
+    "rendered_tokens": 3774,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3774,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules",
+  "p": 0.9999893243131672,
+  "ms": 780.6761264801025,
+  "extra": {
+   "per": {
+    "name": 0.9999893243131672,
+    "date": 9.372905508828594e-11,
+    "contact": 4.088720033592444e-15,
+    "number": 1.7566706359086798e-10,
+    "place": 3.905166769717564e-12,
+    "unique": 4.3989793190627315e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3732,
+    "rendered_tokens": 3732,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3732,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules",
+  "p": 0.9999937401258877,
+  "ms": 857.806921005249,
+  "extra": {
+   "per": {
+    "name": 0.9999937401258877,
+    "date": 0.002207231997164133,
+    "contact": 3.604714791695796e-15,
+    "number": 7.855091881582053e-12,
+    "place": 5.524712795189184e-11,
+    "unique": 7.59595957536889e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 3702,
+    "rendered_tokens": 3702,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 3702,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL01",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0014138111852882611,
+  "ms": 626.227855682373,
+  "extra": {
+   "per": {
+    "name": 0.0014138111852882611,
+    "date": 1.4477863816221794e-07,
+    "contact": 9.356858871860769e-14,
+    "number": 2.5697287177360477e-11,
+    "place": 9.103587471797099e-12,
+    "unique": 9.362733497815953e-10,
+    "self": 3.4008962580648074e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4740,
+    "rendered_tokens": 4740,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4740,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL02",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0001427959453061789,
+  "ms": 763.1239891052246,
+  "extra": {
+   "per": {
+    "name": 0.0001427959453061789,
+    "date": 1.2286433977952645e-09,
+    "contact": 5.794419509967808e-15,
+    "number": 6.323957215641675e-13,
+    "place": 1.5406980184756397e-12,
+    "unique": 5.651610975588062e-11,
+    "self": 1.9795251632598073e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4607,
+    "rendered_tokens": 4607,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4607,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL03",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 2.5661875743751727e-05,
+  "ms": 833.3370685577393,
+  "extra": {
+   "per": {
+    "name": 2.5661875743751727e-05,
+    "date": 3.250883006356078e-09,
+    "contact": 5.49937224467659e-15,
+    "number": 1.0564154713069222e-12,
+    "place": 9.684275260339654e-13,
+    "unique": 3.2841152689311175e-11,
+    "self": 1.2243763950862697e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4684,
+    "rendered_tokens": 4684,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4684,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL04",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.00018139586766493097,
+  "ms": 943.519115447998,
+  "extra": {
+   "per": {
+    "name": 0.00018139586766493097,
+    "date": 1.1532896094738415e-08,
+    "contact": 7.145686547128948e-14,
+    "number": 1.37582863196657e-10,
+    "place": 2.4861902024822294e-10,
+    "unique": 1.5311924243522343e-06,
+    "self": 2.673216111104495e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4670,
+    "rendered_tokens": 4670,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4670,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL05",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0001937903436606721,
+  "ms": 876.964807510376,
+  "extra": {
+   "per": {
+    "name": 0.0001937903436606721,
+    "date": 3.2402722010578043e-09,
+    "contact": 6.636991275648832e-14,
+    "number": 7.2242991475548635e-12,
+    "place": 1.53799569450487e-09,
+    "unique": 3.723746186986571e-05,
+    "self": 3.4019403312147786e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4621,
+    "rendered_tokens": 4621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL06",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 3.7895276770891e-05,
+  "ms": 1145.0488567352295,
+  "extra": {
+   "per": {
+    "name": 8.899204854493922e-06,
+    "date": 1.1700061945736833e-10,
+    "contact": 1.998869562443377e-14,
+    "number": 1.4194665403656337e-11,
+    "place": 1.4218868782195022e-10,
+    "unique": 3.7895276770891e-05,
+    "self": 4.464389836359229e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4663,
+    "rendered_tokens": 4663,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4663,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL07",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 1.9995437044198304e-05,
+  "ms": 691.9698715209961,
+  "extra": {
+   "per": {
+    "name": 7.4185563054663575e-06,
+    "date": 1.2319787190049491e-08,
+    "contact": 3.0321137762260636e-14,
+    "number": 4.606251008132857e-12,
+    "place": 2.3618467197293973e-10,
+    "unique": 1.9995437044198304e-05,
+    "self": 4.628248290332928e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4698,
+    "rendered_tokens": 4698,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4698,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL08",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.00035727921876267747,
+  "ms": 1601.191759109497,
+  "extra": {
+   "per": {
+    "name": 0.00035727921876267747,
+    "date": 3.992547951729998e-10,
+    "contact": 2.7340807397157352e-14,
+    "number": 3.1593811651116076e-12,
+    "place": 7.068363379356346e-12,
+    "unique": 1.317894643947354e-09,
+    "self": 8.513593694086326e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4663,
+    "rendered_tokens": 4663,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4663,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL09",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0003621335974171669,
+  "ms": 1339.082956314087,
+  "extra": {
+   "per": {
+    "name": 0.0003621335974171669,
+    "date": 1.661078940036872e-08,
+    "contact": 9.686219248963845e-14,
+    "number": 3.411265481002585e-11,
+    "place": 1.173078380506475e-07,
+    "unique": 1.495715550704584e-05,
+    "self": 0.00015991594888972003
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4712,
+    "rendered_tokens": 4712,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4712,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL10",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 6.978924631796968e-05,
+  "ms": 803.001880645752,
+  "extra": {
+   "per": {
+    "name": 6.978924631796968e-05,
+    "date": 1.6887469127003142e-08,
+    "contact": 3.721789506724618e-14,
+    "number": 4.1400917958096265e-11,
+    "place": 1.277096482326126e-10,
+    "unique": 3.477620353677405e-05,
+    "self": 5.4872099376520324e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4719,
+    "rendered_tokens": 4719,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4719,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL11",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.00029569763718026806,
+  "ms": 461.4839553833008,
+  "extra": {
+   "per": {
+    "name": 0.00029569763718026806,
+    "date": 2.0651465609024652e-09,
+    "contact": 9.179069966233042e-14,
+    "number": 6.127680149564496e-12,
+    "place": 2.0237383721979813e-08,
+    "unique": 1.3029548726692152e-06,
+    "self": 2.6539741630921432e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4628,
+    "rendered_tokens": 4628,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4628,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "KL12",
+  "label": "clean",
+  "trap": "long-traps",
+  "variant": "rules+self",
+  "p": 0.0002982662312313592,
+  "ms": 612.2879981994629,
+  "extra": {
+   "per": {
+    "name": 0.0002982662312313592,
+    "date": 1.0866464514286328e-10,
+    "contact": 3.091736260369856e-14,
+    "number": 1.187891000620509e-11,
+    "place": 2.156762866854111e-12,
+    "unique": 3.606898982855325e-10,
+    "self": 2.0907694812782885e-05
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4670,
+    "rendered_tokens": 4670,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4670,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL01",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+self",
+  "p": 0.9999949940260457,
+  "ms": 1812.9560947418213,
+  "extra": {
+   "per": {
+    "name": 0.9939853184474666,
+    "date": 9.154280953793978e-10,
+    "contact": 1.2320574734079606e-15,
+    "number": 1.851550718919472e-12,
+    "place": 9.105414895187526e-13,
+    "unique": 4.4523394033094766e-11,
+    "self": 0.9999949940260457
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4537,
+    "rendered_tokens": 4537,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4537,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL02",
+  "label": "leak",
+  "trap": "surname=eponym",
+  "variant": "rules+self",
+  "p": 0.9999999846075409,
+  "ms": 1216.9599533081055,
+  "extra": {
+   "per": {
+    "name": 0.9999999846075409,
+    "date": 6.030609015952682e-09,
+    "contact": 1.4729101956328178e-15,
+    "number": 1.8161043284518834e-12,
+    "place": 3.5416672692710926e-13,
+    "unique": 5.7749378590017676e-12,
+    "self": 9.120830462024815e-09
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4614,
+    "rendered_tokens": 4614,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4614,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL03",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+self",
+  "p": 0.9999992372440552,
+  "ms": 787.4531745910645,
+  "extra": {
+   "per": {
+    "name": 0.9999992372440552,
+    "date": 3.1101105872770745e-09,
+    "contact": 3.2768356030458616e-15,
+    "number": 3.7060464876035895e-13,
+    "place": 1.2080048263708201e-11,
+    "unique": 1.354942013503817e-10,
+    "self": 3.393420688423636e-06
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4621,
+    "rendered_tokens": 4621,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4621,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL04",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+self",
+  "p": 0.9999847260391835,
+  "ms": 777.8928279876709,
+  "extra": {
+   "per": {
+    "name": 0.9999847260391835,
+    "date": 2.9333654013484185e-09,
+    "contact": 2.7620929422034034e-15,
+    "number": 1.2630301146186927e-12,
+    "place": 8.982938937742567e-13,
+    "unique": 1.8176074186585325e-08,
+    "self": 7.213563867010775e-07
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4607,
+    "rendered_tokens": 4607,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4607,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL05",
+  "label": "leak",
+  "trap": "name=common-word",
+  "variant": "rules+self",
+  "p": 0.9999999915132866,
+  "ms": 578.7839889526367,
+  "extra": {
+   "per": {
+    "name": 0.9999999915132866,
+    "date": 1.6862057443026727e-10,
+    "contact": 2.1135873097096027e-14,
+    "number": 3.007427960167072e-14,
+    "place": 3.9102169912541856e-11,
+    "unique": 2.0811377328100371e-07,
+    "self": 1.5793478744130926e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4579,
+    "rendered_tokens": 4579,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4579,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL06",
+  "label": "leak",
+  "trap": "town=virus",
+  "variant": "rules+self",
+  "p": 0.9999999985144423,
+  "ms": 5700.361013412476,
+  "extra": {
+   "per": {
+    "name": 4.591450959332643e-05,
+    "date": 1.4625022749211996e-08,
+    "contact": 4.156403139166763e-15,
+    "number": 8.500215196198347e-13,
+    "place": 0.9999999985144423,
+    "unique": 0.002667395039471091,
+    "self": 8.11889124283904e-08
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5376,
+    "rendered_tokens": 5376,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5376,
+    "output_tokens": 106
+   }
+  }
+ },
+ {
+  "id": "JL07",
+  "label": "leak",
+  "trap": "famous-name-as-patient",
+  "variant": "rules+self",
+  "p": 0.9897768613494772,
+  "ms": 2942.208766937256,
+  "extra": {
+   "per": {
+    "name": 0.0027675549835486086,
+    "date": 2.760651979698976e-09,
+    "contact": 2.3312891320861462e-14,
+    "number": 2.2443865390125616e-11,
+    "place": 1.4303646933561593e-12,
+    "unique": 1.2683725144030493e-10,
+    "self": 0.9897768613494772
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5390,
+    "rendered_tokens": 5390,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5390,
+    "output_tokens": 61
+   }
+  }
+ },
+ {
+  "id": "JL08",
+  "label": "leak",
+  "trap": "nickname",
+  "variant": "rules+self",
+  "p": 0.999999996148131,
+  "ms": 2300.6060123443604,
+  "extra": {
+   "per": {
+    "name": 0.999999996148131,
+    "date": 1.032320815999193e-10,
+    "contact": 8.754719634916266e-16,
+    "number": 1.7451441209835686e-13,
+    "place": 2.490011578192879e-11,
+    "unique": 2.4641586232873e-08,
+    "self": 0.0005833324139341629
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 4677,
+    "rendered_tokens": 4677,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 4677,
+    "output_tokens": 0
+   }
+  }
+ },
+ {
+  "id": "JL09",
+  "label": "leak",
+  "trap": "initials",
+  "variant": "rules+self",
+  "p": 0.9999994517842054,
+  "ms": 940.8128261566162,
+  "extra": {
+   "per": {
+    "name": 0.9935773338191158,
+    "date": 4.904514385730847e-11,
+    "contact": 7.499247330334346e-16,
+    "number": 7.253488167497644e-12,
+    "place": 4.0891258431626104e-13,
+    "unique": 1.6324481806171327e-11,
+    "self": 0.9999994517842054
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5381,
+    "rendered_tokens": 5381,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5381,
+    "output_tokens": 29
+   }
+  }
+ },
+ {
+  "id": "JL10",
+  "label": "leak",
+  "trap": "first-name-only",
+  "variant": "rules+self",
+  "p": 0.9999866056047066,
+  "ms": 2561.957836151123,
+  "extra": {
+   "per": {
+    "name": 0.9999866056047066,
+    "date": 0.0013348750178680281,
+    "contact": 5.004569130689149e-15,
+    "number": 5.509679379614194e-13,
+    "place": 9.516946236454224e-12,
+    "unique": 7.156467801969536e-08,
+    "self": 0.00012488575607499074
+   },
+   "nulls": [],
+   "usage": {
+    "billed_input_tokens": 5334,
+    "rendered_tokens": 5334,
+    "image_count": 0,
+    "image_tokens": 0,
+    "input_tokens": 5334,
+    "output_tokens": 259
+   }
+  }
+ }
+]
