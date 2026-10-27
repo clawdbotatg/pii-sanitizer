@@ -89,7 +89,26 @@ Still undecided:
 - A retry must never edit text inside an existing placeholder, or you get
   `[[OTHER_4]]` garbage. That's `sub_outside` in `pipeline.py`.
 - The check fails closed: if Sage errors, the note is blocked. We hit a real
-  504 during testing.
+  504 during testing. Same if the local model times out: nothing gets
+  stripped, so Sage flags it.
+- **No human needed.** A note still flagged after the retries gets checked
+  one sentence at a time, and flagged sentences are cut. If it's still flagged,
+  it goes only to a private model under a BAA. ASQ-PHI: 1% cut, 4% private.
+- **Qwen 8B strips clinical words too** (drugs, labs, diagnoses, ages, years)
+  if you let it. It files them under OTHER or invents a DRUG type. Fixes: drop
+  any type we didn't ask for, trust OTHER only after Sage flagged a unique
+  detail, and drop ages under 90 and lone years in code. Words lost on ASQ-PHI
+  went from 3,527 to 851. Measure words lost on every run, not only leaks.
+- Our first "0 leaks" partly came from that over-stripping. Leaks and words
+  lost have to be read together.
+- **Regex order matters.** The ZIP pattern ate "12345" out of "12345-JS" and
+  left "JS". IDs now go before ZIPs.
+- Hospital short names (UCSF, NYP) were the main real leak. Naming them in the
+  Qwen prompt and in Sage's place tag fixed it; gotcha false alarms stayed 0.
+- Exact-matching every stripped value again before sending (the "vault
+  scrub", from DR-SL) changed 1 note in 1,051. Cheap insurance, keep it.
+- Claude (sonnet, via `claude -p`) kept every placeholder intact in 1,009
+  replies when told to copy them exactly.
 
 ## HIPAA and the TEE (LANDSCAPE.md)
 
@@ -114,8 +133,7 @@ Still undecided:
 
 ## Next
 
-1. Pick the date and doctor-name policy, then relabel the tests.
-2. Build a fresh held-out set that nobody has tuned on.
-3. Run on n2c2 2014 and PhysioNet (needs a data-use agreement).
-4. Call a real frontier model instead of the mock.
-5. Ask Levanto/NEAR whether they'll sign a BAA.
+1. Build a fresh held-out set that nobody has tuned on.
+2. Run on n2c2 2014 and PhysioNet (needs a data-use agreement).
+3. Ask Levanto/NEAR whether they'll sign a BAA.
+4. Wrap it as a proxy API.

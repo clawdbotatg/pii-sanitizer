@@ -154,3 +154,43 @@ is also at 0 false alarms and 56/56 leaks caught.
   Decide the policy, then relabel.
 - **Caveat:** I tuned the rules after seeing the trap and held-out misses. The stress
   set was never tuned on and passed. A fresh held-out set is still needed.
+
+## Result 4: no human, public data, real Claude — 2026-10-26
+
+ASQ-PHI: 1,051 synthetic clinician queries (MIT, Mendeley Data), 832 with PHI,
+219 without. qwen3:8b local, Sage `tags` gate, Claude sonnet via `claude -p` as
+the frontier model. Policy: Safe Harbor plus doctor and hospital names.
+Run: `results/pipeline-asq-qwen3_8b-20261026-190258.json`.
+
+| | |
+|---|---|
+| Sent as is | 1,000 (95%) |
+| Sent with flagged sentences cut | 9 (1%) |
+| Private model only (never sent out) | 42 (4%), all actually clean |
+| Identifying PHI sent | **0** |
+| PHI words left in sent text (ASQ labels) | 137 of 5,796 |
+| of which year alone / state / "last week" (allowed) | 131 |
+| of which scoring artifacts ("children" elsewhere in the note, age "54") | 4 |
+| of which generic fragments ("ALL" of ALL-98765, "Medicare") | 2 |
+| Clean notes changed anyway | 66 of 219 |
+| Useful words lost | 851 of 27,910 (3%) |
+| Placeholders broken or invented by Claude | 0 of 1,009 replies |
+| Sage calls per note | 1.16 |
+
+Same run on the 50 fake notes: 0 PHI sent, 2 cut, 3 private (all clean).
+
+How we got there (each step a full rerun):
+
+| Change | PHI words sent | Clean notes changed |
+|---|---|---|
+| first run (hospital names not in prompt, ZIP before ID) | 93 | — |
+| + hospital abbreviations, IDs before ZIP | 52 | 175 / 219 |
+| + keep ages under 90 and lone years | 137 (131 allowed) | 66 / 219 |
+
+Compare `research/TOOLS-BENCH.md`: best existing tool (philter) still leaked in
+111 of 832 notes and changed 116 of 219 clean ones.
+
+Limits: ASQ-PHI is synthetic and short (one or two sentences). One tool scored
+99.9% on it and 77% on real nursing notes (`research/PRIOR-ART.md`). Real
+notes are the next test. Remaining over-redaction: eponyms (Chaddock,
+Framingham), "last month", score names (CHADS2).

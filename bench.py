@@ -62,7 +62,8 @@ TAGS = [
     {"id": "date", "name": "date: a calendar date with day/month, or an age over 89; a year alone is fine"},
     {"id": "contact", "name": "contact: phone, fax, email, URL or IP address"},
     {"id": "number", "name": "number: SSN, MRN, account, member, license, plate or device serial"},
-    {"id": "place", "name": "place: street address, ZIP, or a town/city; a state alone is fine"},
+    {"id": "place", "name": "place: street address, ZIP, town/city, or a hospital or clinic "
+     "name or abbreviation; a state alone is fine"},
     {"id": "unique", "name": "unique: employer, specific role, or photo that singles the patient out"},
     # Without this, "Patient Selena Gomez (no relation)" buried in a long note scored 0.001.
     {"id": "self", "name": "self: the patient's own name written out as who the patient is "

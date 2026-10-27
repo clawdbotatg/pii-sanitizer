@@ -1,0 +1,2201 @@
+[
+ {
+  "id": "L01",
+  "kind": "name-first-only",
+  "raw": "Gerald Huang is a 54yo M with T2DM and HTN. Wife Linda reports he has been skipping metformin doses. A1c 9.1. Plan: restart metformin 1000mg BID, f/u 11/03/2026.",
+  "must_go": [
+   "11/03/2026",
+   "Gerald",
+   "Huang",
+   "Linda"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang",
+   "Linda"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] is a 54yo M with T2DM and HTN. Wife [PERSON_2] reports he has been skipping metformin doses. A1c 9.1. Plan: restart metformin 1000mg BID, f/u [DATE_1].",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   523.0889320373535
+  ],
+  "total_s": 8.042436122894287,
+  "words_lost": [],
+  "n_words": 32,
+  "reply_raw": "[PERSON_1] is a 54-year-old man with type 2 diabetes and hypertension. His A1c is 9.1, and his wife, [PERSON_2], reports he has been skipping metformin doses. The plan is to restart metformin 1000mg twice daily and follow up on [DATE_1].",
+  "reply": "Gerald Huang is a 54-year-old man with type 2 diabetes and hypertension. His A1c is 9.1, and his wife, Linda, reports he has been skipping metformin doses. The plan is to restart metformin 1000mg twice daily and follow up on 11/03/2026.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "11/03/2026",
+   "[PERSON_1]": "Gerald Huang",
+   "[PERSON_2]": "Linda"
+  }
+ },
+ {
+  "id": "L02",
+  "kind": "name-lowercase",
+  "raw": "pt Gerald Huang seen for f/u of CHF. per daughter maria gonzalez, pt has gained 4 lbs this week. increase furosemide to 40mg daily.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "gonzalez",
+   "maria"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang",
+   "gonzalez",
+   "maria"
+  ],
+  "pass1_left": [],
+  "final": "pt [PERSON_2] seen for f/u of CHF. per daughter [PERSON_1], pt has gained 4 lbs this week. increase furosemide to 40mg daily.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   538.4082794189453
+  ],
+  "total_s": 8.353291034698486,
+  "words_lost": [],
+  "n_words": 25,
+  "reply_raw": "[PERSON_2] was seen for follow-up of congestive heart failure. His daughter, [PERSON_1], reported a 4 lb weight gain this week, so furosemide is being increased to 40 mg daily.",
+  "reply": "Gerald Huang was seen for follow-up of congestive heart failure. His daughter, maria gonzalez, reported a 4 lb weight gain this week, so furosemide is being increased to 40 mg daily.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "maria gonzalez",
+   "[PERSON_2]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L03",
+  "kind": "name-common-word",
+  "raw": "Gerald Huang, 33F, presents with migraine. Her partner Hope Rivers drove her in. Sumatriptan given, symptoms resolved. Discharged 11/03/2026.",
+  "must_go": [
+   "11/03/2026",
+   "Gerald",
+   "Hope Rivers",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Hope Rivers",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1], 33F, presents with migraine. Her partner [PERSON_2] drove her in. Sumatriptan given, symptoms resolved. Discharged [DATE_1].",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   837.3808860778809
+  ],
+  "total_s": 6.120024919509888,
+  "words_lost": [],
+  "n_words": 21,
+  "reply_raw": "[PERSON_1], a 33-year-old woman, came in with a migraine, and her partner [PERSON_2] drove her. She got sumatriptan, her symptoms resolved, and she was discharged on [DATE_1].",
+  "reply": "Gerald Huang, a 33-year-old woman, came in with a migraine, and her partner Hope Rivers drove her. She got sumatriptan, her symptoms resolved, and she was discharged on 11/03/2026.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "11/03/2026",
+   "[PERSON_1]": "Gerald Huang",
+   "[PERSON_2]": "Hope Rivers"
+  }
+ },
+ {
+  "id": "L04",
+  "kind": "mrn-odd-format",
+  "raw": "Admission note for Gerald Huang (acct 00-4471-923-X). 67M with COPD exacerbation. Started on prednisone 40mg and azithromycin.",
+  "must_go": [
+   "00-4471-923-X",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Admission note for [PERSON_1] (acct [ID_1]). 67M with COPD exacerbation. Started on prednisone 40mg and azithromycin.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1042.8738594055176
+  ],
+  "total_s": 8.54181694984436,
+  "words_lost": [],
+  "n_words": 20,
+  "reply_raw": "[PERSON_1] (acct [ID_1]) is a 67-year-old man admitted with a COPD exacerbation. He has been started on prednisone 40 mg and azithromycin.",
+  "reply": "Gerald Huang (acct 00-4471-923-X) is a 67-year-old man admitted with a COPD exacerbation. He has been started on prednisone 40 mg and azithromycin.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ID_1]": "00-4471-923-X",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L05",
+  "kind": "full-date",
+  "raw": "Gerald Huang underwent laparoscopic cholecystectomy on March 14, 2026 at St. Vincent Medical Center. Tolerated well, no complications.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "March 14",
+   "St. Vincent"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang",
+   "St. Vincent"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] underwent laparoscopic cholecystectomy on [DATE_1] at [PLACE_1]. Tolerated well, no complications.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   653.6681652069092
+  ],
+  "total_s": 5.3498029708862305,
+  "words_lost": [
+   "2026"
+  ],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] had a laparoscopic cholecystectomy on [DATE_1] at [PLACE_1]. The procedure went well, with no complications.",
+  "reply": "Gerald Huang had a laparoscopic cholecystectomy on March 14, 2026 at St. Vincent Medical Center. The procedure went well, with no complications.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "March 14, 2026",
+   "[PLACE_1]": "St. Vincent Medical Center",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L06",
+  "kind": "dob-numeric",
+  "raw": "Gerald Huang DOB 07/22/1958. Hx of AFib on apixaban. INR not needed. Echo shows EF 45%.",
+  "must_go": [
+   "07/22/1958",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] DOB [DATE_1]. Hx of AFib on apixaban. INR not needed. Echo shows EF 45%.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1124.3689060211182
+  ],
+  "total_s": 7.4905829429626465,
+  "words_lost": [],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] (DOB [DATE_1]) has atrial fibrillation and takes apixaban, so INR monitoring isn't needed. Echo shows a mildly reduced ejection fraction of 45%.",
+  "reply": "Gerald Huang (DOB 07/22/1958) has atrial fibrillation and takes apixaban, so INR monitoring isn't needed. Echo shows a mildly reduced ejection fraction of 45%.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "07/22/1958",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L07",
+  "kind": "phone",
+  "raw": "Call Gerald Huang with biopsy results. Best number is 415-555-0182 after 5pm. Results: benign fibroadenoma.",
+  "must_go": [
+   "415-555-0182",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Call [PERSON_1] with biopsy results. Best number is [PHONE_1] after 5pm. Results: benign fibroadenoma.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1045.2568531036377
+  ],
+  "total_s": 8.111349105834961,
+  "words_lost": [],
+  "n_words": 17,
+  "reply_raw": "Biopsy results show a benign fibroadenoma. The patient, [PERSON_1], should be called with the results, and the best number is [PHONE_1] after 5pm.",
+  "reply": "Biopsy results show a benign fibroadenoma. The patient, Gerald Huang, should be called with the results, and the best number is 415-555-0182 after 5pm.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PHONE_1]": "415-555-0182",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L08",
+  "kind": "email",
+  "raw": "Gerald Huang asked results be sent to jdoe1971@gmail.com. Lipid panel: LDL 162, HDL 38. Discuss statin.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "jdoe1971@gmail.com"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] asked results be sent to [EMAIL_1] Lipid panel: LDL 162, HDL 38. Discuss statin.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   633.267879486084
+  ],
+  "total_s": 8.847348928451538,
+  "words_lost": [],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] asked that the results be sent to [EMAIL_1]. The lipid panel shows LDL 162 and HDL 38, so please discuss starting a statin.",
+  "reply": "Gerald Huang asked that the results be sent to jdoe1971@gmail.com.. The lipid panel shows LDL 162 and HDL 38, so please discuss starting a statin.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[EMAIL_1]": "jdoe1971@gmail.com.",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L09",
+  "kind": "street-address",
+  "raw": "Home health referral for Gerald Huang. Address: 1142 Alder Creek Rd, Unit 3. Needs wound care for stage 2 sacral ulcer.",
+  "must_go": [
+   "1142 Alder Creek",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "1142 Alder Creek",
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Home health referral for [PERSON_1]. Address: [PLACE_1], [PLACE_2]. Needs wound care for stage 2 sacral ulcer.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   403.0189514160156
+  ],
+  "total_s": 7.114227056503296,
+  "words_lost": [
+   "Rd",
+   "Unit"
+  ],
+  "n_words": 21,
+  "reply_raw": "This is a home health referral for [PERSON_1], who lives at [PLACE_1], [PLACE_2]. They need wound care for a stage 2 sacral ulcer.",
+  "reply": "This is a home health referral for Gerald Huang, who lives at 1142 Alder Creek Rd, Unit 3. They need wound care for a stage 2 sacral ulcer.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PLACE_1]": "1142 Alder Creek Rd",
+   "[PERSON_1]": "Gerald Huang",
+   "[PLACE_2]": "Unit 3"
+  }
+ },
+ {
+  "id": "L10",
+  "kind": "small-geo",
+  "raw": "Gerald Huang lives alone on a farm outside Bly, Oregon and drives 90 minutes to dialysis three times a week.",
+  "must_go": [
+   "Bly",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Bly",
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] lives alone on a farm outside [PLACE_2], [PLACE_1] and drives 90 minutes to dialysis three times a week.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   481.00805282592773
+  ],
+  "total_s": 7.009732246398926,
+  "words_lost": [
+   "Oregon"
+  ],
+  "n_words": 20,
+  "reply_raw": "[PERSON_1] lives alone on a farm outside [PLACE_2], [PLACE_1]. She or he drives 90 minutes each way to dialysis three times a week. Long travel and living alone may make it hard to get to treatment and to get help if something goes wrong.",
+  "reply": "Gerald Huang lives alone on a farm outside Bly, Oregon. She or he drives 90 minutes each way to dialysis three times a week. Long travel and living alone may make it hard to get to treatment and to get help if something goes wrong.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang",
+   "[PLACE_1]": "Oregon",
+   "[PLACE_2]": "Bly"
+  }
+ },
+ {
+  "id": "L11",
+  "kind": "zip",
+  "raw": "Gerald Huang, 45F, ZIP 97321, presents for annual exam. Pap normal. Mammogram ordered.",
+  "must_go": [
+   "97321",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1], 45F, ZIP [ZIP_1], presents for annual exam. Pap normal. Mammogram ordered.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   455.74498176574707
+  ],
+  "total_s": 5.063164949417114,
+  "words_lost": [],
+  "n_words": 13,
+  "reply_raw": "[PERSON_1], a 45-year-old woman (ZIP [ZIP_1]), came in for her annual exam. Her Pap test was normal, and a mammogram has been ordered.",
+  "reply": "Gerald Huang, a 45-year-old woman (ZIP 97321), came in for her annual exam. Her Pap test was normal, and a mammogram has been ordered.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ZIP_1]": "97321",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L12",
+  "kind": "age-over-89",
+  "raw": "Gerald Huang is a 96-year-old woman with dementia admitted after a fall. CT head negative. Hip XR shows intertrochanteric fracture.",
+  "must_go": [
+   "96-year-old",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] is a [AGE_1] woman with dementia admitted after a fall. CT head negative. Hip XR shows intertrochanteric fracture.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1039.5240783691406
+  ],
+  "total_s": 8.480538845062256,
+  "words_lost": [],
+  "n_words": 22,
+  "reply_raw": "[PERSON_1] is a [AGE_1] woman with dementia admitted after a fall. Her head CT was negative, but the hip X-ray shows an intertrochanteric fracture.",
+  "reply": "Gerald Huang is a 96-year-old woman with dementia admitted after a fall. Her head CT was negative, but the hip X-ray shows an intertrochanteric fracture.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[AGE_1]": "96-year-old",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L13",
+  "kind": "ssn",
+  "raw": "Insurance verification for Gerald Huang: SSN on file 412-77-9031, Medicare primary. Prior auth needed for MRI lumbar spine.",
+  "must_go": [
+   "412-77-9031",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Insurance verification for [PERSON_1]: SSN on file [SSN_1], Medicare primary. Prior auth needed for MRI lumbar spine.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   605.4961681365967
+  ],
+  "total_s": 5.234294891357422,
+  "words_lost": [],
+  "n_words": 20,
+  "reply_raw": "Insurance check for [PERSON_1] is done: Medicare is the primary payer. The lumbar spine MRI needs prior authorization before it can be scheduled.\n\nI left the SSN out because the doctor doesn't need it for this.",
+  "reply": "Insurance check for Gerald Huang is done: Medicare is the primary payer. The lumbar spine MRI needs prior authorization before it can be scheduled.\n\nI left the SSN out because the doctor doesn't need it for this.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[SSN_1]": "412-77-9031",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L14",
+  "kind": "employer",
+  "raw": "Gerald Huang works night shift as a forklift operator at the Tillamook Creamery plant. Reports back pain after lifting injury at work.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "Tillamook Creamery"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang",
+   "Tillamook Creamery"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] works [OTHER_2] as a [OTHER_1] at the [PLACE_1]. Reports back pain after lifting injury at work.",
+  "final_left": [],
+  "flags": [
+   [
+    "unique"
+   ],
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1384.2899799346924,
+   2017.4918174743652
+  ],
+  "total_s": 11.520669937133789,
+  "words_lost": [
+   "night",
+   "shift",
+   "forklift",
+   "operator",
+   "plant"
+  ],
+  "n_words": 22,
+  "reply_raw": "[PERSON_1] works [OTHER_2] as a [OTHER_1] at the [PLACE_1]. They report back pain after a lifting injury at work.",
+  "reply": "Gerald Huang works night shift as a forklift operator at the Tillamook Creamery plant. They report back pain after a lifting injury at work.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PLACE_1]": "Tillamook Creamery plant",
+   "[PERSON_1]": "Gerald Huang",
+   "[OTHER_1]": "forklift operator",
+   "[OTHER_2]": "night shift"
+  }
+ },
+ {
+  "id": "L15",
+  "kind": "vehicle-plate",
+  "raw": "Gerald Huang brought in by EMS after MVC; his truck (OR plate 784 KXM) rolled on Hwy 20. GCS 14, C-collar placed.",
+  "must_go": [
+   "784 KXM",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "784 KXM",
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] brought in by EMS after MVC; his truck ([ID_1]) rolled on [PLACE_1]. GCS 14, C-collar placed.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1513.3590698242188
+  ],
+  "total_s": 6.923945903778076,
+  "words_lost": [
+   "OR",
+   "plate",
+   "Hwy",
+   "20"
+  ],
+  "n_words": 23,
+  "reply_raw": "[PERSON_1] arrived by EMS after a motor vehicle collision in which his truck ([ID_1]) rolled on [PLACE_1]. He has a GCS of 14, and a C-collar was placed.",
+  "reply": "Gerald Huang arrived by EMS after a motor vehicle collision in which his truck (OR plate 784 KXM) rolled on Hwy 20. He has a GCS of 14, and a C-collar was placed.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ID_1]": "OR plate 784 KXM",
+   "[PERSON_1]": "Gerald Huang",
+   "[PLACE_1]": "Hwy 20"
+  }
+ },
+ {
+  "id": "L16",
+  "kind": "device-serial",
+  "raw": "Gerald Huang has a Medtronic pacemaker, serial PJN204417S, interrogated today. Battery 7 years. No events.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "PJN204417S"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] has a Medtronic pacemaker, [ID_2] [ID_1], interrogated today. Battery 7 years. No events.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1780.963659286499
+  ],
+  "total_s": 8.37349820137024,
+  "words_lost": [
+   "serial"
+  ],
+  "n_words": 15,
+  "reply_raw": "[PERSON_1] has a Medtronic pacemaker ([ID_2] [ID_1]) that was interrogated today. Battery life is about 7 years, and there were no recorded events.",
+  "reply": "Gerald Huang has a Medtronic pacemaker (serial PJN204417S) that was interrogated today. Battery life is about 7 years, and there were no recorded events.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ID_1]": "PJN204417S",
+   "[PERSON_1]": "Gerald Huang",
+   "[ID_2]": "serial"
+  }
+ },
+ {
+  "id": "L17",
+  "kind": "url",
+  "raw": "Gerald Huang shared her symptom log at https://docs.google.com/d/1xKq9pLmz_ann-whitaker-log. Reviewed: daily headaches since 11/03/2026.",
+  "must_go": [
+   "11/03/2026",
+   "Gerald",
+   "Huang",
+   "ann-whitaker"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "",
+  "final_left": [],
+  "flags": [
+   [
+    "contact"
+   ],
+   [
+    "contact"
+   ],
+   [
+    "contact"
+   ],
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "private",
+  "cut": [
+   "[PERSON_1] shared her symptom log at [URL_1] Reviewed: daily headaches since [DATE_1]."
+  ],
+  "cut_chars": 86,
+  "blocked": true,
+  "sage_ms": [
+   500.99897384643555,
+   431.09774589538574,
+   479.2599678039551,
+   2683.4750175476074
+  ],
+  "total_s": 14.98147201538086,
+  "words_lost": [
+   "shared",
+   "her",
+   "symptom",
+   "log",
+   "log",
+   "https",
+   "docs",
+   "google",
+   "1xKq9pLmz_ann",
+   "Reviewed",
+   "daily",
+   "headaches",
+   "since"
+  ],
+  "n_words": 22,
+  "reply_raw": "",
+  "reply": "",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[URL_1]": "https://docs.google.com/d/1xKq9pLmz_ann-whitaker-log.",
+   "[DATE_1]": "11/03/2026",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L18",
+  "kind": "ip-address",
+  "raw": "Telehealth visit with Gerald Huang; connection logged from 73.162.44.201. Patient reports improved mood on sertraline 100mg.",
+  "must_go": [
+   "73.162.44.201",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Telehealth visit with [PERSON_1]; connection logged from [IP_1]. Patient reports improved mood on sertraline 100mg.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   652.108907699585
+  ],
+  "total_s": 7.227263927459717,
+  "words_lost": [],
+  "n_words": 19,
+  "reply_raw": "A telehealth visit took place with [PERSON_1], and the connection was logged from [IP_1]. The patient reports improved mood on sertraline 100mg.",
+  "reply": "A telehealth visit took place with Gerald Huang, and the connection was logged from 73.162.44.201. The patient reports improved mood on sertraline 100mg.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[IP_1]": "73.162.44.201",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L19",
+  "kind": "name-in-quote",
+  "raw": "Gerald Huang states: \"My name's Bobby Tran and I don't want my mom told about this.\" 17M, requests confidential STI testing.",
+  "must_go": [
+   "Bobby",
+   "Gerald",
+   "Huang",
+   "Tran"
+  ],
+  "regex_left": [
+   "Bobby",
+   "Gerald",
+   "Huang",
+   "Tran"
+  ],
+  "pass1_left": [],
+  "final": "",
+  "final_left": [],
+  "flags": [
+   [
+    "self"
+   ],
+   [
+    "self"
+   ],
+   [
+    "self"
+   ],
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "private",
+  "cut": [
+   "[PERSON_1] states: \"My name's [PERSON_2] and I don't want my mom told about this.\" 17M, requests confidential STI testing."
+  ],
+  "cut_chars": 122,
+  "blocked": true,
+  "sage_ms": [
+   535.322904586792,
+   427.31714248657227,
+   692.8179264068604,
+   1982.9151630401611
+  ],
+  "total_s": 13.47388482093811,
+  "words_lost": [
+   "states",
+   "My",
+   "name",
+   "don",
+   "want",
+   "my",
+   "mom",
+   "told",
+   "about",
+   "this",
+   "17M",
+   "requests",
+   "confidential",
+   "STI",
+   "testing"
+  ],
+  "n_words": 23,
+  "reply_raw": "",
+  "reply": "",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang",
+   "[PERSON_2]": "Bobby Tran"
+  }
+ },
+ {
+  "id": "L20",
+  "kind": "relative-name",
+  "raw": "Family hx: Gerald Huang's brother Kevin O'Malley died of MI at 48. Father had CABG at 60. Recommend lipid screening.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "Kevin",
+   "O'Malley"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang",
+   "Kevin",
+   "O'Malley"
+  ],
+  "pass1_left": [],
+  "final": "Family hx: [PERSON_2]'s brother [PERSON_1] died of MI at 48. Father had CABG at 60. Recommend lipid screening.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   511.491060256958
+  ],
+  "total_s": 9.019774913787842,
+  "words_lost": [],
+  "n_words": 22,
+  "reply_raw": "[PERSON_2]'s brother [PERSON_1] died of a heart attack at age 48, and their father had bypass surgery (CABG) at age 60. This strong family history of early heart disease supports the recommendation for lipid screening.",
+  "reply": "Gerald Huang's brother Kevin O'Malley died of a heart attack at age 48, and their father had bypass surgery (CABG) at age 60. This strong family history of early heart disease supports the recommendation for lipid screening.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Kevin O'Malley",
+   "[PERSON_2]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L21",
+  "kind": "name-partial-redaction",
+  "raw": "Gerald Huang Hartwell, 61M, post-op day 2 s/p TKA. Ambulating with walker. Pain controlled on oxycodone PRN.",
+  "must_go": [
+   "Gerald",
+   "Hartwell",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Hartwell",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1], 61M, [DATE_1] s/p TKA. Ambulating with walker. Pain controlled on oxycodone PRN.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1005.3181648254395
+  ],
+  "total_s": 9.280439853668213,
+  "words_lost": [
+   "post",
+   "op",
+   "day"
+  ],
+  "n_words": 19,
+  "reply_raw": "[PERSON_1] is a 61-year-old man who had a total knee arthroplasty on [DATE_1]. He is walking with a walker, and his pain is controlled with oxycodone as needed.",
+  "reply": "Gerald Huang Hartwell is a 61-year-old man who had a total knee arthroplasty on post-op day 2. He is walking with a walker, and his pain is controlled with oxycodone as needed.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang Hartwell",
+   "[DATE_1]": "post-op day 2"
+  }
+ },
+ {
+  "id": "L22",
+  "kind": "unique-quasi",
+  "raw": "Gerald Huang is the head coach of the Corvallis High School varsity football team and was injured during Friday's homecoming game.",
+  "must_go": [
+   "Corvallis High",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Corvallis High",
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "",
+  "final_left": [],
+  "flags": [
+   [
+    "unique"
+   ],
+   [
+    "unique"
+   ],
+   [
+    "unique"
+   ],
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "private",
+  "cut": [
+   "[PERSON_1] is the head coach of the [PLACE_1] varsity football team and was injured during [DATE_1]."
+  ],
+  "cut_chars": 100,
+  "blocked": true,
+  "sage_ms": [
+   989.387035369873,
+   861.4351749420166,
+   1660.2809429168701,
+   2596.0330963134766
+  ],
+  "total_s": 16.648263931274414,
+  "words_lost": [
+   "is",
+   "head",
+   "coach",
+   "School",
+   "varsity",
+   "football",
+   "team",
+   "was",
+   "injured",
+   "during",
+   "Friday",
+   "homecoming",
+   "game"
+  ],
+  "n_words": 22,
+  "reply_raw": "",
+  "reply": "",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "Friday's homecoming game",
+   "[PLACE_1]": "Corvallis High School",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L23",
+  "kind": "health-plan-id",
+  "raw": "Gerald Huang member ID XHB884712093, group 0091. Plan denied coverage for Ozempic; appeal submitted.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "XHB884712093"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] [ID_2] [ID_1], group [ID_3]. Plan denied coverage for Ozempic; appeal submitted.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   532.6688289642334
+  ],
+  "total_s": 10.021399021148682,
+  "words_lost": [
+   "0091"
+  ],
+  "n_words": 14,
+  "reply_raw": "The patient ([PERSON_1], member ID [ID_2] [ID_1], group [ID_3]) was denied insurance coverage for Ozempic. An appeal has been submitted.",
+  "reply": "The patient (Gerald Huang, member ID member ID XHB884712093, group 0091) was denied insurance coverage for Ozempic. An appeal has been submitted.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ID_1]": "XHB884712093",
+   "[PERSON_1]": "Gerald Huang",
+   "[ID_2]": "member ID",
+   "[ID_3]": "0091"
+  }
+ },
+ {
+  "id": "L24",
+  "kind": "license-number",
+  "raw": "Gerald Huang needs DMV medical clearance form; driver license D4471029 (OR). Seizure-free for 8 months on levetiracetam.",
+  "must_go": [
+   "D4471029",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] needs DMV medical clearance form; driver license [ID_1] (OR). Seizure-free for 8 months on levetiracetam.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1239.1119003295898
+  ],
+  "total_s": 7.604825019836426,
+  "words_lost": [],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] needs a DMV medical clearance form completed for their driver license [ID_1] (OR). They have been seizure-free for 8 months on levetiracetam.",
+  "reply": "Gerald Huang needs a DMV medical clearance form completed for their driver license D4471029 (OR). They have been seizure-free for 8 months on levetiracetam.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ID_1]": "D4471029",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L25",
+  "kind": "fax",
+  "raw": "Records for Gerald Huang requested from outside clinic; fax to 503-555-0144 attn medical records.",
+  "must_go": [
+   "503-555-0144",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Records for [PERSON_1] requested from [PLACE_1]; [CONTACT_1] to [PHONE_1] attn medical records.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   431.3538074493408
+  ],
+  "total_s": 7.970155954360962,
+  "words_lost": [
+   "outside",
+   "fax"
+  ],
+  "n_words": 16,
+  "reply_raw": "Medical records for [PERSON_1] have been requested from [PLACE_1]. The request goes through [CONTACT_1] at [PHONE_1], attention medical records.",
+  "reply": "Medical records for Gerald Huang have been requested from outside clinic. The request goes through fax at 503-555-0144, attention medical records.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PHONE_1]": "503-555-0144",
+   "[PLACE_1]": "outside clinic",
+   "[PERSON_1]": "Gerald Huang",
+   "[CONTACT_1]": "fax"
+  }
+ },
+ {
+  "id": "L26",
+  "kind": "photo-ref",
+  "raw": "Wound photos of Gerald Huang's face uploaded to chart (IMG_4471.jpg, full-face, identifiable). Laceration healing well.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Laceration healing well.",
+  "final_left": [],
+  "flags": [
+   [
+    "unique"
+   ],
+   [
+    "unique"
+   ],
+   [
+    "unique"
+   ],
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "cut",
+  "cut": [
+   "Wound photos of [PERSON_1]'s face uploaded to chart ([ID_1], full-face, identifiable)."
+  ],
+  "cut_chars": 86,
+  "blocked": false,
+  "sage_ms": [
+   1192.1541690826416,
+   1383.8388919830322,
+   954.5907974243164,
+   608.4170341491699
+  ],
+  "total_s": 13.75517201423645,
+  "words_lost": [
+   "Wound",
+   "photos",
+   "face",
+   "face",
+   "uploaded",
+   "to",
+   "chart",
+   "IMG_4471",
+   "jpg",
+   "full",
+   "identifiable"
+  ],
+  "n_words": 18,
+  "reply_raw": "The laceration is healing well. The note doesn't say where it is, how it was treated, or what follow-up is planned.",
+  "reply": "The laceration is healing well. The note doesn't say where it is, how it was treated, or what follow-up is planned.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang",
+   "[ID_1]": "IMG_4471.jpg"
+  }
+ },
+ {
+  "id": "L27",
+  "kind": "date-of-death",
+  "raw": "Gerald Huang expired on 10/02/2026 at 03:14. Cause: septic shock secondary to perforated diverticulitis.",
+  "must_go": [
+   "10/02/2026",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] expired on [DATE_1] at 03:14. Cause: septic shock secondary to perforated diverticulitis.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   410.8152389526367
+  ],
+  "total_s": 6.3350300788879395,
+  "words_lost": [],
+  "n_words": 17,
+  "reply_raw": "[PERSON_1] died on [DATE_1] at 03:14. The cause of death was septic shock secondary to perforated diverticulitis.",
+  "reply": "Gerald Huang died on 10/02/2026 at 03:14. The cause of death was septic shock secondary to perforated diverticulitis.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "10/02/2026",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "L28",
+  "kind": "name-nickname",
+  "raw": "Gerald Huang (goes by 'Big Mike' at the shelter on 5th St) presents with cellulitis of the left leg. Started cephalexin.",
+  "must_go": [
+   "Big Mike",
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Big Mike",
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] (goes by '[PERSON_2]' at the shelter on [PLACE_1]) presents with cellulitis of the left leg. Started cephalexin.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   2149.714946746826
+  ],
+  "total_s": 6.5610997676849365,
+  "words_lost": [
+   "5th"
+  ],
+  "n_words": 21,
+  "reply_raw": "[PERSON_1], who goes by \"[PERSON_2]\" at the shelter on [PLACE_1], has cellulitis of the left leg. Cephalexin has been started.",
+  "reply": "Gerald Huang, who goes by \"Big Mike\" at the shelter on 5th St, has cellulitis of the left leg. Cephalexin has been started.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang",
+   "[PERSON_2]": "Big Mike",
+   "[PLACE_1]": "5th St"
+  }
+ },
+ {
+  "id": "C01",
+  "kind": "plain",
+  "raw": "Gerald Huang is a 54yo M with T2DM and HTN. his wife Linda Huang reports he has been skipping metformin doses. A1c 9.1. Plan: restart metformin 1000mg BID, f/u 11/03/2026.",
+  "must_go": [
+   "11/03/2026",
+   "Gerald",
+   "Huang",
+   "Linda"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang",
+   "Linda"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] is a 54yo M with T2DM and HTN. his wife [PERSON_2] reports he has been skipping metformin doses. A1c 9.1. Plan: restart metformin 1000mg BID, f/u [DATE_1].",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1077.0580768585205
+  ],
+  "total_s": 6.962410926818848,
+  "words_lost": [],
+  "n_words": 34,
+  "reply_raw": "[PERSON_1] is a 54-year-old man with type 2 diabetes and hypertension. His A1c is 9.1, and his wife [PERSON_2] reports he has been skipping metformin doses. The plan is to restart metformin 1000mg twice daily and follow up on [DATE_1].",
+  "reply": "Gerald Huang is a 54-year-old man with type 2 diabetes and hypertension. His A1c is 9.1, and his wife Linda Huang reports he has been skipping metformin doses. The plan is to restart metformin 1000mg twice daily and follow up on 11/03/2026.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "11/03/2026",
+   "[PERSON_1]": "Gerald Huang",
+   "[PERSON_2]": "Linda Huang"
+  }
+ },
+ {
+  "id": "C02",
+  "kind": "drug-names",
+  "raw": "Gerald Huang on lisinopril, atorvastatin, and Eliquis. Switched from Xarelto due to cost. BP 132/84.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] on lisinopril, atorvastatin, and Eliquis. Switched from Xarelto due to cost. BP 132/84.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   662.384033203125
+  ],
+  "total_s": 6.10431694984436,
+  "words_lost": [],
+  "n_words": 16,
+  "reply_raw": "[PERSON_1] takes lisinopril, atorvastatin, and Eliquis (apixaban). They were switched from Xarelto (rivaroxaban) because of cost. Their most recent BP is 132/84, which is mildly above goal.",
+  "reply": "Gerald Huang takes lisinopril, atorvastatin, and Eliquis (apixaban). They were switched from Xarelto (rivaroxaban) because of cost. Their most recent BP is 132/84, which is mildly above goal.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C03",
+  "kind": "eponyms",
+  "raw": "Gerald Huang has Parkinson's disease, Hashimoto's thyroiditis, and a history of Bell's palsy. Exam: positive Babinski on left.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] has Parkinson's disease, Hashimoto's thyroiditis, and a history of Bell's palsy. Exam: positive Babinski on left.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   477.59509086608887
+  ],
+  "total_s": 9.004240036010742,
+  "words_lost": [],
+  "n_words": 21,
+  "reply_raw": "[PERSON_1] has Parkinson's disease and Hashimoto's thyroiditis, with a past history of Bell's palsy. On exam, the left Babinski sign is positive, which is an upper motor neuron finding and not typical of Parkinson's alone, so it may need further workup.",
+  "reply": "Gerald Huang has Parkinson's disease and Hashimoto's thyroiditis, with a past history of Bell's palsy. On exam, the left Babinski sign is positive, which is an upper motor neuron finding and not typical of Parkinson's alone, so it may need further workup.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C04",
+  "kind": "provider-placeholder",
+  "raw": "Seen by Dr. Amy Feld in clinic. Gerald Huang reports improved sleep on trazodone. Referred to Dr. Raj Patel (sleep medicine).",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "Seen by [PERSON_2] in clinic. [PERSON_3] reports improved sleep on trazodone. Referred to [PERSON_1] (sleep medicine).",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   466.47024154663086
+  ],
+  "total_s": 5.0039286613464355,
+  "words_lost": [
+   "Amy",
+   "Feld",
+   "Raj",
+   "Patel"
+  ],
+  "n_words": 21,
+  "reply_raw": "[PERSON_2] saw [PERSON_3] in clinic, and [PERSON_3] reports better sleep on trazodone. [PERSON_3] was referred to [PERSON_1] in sleep medicine.",
+  "reply": "Dr. Amy Feld saw Gerald Huang in clinic, and Gerald Huang reports better sleep on trazodone. Gerald Huang was referred to Dr. Raj Patel in sleep medicine.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Dr. Raj Patel",
+   "[PERSON_2]": "Dr. Amy Feld",
+   "[PERSON_3]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C05",
+  "kind": "year-only",
+  "raw": "Gerald Huang was diagnosed with breast cancer in 2019, completed chemo in 2020. Now on tamoxifen. No recurrence.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] was diagnosed with breast cancer in 2019, completed chemo in 2020. Now on tamoxifen. No recurrence.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1451.0471820831299
+  ],
+  "total_s": 5.759663820266724,
+  "words_lost": [],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] was diagnosed with breast cancer in 2019 and finished chemotherapy in 2020. She is now on tamoxifen with no sign of recurrence.",
+  "reply": "Gerald Huang was diagnosed with breast cancer in 2019 and finished chemotherapy in 2020. She is now on tamoxifen with no sign of recurrence.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C06",
+  "kind": "age-under-90",
+  "raw": "Gerald Huang is an 88-year-old woman with CKD stage 3. Creatinine 1.6. Avoid NSAIDs.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] is an 88-year-old woman with CKD stage 3. Creatinine 1.6. Avoid NSAIDs.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   738.3432388305664
+  ],
+  "total_s": 5.470598936080933,
+  "words_lost": [],
+  "n_words": 17,
+  "reply_raw": "[PERSON_1] is an 88-year-old woman with stage 3 chronic kidney disease and a creatinine of 1.6. Avoid NSAIDs.",
+  "reply": "Gerald Huang is an 88-year-old woman with stage 3 chronic kidney disease and a creatinine of 1.6. Avoid NSAIDs.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C07",
+  "kind": "labs-numbers",
+  "raw": "Gerald Huang labs: Na 138, K 4.2, Cl 101, CO2 24, BUN 18, Cr 0.9, Glu 112. WBC 7.4, Hgb 13.1, Plt 245.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "final": "[PERSON_1] labs: Na 138, K 4.2, Cl 101, CO2 24, BUN 18, Cr 0.9, Glu 112. WBC 7.4, Hgb 13.1, Plt 245.",
+  "final_left": [],
+  "flags": [
+   [
+    "name",
+    "self"
+   ],
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1987.2381687164307,
+   515.1009559631348
+  ],
+  "total_s": 10.015651226043701,
+  "words_lost": [],
+  "n_words": 27,
+  "reply_raw": "[PERSON_1]'s basic metabolic panel is normal: Na 138, K 4.2, Cl 101, CO2 24, BUN 18, Cr 0.9, and glucose 112, which is slightly above the usual fasting range. The CBC is also normal: WBC 7.4, Hgb 13.1, and Plt 245.",
+  "reply": "Gerald Huang's basic metabolic panel is normal: Na 138, K 4.2, Cl 101, CO2 24, BUN 18, Cr 0.9, and glucose 112, which is slightly above the usual fasting range. The CBC is also normal: WBC 7.4, Hgb 13.1, and Plt 245.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C08",
+  "kind": "dosing-numbers",
+  "raw": "Gerald Huang: insulin glargine 22 units qHS, lispro 6-8 units with meals. Titrate glargine by 2 units q3d to FBG 80-130.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1]: insulin glargine 22 units qHS, lispro 6-8 units with meals. Titrate glargine by 2 units q3d to FBG 80-130.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   680.9537410736084
+  ],
+  "total_s": 4.330610036849976,
+  "words_lost": [],
+  "n_words": 23,
+  "reply_raw": "[PERSON_1] is on basal-bolus insulin: glargine 22 units at bedtime, plus lispro 6-8 units with meals. The glargine dose goes up by 2 units every 3 days, with a fasting glucose target of 80-130.",
+  "reply": "Gerald Huang is on basal-bolus insulin: glargine 22 units at bedtime, plus lispro 6-8 units with meals. The glargine dose goes up by 2 units every 3 days, with a fasting glucose target of 80-130.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C09",
+  "kind": "placeholders-everywhere",
+  "raw": "Gerald Huang (MRN 88214477) DOB 11/03/2026, phone 541-555-0119, lives at 88 Ridgeview Ln, Albany OR 97321. Emergency contact his wife Linda Huang at 541-555-0177.",
+  "must_go": [
+   "11/03/2026",
+   "541-555-0119",
+   "541-555-0177",
+   "88 Ridgeview",
+   "88214477",
+   "97321",
+   "Gerald",
+   "Huang",
+   "Linda"
+  ],
+  "regex_left": [
+   "88 Ridgeview",
+   "88214477",
+   "Gerald",
+   "Huang",
+   "Linda"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] ([ID_1]) DOB [DATE_1], phone [PHONE_1], lives at [PLACE_1], [PLACE_2] [ZIP_1]. Emergency contact his wife [PERSON_2] at [PHONE_2].",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   510.7581615447998
+  ],
+  "total_s": 8.70676589012146,
+  "words_lost": [
+   "Ln",
+   "Albany",
+   "OR"
+  ],
+  "n_words": 30,
+  "reply_raw": "The note has no clinical content. It gives only identifying and contact details for [PERSON_1] ([ID_1], DOB [DATE_1]): his phone [PHONE_1] and his home address ([PLACE_1], [PLACE_2] [ZIP_1]).\n\nHis emergency contact is his wife, [PERSON_2], at [PHONE_2]. The note lists no symptoms, history, medications, or reason for the visit, so please send the rest of it if you want a clinical summary.",
+  "reply": "The note has no clinical content. It gives only identifying and contact details for Gerald Huang (MRN 88214477, DOB 11/03/2026): his phone 541-555-0119 and his home address (88 Ridgeview Ln, Albany OR 97321).\n\nHis emergency contact is his wife, Linda Huang, at 541-555-0177. The note lists no symptoms, history, medications, or reason for the visit, so please send the rest of it if you want a clinical summary.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PHONE_1]": "541-555-0119",
+   "[PHONE_2]": "541-555-0177",
+   "[DATE_1]": "11/03/2026",
+   "[ZIP_1]": "97321",
+   "[PLACE_1]": "88 Ridgeview Ln",
+   "[PERSON_1]": "Gerald Huang",
+   "[ID_1]": "MRN 88214477",
+   "[PERSON_2]": "Linda Huang",
+   "[PLACE_2]": "Albany OR"
+  }
+ },
+ {
+  "id": "C10",
+  "kind": "state-only",
+  "raw": "Gerald Huang recently moved from Oregon to Texas and needs a new PCP. Transfer records requested from St. Vincent Medical Center.",
+  "must_go": [
+   "Gerald",
+   "Huang",
+   "St. Vincent"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang",
+   "St. Vincent"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] recently moved from [PLACE_2] to [PLACE_3] and needs a new PCP. Transfer records requested from [PLACE_1].",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1169.4388389587402
+  ],
+  "total_s": 7.705250024795532,
+  "words_lost": [
+   "Oregon",
+   "Texas"
+  ],
+  "n_words": 21,
+  "reply_raw": "[PERSON_1] recently moved from [PLACE_2] to [PLACE_3] and is looking for a new primary care physician. Transfer records have been requested from [PLACE_1].",
+  "reply": "Gerald Huang recently moved from Oregon to Texas and is looking for a new primary care physician. Transfer records have been requested from St. Vincent Medical Center.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PLACE_1]": "St. Vincent Medical Center",
+   "[PERSON_1]": "Gerald Huang",
+   "[PLACE_2]": "Oregon",
+   "[PLACE_3]": "Texas"
+  }
+ },
+ {
+  "id": "C11",
+  "kind": "relative-dates",
+  "raw": "Gerald Huang started having chest pain three days ago, worse with exertion. Troponin negative x2. Stress test scheduled next week.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] started having chest pain [DATE_1], worse with exertion. Troponin negative x2. Stress test scheduled [DATE_2].",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   593.5359001159668
+  ],
+  "total_s": 11.940630912780762,
+  "words_lost": [
+   "three",
+   "days",
+   "ago",
+   "next",
+   "week"
+  ],
+  "n_words": 20,
+  "reply_raw": "[PERSON_1] developed chest pain on [DATE_1] that gets worse with exertion, and two troponin tests have come back negative. A stress test is scheduled for [DATE_2].",
+  "reply": "Gerald Huang developed chest pain on three days ago that gets worse with exertion, and two troponin tests have come back negative. A stress test is scheduled for next week.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "three days ago",
+   "[PERSON_1]": "Gerald Huang",
+   "[DATE_2]": "next week"
+  }
+ },
+ {
+  "id": "C12",
+  "kind": "generic-job",
+  "raw": "Gerald Huang works in construction and reports chronic low back pain. No red flags. PT referral and NSAIDs.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "No red flags. PT referral and NSAIDs.",
+  "final_left": [],
+  "flags": [
+   [
+    "unique"
+   ],
+   [
+    "unique"
+   ],
+   [
+    "unique"
+   ],
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "cut",
+  "cut": [
+   "[PERSON_1] works in [EMPLOYER_1] and reports chronic low back pain."
+  ],
+  "cut_chars": 67,
+  "blocked": false,
+  "sage_ms": [
+   443.2799816131592,
+   393.24021339416504,
+   431.5938949584961,
+   393.726110458374
+  ],
+  "total_s": 13.289712190628052,
+  "words_lost": [
+   "works",
+   "construction",
+   "reports",
+   "chronic",
+   "low",
+   "back",
+   "pain"
+  ],
+  "n_words": 18,
+  "reply_raw": "The note documents no red-flag findings on assessment. The plan is a physical therapy referral and NSAIDs for symptom management.",
+  "reply": "The note documents no red-flag findings on assessment. The plan is a physical therapy referral and NSAIDs for symptom management.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang",
+   "[EMPLOYER_1]": "construction"
+  }
+ },
+ {
+  "id": "C13",
+  "kind": "brand-like-name",
+  "raw": "Gerald Huang uses a Dexcom G7 CGM and Omnipod 5 pump. Time in range 72%. No hypoglycemia.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] uses a Dexcom G7 CGM and Omnipod 5 pump. Time in range 72%. No hypoglycemia.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   402.972936630249
+  ],
+  "total_s": 6.415103197097778,
+  "words_lost": [],
+  "n_words": 17,
+  "reply_raw": "[PERSON_1] manages diabetes with a Dexcom G7 CGM and an Omnipod 5 pump. Time in range is 72%, and there is no hypoglycemia.",
+  "reply": "Gerald Huang manages diabetes with a Dexcom G7 CGM and an Omnipod 5 pump. Time in range is 72%, and there is no hypoglycemia.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C14",
+  "kind": "score-names",
+  "raw": "Gerald Huang: Glasgow Coma Scale 15, Wells score 1.5, CHA2DS2-VASc 3. Apgar n/a. Started apixaban.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1]: Glasgow Coma Scale 15, Wells score 1.5, [ID_1][ID_2] 3. Apgar n/a. Started apixaban.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   1586.9760513305664
+  ],
+  "total_s": 8.190523147583008,
+  "words_lost": [
+   "CHA2DS2",
+   "VASc"
+  ],
+  "n_words": 18,
+  "reply_raw": "Patient is alert and fully oriented (GCS 15) with a low-to-moderate Wells score of 1.5, and Apgar is not applicable. Apixaban was started, and one scored value (3) is partly garbled in the note, so please check it against the original chart.",
+  "reply": "Patient is alert and fully oriented (GCS 15) with a low-to-moderate Wells score of 1.5, and Apgar is not applicable. Apixaban was started, and one scored value (3) is partly garbled in the note, so please check it against the original chart.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ID_1]": "CHA2DS2-",
+   "[PERSON_1]": "Gerald Huang",
+   "[ID_2]": "VASc"
+  }
+ },
+ {
+  "id": "C15",
+  "kind": "common-words",
+  "raw": "Gerald Huang expressed hope that she will be well enough to garden this spring. Mood brighter. Continue sertraline.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] expressed hope that she will be well enough to garden this spring. Mood brighter. Continue sertraline.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   926.1612892150879
+  ],
+  "total_s": 5.580678939819336,
+  "words_lost": [],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] said she hopes to be well enough to garden this spring, and her mood is brighter. Continue sertraline.",
+  "reply": "Gerald Huang said she hopes to be well enough to garden this spring, and her mood is brighter. Continue sertraline.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C16",
+  "kind": "hospital-generic",
+  "raw": "Gerald Huang transferred from the ED to the ICU for BiPAP. ABG 7.28/62/58. Pulmonology consulted.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] transferred from the ED to the ICU for BiPAP. ABG 7.[DATE_1]. Pulmonology consulted.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   2177.2453784942627
+  ],
+  "total_s": 7.703776836395264,
+  "words_lost": [
+   "28",
+   "62",
+   "58"
+  ],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] was moved from the ED to the ICU for BiPAP, and pulmonology has been consulted. The ABG was 7.[DATE_1], but the note's value is garbled, so please check the full pH in the chart.",
+  "reply": "Gerald Huang was moved from the ED to the ICU for BiPAP, and pulmonology has been consulted. The ABG was 7.28/62/58, but the note's value is garbled, so please check the full pH in the chart.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[DATE_1]": "28/62/58",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C17",
+  "kind": "study-ids",
+  "raw": "Gerald Huang eligible for trial NCT04368728 (phase 3 GLP-1). Consent discussed; Gerald Huang will think about it.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] eligible for trial [ID_1] (phase 3 GLP-1). Consent discussed; [PERSON_1] will think about it.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   820.7089900970459
+  ],
+  "total_s": 6.223711967468262,
+  "words_lost": [
+   "NCT04368728"
+  ],
+  "n_words": 18,
+  "reply_raw": "[PERSON_1] is eligible for trial [ID_1], a phase 3 GLP-1 study. Consent was discussed, and [PERSON_1] will think about it and hasn't decided yet.",
+  "reply": "Gerald Huang is eligible for trial NCT04368728, a phase 3 GLP-1 study. Consent was discussed, and Gerald Huang will think about it and hasn't decided yet.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ID_1]": "NCT04368728",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C18",
+  "kind": "vitals-times",
+  "raw": "Gerald Huang vitals at 08:00: T 37.2, HR 88, RR 16, BP 118/76, SpO2 97% RA. At 14:00 HR 102 after ambulation.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] vitals at [DATE_1]: T 37.2, HR 88, RR 16, BP 118/76, SpO2 97% RA. At [DATE_2] HR 102 after ambulation.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   428.7278652191162
+  ],
+  "total_s": 4.47911810874939,
+  "words_lost": [
+   "08",
+   "00",
+   "00",
+   "14"
+  ],
+  "n_words": 26,
+  "reply_raw": "[PERSON_1] was stable at [DATE_1], with T 37.2, HR 88, RR 16, BP 118/76 and SpO2 97% on room air. At [DATE_2], HR rose to 102 after walking, which is mild tachycardia on exertion.",
+  "reply": "Gerald Huang was stable at 08:00, with T 37.2, HR 88, RR 16, BP 118/76 and SpO2 97% on room air. At 14:00, HR rose to 102 after walking, which is mild tachycardia on exertion.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang",
+   "[DATE_1]": "08:00",
+   "[DATE_2]": "14:00"
+  }
+ },
+ {
+  "id": "C19",
+  "kind": "icd-codes",
+  "raw": "Gerald Huang dx: E11.65 (T2DM w/ hyperglycemia), I10 (HTN), Z79.4 (long-term insulin). CPT 99214.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] dx: E11.65 (T2DM w/ hyperglycemia), I10 (HTN), Z79.4 (long-term insulin). CPT [ZIP_1].",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   400.12335777282715
+  ],
+  "total_s": 6.725143909454346,
+  "words_lost": [
+   "99214"
+  ],
+  "n_words": 17,
+  "reply_raw": "[PERSON_1] has type 2 diabetes with hyperglycemia (E11.65) and hypertension (I10), and is on long-term insulin therapy (Z79.4). The note lists a billing code ([ZIP_1]), but it has no vitals, labs, or plan, so I can't say more about control or next steps.",
+  "reply": "Gerald Huang has type 2 diabetes with hyperglycemia (E11.65) and hypertension (I10), and is on long-term insulin therapy (Z79.4). The note lists a billing code (99214), but it has no vitals, labs, or plan, so I can't say more about control or next steps.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[ZIP_1]": "99214",
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C20",
+  "kind": "quote-no-pii",
+  "raw": "Gerald Huang states: \"I just want to be able to walk my dog again without my knee giving out.\" Ortho referral placed.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] states: \"I just want to be able to walk my dog again without my knee giving out.\" Ortho referral placed.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   686.8841648101807
+  ],
+  "total_s": 3.8809258937835693,
+  "words_lost": [],
+  "n_words": 22,
+  "reply_raw": "[PERSON_1] reports knee instability (\"giving out\") that limits a basic goal: walking their dog. An orthopedic referral has been placed.",
+  "reply": "Gerald Huang reports knee instability (\"giving out\") that limits a basic goal: walking their dog. An orthopedic referral has been placed.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ },
+ {
+  "id": "C21",
+  "kind": "famous-name-not-patient",
+  "raw": "Gerald Huang read about Lou Gehrig's disease online and is worried about her muscle twitching. EMG normal. Reassured.",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1] read about [PERSON_2] disease online and is worried about her muscle twitching. EMG normal. Reassured.",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   437.3140335083008
+  ],
+  "total_s": 3.7275819778442383,
+  "words_lost": [
+   "Lou",
+   "Gehrig"
+  ],
+  "n_words": 19,
+  "reply_raw": "[PERSON_1] became worried about her muscle twitching after reading online about [PERSON_2] disease. EMG was normal, and she was reassured.",
+  "reply": "Gerald Huang became worried about her muscle twitching after reading online about Lou Gehrig's disease. EMG was normal, and she was reassured.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang",
+   "[PERSON_2]": "Lou Gehrig's"
+  }
+ },
+ {
+  "id": "C22",
+  "kind": "rx-numbers",
+  "raw": "Gerald Huang: amoxicillin 875mg PO BID x 10 days, #20, 0 refills. Allergy: sulfa (rash).",
+  "must_go": [
+   "Gerald",
+   "Huang"
+  ],
+  "regex_left": [
+   "Gerald",
+   "Huang"
+  ],
+  "pass1_left": [],
+  "final": "[PERSON_1]: amoxicillin 875mg PO BID x 10 days, #20, 0 refills. Allergy: sulfa (rash).",
+  "final_left": [],
+  "flags": [
+   []
+  ],
+  "scrubbed": false,
+  "outcome": "sent",
+  "cut": [],
+  "cut_chars": 0,
+  "blocked": false,
+  "sage_ms": [
+   392.7123546600342
+  ],
+  "total_s": 3.4293277263641357,
+  "words_lost": [],
+  "n_words": 15,
+  "reply_raw": "[PERSON_1] was prescribed amoxicillin 875 mg by mouth twice daily for 10 days (20 tablets, no refills). The patient has a sulfa allergy that causes a rash.",
+  "reply": "Gerald Huang was prescribed amoxicillin 875 mg by mouth twice daily for 10 days (20 tablets, no refills). The patient has a sulfa allergy that causes a rash.",
+  "unknown_placeholders": [],
+  "mangled": [],
+  "map": {
+   "[PERSON_1]": "Gerald Huang"
+  }
+ }
+]
