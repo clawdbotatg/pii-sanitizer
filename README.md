@@ -26,15 +26,17 @@ with real names restored, and an exit check you can trust. "Trust" means
 measured recall on standard medical de-identification datasets, not just our
 own test notes.
 
-## Where it stands (2026-10-26)
+## Where it stands (2026-10-27)
 
 Working prototype, no human in the loop, real Claude as the frontier model.
 
-- **ASQ-PHI (1,051 public test notes):** nothing that identifies a person went
-  out. What got through was a year alone, a state, or "last week" (all allowed
-  under Safe Harbor). 4% of notes went to the private model instead; all of
-  them were actually clean. Claude kept every placeholder intact. `RESULTS.md`
-  Result 4.
+- **Attack chats** (messages people type to a chatbot, written by Claude to
+  beat us): each fresh round of ~210 finds 1 to 4 leaks, and each one gets
+  fixed. Not zero yet. `RESULTS.md` Result 5.
+- **Sage alone** catches 99% of single leftover identifiers in ~1 s: every
+  name, place and ID number; dates are its weak spot, so regex owns dates.
+- **ASQ-PHI (1,051 public test notes):** nothing identifying went out. 3% go
+  to the private model. Claude kept every placeholder intact.
 - **Every existing open-source tool we tried leaked more or wrecked more
   clinical text.** `research/TOOLS-BENCH.md`. Nobody else ships a separate exit
   check with no human: `research/PRIOR-ART.md`.
@@ -60,12 +62,13 @@ Policy (2026-10-26): Safe Harbor plus doctor names and hospital names. Months
 and holidays of a patient event count as dates. A year alone, a state, and ages
 under 90 stay.
 
-1. Test on real notes (n2c2 2014, PhysioNet). Needs a data-use agreement.
+1. Keep running fresh attack rounds (`redteam.py gen`) until one comes back
+   clean. Add a second attacker model so Claude's blind spots show up.
 2. Ask Levanto/NEAR whether they will sign a BAA. The TEE alone doesn't cover
    it, and the private-model fallback needs one.
-3. Wrap it as a proxy with an OpenAI/Anthropic-compatible API.
-4. Cut remaining over-redaction: 66 of 219 clean ASQ-PHI notes still lose a
-   word (eponyms like Chaddock, "last month").
+3. Wrap it as a proxy with an OpenAI/Anthropic-compatible API. One vault per
+   conversation, so [PERSON_1] means the same person in every turn.
+4. Cut over-redaction: 89 of 219 clean ASQ-PHI notes still lose a word.
 
 ## Files
 
@@ -73,6 +76,10 @@ under 90 stay.
   cut sentences or go private → send → restore.
 - `frontier.py` — the frontier call (Claude CLI, Anthropic, any OpenAI-compatible API, ollama).
 - `asq_cases.py` — ASQ-PHI loader (download it first, see the file).
+- `redteam.py` — attack chats written by a frontier model, with answer keys
+  (`data/redteam/`); `judge.py` sorts real leaks from word-match noise.
+- `sage_leak_bench.py` — Sage alone on single leftover identifiers.
+- `gretel_cases.py` — Gretel PII masking health docs (Apache 2.0; download, see the file).
 - `tools_bench/` — the existing-tools comparison.
 - `bench.py`, `cases.py` — different ways of asking Sage, compared on sanitized notes.
 - `raw_cases.py` — raw fake notes with the answers, for `pipeline.py`.

@@ -59,15 +59,17 @@ TAGS = [
     {"id": "name", "name": "name: a name, nickname or initials used to refer to the "
      "patient, a relative or another private person; not a [PLACEHOLDER]; not a disease, "
      "sign, procedure, drug or famous person merely mentioned"},
-    {"id": "date", "name": "date: a calendar date with day/month, or an age over 89; a year alone is fine"},
+    {"id": "date", "name": "date: any written date or month tied to the patient (07/15/2022, Jan 10, "
+     "November 2022, last December, Christmas), or an age over 89; a year alone, or 'last week', is fine"},
     {"id": "contact", "name": "contact: phone, fax, email, URL or IP address"},
     {"id": "number", "name": "number: SSN, MRN, account, member, license, plate or device serial"},
     {"id": "place", "name": "place: street address, ZIP, town/city, or a hospital or clinic "
      "name or abbreviation; a state alone is fine"},
-    {"id": "unique", "name": "unique: employer, specific role, or photo that singles the patient out"},
+    {"id": "unique", "name": "unique: employer, a public or one-of-a-kind role (mayor, only X in town), "
+     "a named event or disaster they were in, a named pet, a tattoo, or photo that singles the person out"},
     # Without this, "Patient Selena Gomez (no relation)" buried in a long note scored 0.001.
-    {"id": "self", "name": "self: the patient's own name written out as who the patient is "
-     "(after 'Patient', 'Pt', 'Mr.', 'Ms.'), even if a celebrity has the same name"},
+    {"id": "self", "name": "self: the patient's or writer's own name written out as who they are "
+     "(after 'Patient', 'Pt', 'Mr.', 'Ms.', 'I'm', 'my name is', or as a sign-off), even if a celebrity has the same name"},
 ]
 
 
